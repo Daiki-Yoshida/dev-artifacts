@@ -6,13 +6,13 @@
 
 本体系が扱うのは、**主体が新たな意味あるまとまりや相互作用を見出し、定義し、成立させる営み**である。既に存在している物理現象そのものの成立条件を説明するものではない。まとまり・定義・命名・契約・主体・欲求・責務・内部自由・境界面理論・再定義を、この営みに共通する普遍階層で論じる。
 
-ここでの**仮想**とは、物理的に未完成の設計や、実現方法がまだ決まっていないものを指すのではない。主体がある存在について思考・言及するとき、直接扱うのは実体そのものではなく、認識において捉えられた内容である、という出発点を含む。この区別は、現実の実体や直接の体験が存在しないことを意味しない。ここで扱うのは、実体が存在するかどうかではなく、主体がそれについて思考・言及するときに何を対象として扱っているかである。したがって、本体系の説明は、実体と認識のどちらか一方を消去するものではなく、実体への直接の関わりと、認識を介して情報として扱うことを区別する。
+ここでの**仮想**とは、主体の中だけに存在するものを指す。主体が存在Pを認識の撮影によって捉えるとき、その行為は最初から命名・契約を伴い、主体にとっての情報Pというまとまりを成立させる。撮影は不完全・誤り得るものであり、実体を100%完全に表現することを保証しないが、そのことは情報Pや命名・契約の成立を否定しない。主体の中にある情報Pや契約は仮想である一方、紙に記された文書やPC上に保存されたデータは、主体の外部に記録された実体である。外部記録と主体内の契約・情報Pを同一視しない。実体に直接触れたり体感したりすることは否定せず、実体を認識の撮影によってまとまりとして定義する行為と区別する。詳細はD1.1およびD4.2で扱う。
 
 **本体系は開発哲学全体と同義ではない。** Ownerの開発哲学には、AON・記録・環境の潔癖など、契約境界とは別に論じる思想もある。これらの思想の定義・分類・相互関係はここでは確定せず、まず契約境界哲学体系をほぼ完成できる状態へ整えてから扱う。法律や組織などの例は、契約境界哲学体系の普遍的な適用範囲を説明するものであり、特定の制度の解説ではない。
 
-初稿の根拠は `refactor/dev-artifacts-restructure` の `a9c249c10b34e1ae5e9ee4bf220c26db9667359c` にある関連対話7件。後続の検討・承認も含めた出典コードS01〜S17はレビュー資料の [出典一覧](A3_PHILOSOPHY_REVIEW.md#sources) を参照する。D番号は草案の箇所を指定するためのIDであり、原則の優先順位ではない。
+初稿の根拠は `refactor/dev-artifacts-restructure` の `a9c249c10b34e1ae5e9ee4bf220c26db9667359c` にある関連対話7件。後続の検討・承認も含めた出典コードS01〜S20はレビュー資料の [出典一覧](A3_PHILOSOPHY_REVIEW.md#sources) を参照する。D番号は草案の箇所を指定するためのIDであり、原則の優先順位ではない。
 
-本体系の名称と検討順序は[Ownerの範囲・順序の判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に基づく。先行する導出案は[導出検討と更新依頼のrecord](../../../knowledge/records/2026-11-13-philosophy-question-derivations/RECORD.md) に基づき、該当節へ記述した。さらに[別チャット由来の本質論・対象範囲の対話記録](../../../knowledge/records/2026-11-13-development-philosophy-essence-dialogue-import/RECORD.md)を踏まえ、本体系の対象と本質の帰属先を明示した。原文とAssistantの解釈は[対応表](A3_PHILOSOPHY_REVIEW.md#traceability)で区別する。これらの草案化はOwnerによる全文の正式承認ではない。今回の「仮想」と認識・情報化・実体験に関する対話の[原文とAssistant応答](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/RECORD.md)を追加の根拠とし、用語と射程の未決事項は[レビュー資料](A3_PHILOSOPHY_REVIEW.md)に残す。
+本体系の名称と検討順序は[Ownerの範囲・順序の判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に基づく。先行する導出案は[導出検討と更新依頼のrecord](../../../knowledge/records/2026-11-13-philosophy-question-derivations/RECORD.md) に基づき、該当節へ記述した。さらに[別チャット由来の本質論・対象範囲の対話記録](../../../knowledge/records/2026-11-13-development-philosophy-essence-dialogue-import/RECORD.md)を踏まえ、本体系の対象と本質の帰属先を明示した。原文とAssistantの解釈は[対応表](A3_PHILOSOPHY_REVIEW.md#traceability)で区別する。これらの草案化はOwnerによる全文の正式承認ではない。今回の「仮想」と認識・情報化・実体験に関する対話の[原文とAssistant応答](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/RECORD.md)に加え、認識の撮影・主体内の仮想・契約と実体の普遍性に関する[後続のOwner原文とAssistant応答](../../../knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/RECORD.md)を追加の根拠とし、用語と射程の説明を更新した。出典と編集判断は[レビュー資料](A3_PHILOSOPHY_REVIEW.md)で区別する。
 
 ## 全体構成
 
