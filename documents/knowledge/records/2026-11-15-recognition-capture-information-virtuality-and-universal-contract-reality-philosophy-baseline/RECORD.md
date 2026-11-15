@@ -14,11 +14,10 @@ scope: "認識の撮影が最初から不完全な命名・契約を伴うこと
 | Event | Source | 内容 | Fidelity |
 |---|---|---|---|
 | U1 | [USER_MESSAGES.md#u1](USER_MESSAGES.md#u1) | 認識の撮影は最初から不完全な命名・契約を行い、情報Pを成立させるという説明 | 可視会話のOwnerメッセージ全文を手動転記。原本message ID・厳密な時刻・byte-level照合は未確認 |
-| A1 | [USER_MESSAGES.md#a1](USER_MESSAGES.md#a1) | 仮想とは主体の中だけにあること。外部媒体に記録されたものは実体を持つこと | 同上 |
-| U2 | [USER_MESSAGES.md#u2](USER_MESSAGES.md#u2) | 対応する実体が存在しなくても契約は成立し得ること | 同上 |
-| U3 | [USER_MESSAGES.md#u3](USER_MESSAGES.md#u3) | 契約と実体の関係を開発対象に限定しないこと | 同上 |
-| U4 | [USER_MESSAGES.md#u4](USER_MESSAGES.md#u4) | 認識の撮影は不完全・誤り得て、100%完全な表現を保証しないこと | 同上 |
-| A2 | [ASSISTANT_MESSAGES.md#a2](ASSISTANT_MESSAGES.md#a2) | U1〜U4を統合したAssistantの理解整理 | 可視会話のAssistant応答を手動転記。Ownerの採用判断を意味しない |
+| U2 | [USER_MESSAGES.md#u2](USER_MESSAGES.md#u2) | 仮想とは主体の中だけにあること。外部媒体に記録されたものは実体を持つこと | 可視会話のOwnerメッセージ全文を手動転記。原本message ID・厳密な時刻・byte-level照合は未確認 |
+| U3 | [USER_MESSAGES.md#u3](USER_MESSAGES.md#u3) | 対応する実体が存在しなくても契約は成立し得ること | 可視会話のOwnerメッセージ全文を手動転記。原本message ID・厳密な時刻・byte-level照合は未確認 |
+| U4 | [USER_MESSAGES.md#u4](USER_MESSAGES.md#u4) | 契約と実体の関係を開発対象に限定しないこと、および認識の撮影が不完全・誤り得ること | 可視会話のOwnerメッセージ全文を手動転記。原本message ID・厳密な時刻・byte-level照合は未確認 |
+| A1 | [ASSISTANT_MESSAGES.md#a1](ASSISTANT_MESSAGES.md#a1) | U1〜U4に対するAssistantの統合整理 | 可視会話のAssistant応答を手動で再掲用に整えた本文。完全な逐語転記・byte-level一致は未確認。Ownerの採用判断を意味しない |
 
 ※Owner原文の見出しA1〜A5は、ユーザーが付した論点番号である。record内では転記イベントIDをU1〜U4に整理し、見出し本文は保持する。
 
@@ -42,7 +41,7 @@ scope: "認識の撮影が最初から不完全な命名・契約を伴うこと
 
 ## Assistant応答の位置づけ
 
-A2はU1〜U4に対するAssistantの統合整理である。Ownerの発言を理解しようとした説明・推論を保存するが、Ownerの原文や正式採用された定義とは区別する。A2中の例示・接続表現はAssistantによる説明であり、Ownerが承認した新規命題として扱わない。
+A1はU1〜U4に対するAssistantの統合整理である。会話中のAssistant応答の内容を再掲用に整えたものであり、完全な逐語転記ではない。Ownerの発言を理解しようとした説明・推論を保存するが、Ownerの原文や正式採用された定義とは区別する。A1中の例示・接続表現はAssistantによる説明であり、Ownerが承認した新規命題として扱わない。
 
 ## 既存records・草案との関係
 
@@ -55,4 +54,4 @@ A2はU1〜U4に対するAssistantの統合整理である。Ownerの発言を理
 
 ## 保存上の注意
 
-このrecordはOwner発言とAssistant応答を分けて保存する。Owner発言のA1〜A5はU1〜U4の4メッセージに対応する。Assistant応答は、直前の統合整理をA2として保存する。さらに前段の誤解を含むAssistant発言は、先行recordのAssistant_MESSAGES.mdに保存されている。過去のAssistant説明を現在の定義として遡及的に扱わない。
+このrecordはOwner発言とAssistant応答を分けて保存する。Owner発言のA1〜A5はU1〜U4の4メッセージに対応する。Assistant応答は、直前の統合整理をA1として保存する。さらに前段の誤解を含むAssistant発言は、先行recordのAssistant_MESSAGES.mdに保存されている。過去のAssistant説明を現在の定義として遡及的に扱わない。
