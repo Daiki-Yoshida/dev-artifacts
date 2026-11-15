@@ -4,7 +4,7 @@
 
 ## 位置づけ
 
-2026-11-11にOwner自身が直接哲学を議論した**5つの独立record**に、2026-11-12の**継続対話1件**、2026-11-13の**継続対話3件**、2026-11-14の**継続対話3件**と2026-11-15の**継続対話1件**を加えた計**13件**を、先行する記録と照合しながら開発哲学を再構築するための重要な基準点として識別する。後続の対話により改善・訂正・置換できる。
+2026-11-11にOwner自身が直接哲学を議論した**5つの独立record**に、2026-11-12の**継続対話1件**、2026-11-13の**継続対話3件**、2026-11-14の**継続対話3件**と2026-11-15の**継続対話2件**を加えた計**14件**を、先行する記録と照合しながら開発哲学を再構築するための重要な基準点として識別する。後続の対話により改善・訂正・置換できる。
 
 - `-philosophy-baseline` の接尾辞は、議論の重要性・当面の参照順を示す**発見の手掛かり**。 `record_kind`、`decision_lineage`、`current`、`supersedes` 等の意味上の状態ではない。
 - これらの**Ownerの原文**を優先的に把握する。AIの提案や推論を同格に扱わない。
@@ -32,6 +32,7 @@
 | 仮想の根源・欲求＝本質、認識と真実／実体、実体験と情報化 | —（2026-11-14新規対話record） | [`2026-11-14-recognition-information-and-virtuality-philosophy-baseline/`](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/RECORD.md) — [Owner発言5件](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/USER_MESSAGES.md) / [Assistant応答4件](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/ASSISTANT_MESSAGES.md)。認識＝情報と仮想の語の扱いはまだ検討中 |
 | 契約成立における合意と具体的成立の責務境界 | —（2026-11-14新規対話record） | [`2026-11-14-agreement-and-concrete-formation-philosophy-baseline/`](../../../knowledge/records/2026-11-14-agreement-and-concrete-formation-philosophy-baseline/RECORD.md) — [Owner発言1件](../../../knowledge/records/2026-11-14-agreement-and-concrete-formation-philosophy-baseline/USER_MESSAGES.md)。合意の具体的形成・公布・規格・仕様等は具象の領域に結びつく |
 | 命名＝契約＝境界：Aの定義はNotAと境界を同時に定める | —（2026-11-15新規対話record） | [`2026-11-15-naming-contract-boundary-equivalence-philosophy-baseline/`](../../../knowledge/records/2026-11-15-naming-contract-boundary-equivalence-philosophy-baseline/RECORD.md) — [Owner発言1件](../../../knowledge/records/2026-11-15-naming-contract-boundary-equivalence-philosophy-baseline/USER_MESSAGES.md) / [Assistant応答1件](../../../knowledge/records/2026-11-15-naming-contract-boundary-equivalence-philosophy-baseline/ASSISTANT_MESSAGES.md)。Aを定義することがA／NotAの差異と境界を同時に成立させる論理 |
+| 認識の撮影・主体内の仮想・契約と実体の普遍性 | —（2026-11-15新規対話record） | [`2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/`](../../../knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/RECORD.md) — [Owner発言4件](../../../knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/USER_MESSAGES.md) / [Assistant応答1件](../../../knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/ASSISTANT_MESSAGES.md)。認識の撮影は最初から不完全な命名・契約を伴い、仮想は主体内にあり、契約と実体の関係はあらゆる存在に普遍的に適用される |
 
 ## 同じ日付でも対象としないもの
 
