@@ -47,14 +47,14 @@
 
 ## A-3：真実・原本・解釈・記録の哲学（仮称）
 
-契約境界哲学体系とは別の思想群として、[Ownerの範囲・順序判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に基づき新設した領域。2026-11-19時点で、既存Owner原文から初回の一続きの本文草案へ文章化済み。Ownerによる本文の意味確認・体系名や構成の採否判断はこれから。
+契約境界哲学体系とは別の思想群として、[Ownerの範囲・順序判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に基づき新設した領域。2026-11-19時点で、既存Owner原文から初回の一続きの本文草案へ文章化し、さらに同日のOwner発言に基づき、契約境界哲学の主体・仮想・実体・時間変化との接続を追加した。Ownerによる今回の編集文面の意味確認・体系名や構成の採否判断はこれから。
 
 | 成果物 | 用途 |
 | --- | --- |
-| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 真実・原本・解釈・記録の初回文章草案。Owner原文U1〜U10をつなげた未承認のAssistant整理であり、体系名・章構成・哲学としての独立性は未確定 |
-| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 原文U1〜U11と本文の対応、Assistant整理の範囲、未決論点、Owner確認待ちの状態を管理する資料 |
+| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 真実・原本・解釈・記録の文章草案。Owner原文U1〜U10と11/19の記録・主体変化に関する発言を、契約境界のD1.1/D2.1/D4.2の定義を参照して接続。Assistant編集案は未承認 |
+| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 原文・今回の追加Owner発言と本文の対応、Assistant補足の範囲、未決論点、Owner確認待ちの状態を管理する資料 |
 
-**今回の進行根拠：** [2026-11-19のOwner依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)に従い、既存文書・recordsを先に照合して軽量な文章化から始めた。文章化したことは本文の承認を意味しない。
+**今回の進行根拠：** [2026-11-19のOwner依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)に従い、既存文書・recordsを先に照合して軽量な文章化から始めた。さらに[記録の実体化と主体の時間変化に関する追加Owner原文](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)を独立して保存し、契約境界哲学を再定義せず真実・記録草案から参照する。これらは本文の正式承認を意味しない。
 
 **契約境界との関係：** 領分が重ならない別領域として独立して編集する。AON原則（採用済み）と本領域の従属・並列関係は未確定。NALは既存の目的指向の文脈構成として採用済みだが、哲学層との接続は本領域の吟味対象。環境の潔癖は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
 
