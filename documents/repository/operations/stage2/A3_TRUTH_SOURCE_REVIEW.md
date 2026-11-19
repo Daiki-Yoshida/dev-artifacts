@@ -1,8 +1,8 @@
-# 真実・原本・解釈・記録の哲学（仮称）— レビュー・出典資料
+# 真実と記録の哲学 — レビュー・出典資料
 
 **状態：Stage 2-A-3、契約境界哲学への依存を前提に、主体としての記録・逐次記録・活動の再現と再開まで反映済み・Owner本文未承認。** [編集用草案](A3_TRUTH_SOURCE_DRAFT.md)と原文の対応、Assistantの導出・発展案、現在の吟味対象を管理する。草案の別版や正式なDev-Philosophyの正本ではない。
 
-検討対象は、真実・原本・解釈・誤情報の重さ、主体と活動の記録、探索・保存・再現・再開・伝達に関する思想。契約境界哲学体系、AON、環境の潔癖をここで再制定しない。正式な体系名・構成、NALとの哲学的な関係は未確定である。
+検討対象は、真実・原本・解釈・誤情報の重さ、主体と活動の記録、探索・保存・再現・再開・伝達に関する思想。契約と境界の哲学、AON、環境の潔癖をここで再制定しない。今回の二つの表示名の更新と、正式な体系構成・他思想との配置・NALとの関係は別の判断である。
 
 <a id="sources"></a>
 ## 出典一覧
@@ -19,6 +19,7 @@
 | S08 | [2026-11-20取り込み：主体・逐次記録・再現と再開の対話](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)・[Assistant検討回答全文](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/ASSISTANT_REVIEW.md) | Owner U1のWork・Record・GitHub主義への接続の問いと追加の意味、Assistant A1の分析・追記案、Owner U2の更新・記録依頼をU1→A1→U2として保存 |
 | S09 | [Work Records提案のOwner原文](../../../knowledge/records/2026-10-13-work-records-proposal/USER_MESSAGES.md)、既存mainの[Work Identity](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/work-identity/S001_IDENTITY_MODEL.md)・[Work Documents](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/work-identity/S003_WORK_DOCUMENTS.md)・[開発実行モデル](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/development-execution/S001_EXECUTION_MODEL.md) | 作業目的の同一性、軽量な逐次記録、共通の参照先、実行の再現性を扱う既存実現例。参照版を固定し、新体系の方法論としての再採用とは区別 |
 | S10 | 既存mainの[FormatとGit](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/documentation/S005_FORMAT_AND_GIT.md) | S08 A1が指摘した「なぜはdiffが示す」の修正対象を確認。変更差分と主体の判断理由の関係をL05で方法論へ引き継ぐ |
+| S11 | [2026-11-20 哲学の名称をそろえるOwner原文](../../../knowledge/records/2026-11-20-philosophy-name-pairing/RECORD.md) | 「真実と記録の哲学」という名称の選定、「契約と教会」という原文表記と「境界」へのAssistant補正、基礎に関する検討表現を区別 |
 
 原文recordsは編集せず、後続判断を既存の閉じたsource bundleへ継ぎ足さない。
 
@@ -130,16 +131,23 @@ S10の「Gitコミットメッセージ規約」には、「説明は簡潔に�
 
 修正の方向は、「変更内容はdiff等で確かめ、判断理由はcommit本文・Work Records・設計記録などに残して、変更との対応を辿れるようにする」とする。対象文書は再編ブランチでは未構築の旧subjectsに属するため、今回の追跡先は本L05とIssue #223とし、固定した既存mainの原文を参照する。過去のsourceを現在の評価へ合わせて書き換えない。
 
+<a id="l06"></a>
+### L06：二つの哲学を「○○と○○の哲学」に統一（2026-11-20）
+
+[S11](#sources)に基づき、草案の名称を「真実と記録の哲学」に更新した。参照先も現在の表示名「契約と境界の哲学」を使う。Owner原文では前者を明示しており、後者の「教会」はAssistantが境界の誤変換と判断した**補正案**である。原文recordは訂正せずに残す。
+
+これまでのL01〜L05の「仮称」「体系名未確定」等は、それぞれの当時のレビュー状態を記述しており改変しない。今回確定したのは、二つの思想の表示名をそろえて草案へ反映する方向であり、本文の最終制定、節構成、AON/NALとの配置、全哲学の上下関係を決定したことにはならない。「一番基礎かも」は暫定的な見解として保存する。
+
 <a id="review-status"></a>
 ## 現在のレビュー状態
 
-**契約境界哲学への依存を前提に、主体としての記録・逐次記録・活動の再現と再開を6節の草案へ反映済み。本文全体・体系名・正式な章構成の最終承認はない。** Ownerの判断とAssistantの導出・発展案はL04・L05で区別した。
+**契約と境界の哲学への依存を前提に、主体としての記録・逐次記録・活動の再現と再開を6節の草案へ反映済み。名称は「真実と記録の哲学」へ更新し、本文全体・正式な節構成の最終承認はない。** Ownerの判断とAssistantの導出・発展案はL04・L05で区別した。
 
 ### 次に吟味する対象
 
 1. **本文の意味確認：** 原本の一次性・非同一性・意図への忠実性を保ちながら、正しさの対応先、後続説明、原本の参照関係を適切に説明できているか。
 2. **発展案の評価：** 将来の再認識を支える記録の価値、解釈・評価自体を原本として残す関係、重さ・型・鍵を主体の認識と境界へ結ぶ説明、および主体・逐次記録・再現と再開をつなぐ文章がOwnerの意図を保っているか。後者の必要性を独立した未解決問題として重ねず、今回の本文で吟味する。
-3. **体系の整理：** 本文の意味を吟味した後、正式な名称・構成、NAL・AON、P08・P09・P16、知識管理規則との配置・所有関係をA-4で判断する。契約境界への依存の可否は、ここで再び未決とは扱わない。
+3. **体系の整理：** 採用した表示名を前提に本文の意味を吟味した後、正式な構成、NAL・AON、P08・P09・P16、知識管理規則との配置・所有関係をA-4で判断する。契約境界への依存の可否は、ここで再び未決とは扱わない。
 
 具体的な複製・保存・記録の時機・再現と再開・意図解釈の照合・伝達方法は、本文の意味に基づいて方法論が実現する。具体的な手順が未制定であることだけを、独立した哲学上の欠落としない。既存方法論の差分と判断理由に関する修正箇所はL05で追跡する。
 

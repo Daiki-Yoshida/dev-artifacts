@@ -6,11 +6,11 @@
 
 **[開発哲学の基準点（-philosophy-baseline）](PHILOSOPHY_BASELINE.md)：** Ownerが直接議論した対話recordsを、Stage 2-A-3の優先参照起点として識別する。対象と継続関係は基準点一覧で管理し、形式上の接尾辞だけで採用statusや永続的な規範優先順位を付与しない。
 
-## A-3：契約境界哲学体系の編集用草案
+## A-3：契約と境界の哲学の編集用草案
 
 | 成果物 | 用途 |
 | --- | --- |
-| [A3_PHILOSOPHY_DRAFT.md](A3_PHILOSOPHY_DRAFT.md) | 開発哲学の一領域である**契約境界哲学体系**の第0章＋六章23節の草案。第0章は本体系の前提・語彙・内部論理・レビューの読み方を示す。採用された章名・性質参照名を反映し、内部の独立した原則名は設けない |
+| [A3_PHILOSOPHY_DRAFT.md](A3_PHILOSOPHY_DRAFT.md) | 開発哲学の一領域である**契約と境界の哲学**の第0章＋六章23節の草案。第0章は本体系の前提・語彙・内部論理・レビューの読み方を示す。採用された章名・性質参照名を反映し、内部の独立した原則名は設けない |
 | [A3_PHILOSOPHY_REVIEW.md](A3_PHILOSOPHY_REVIEW.md) | 本文とOwner原文の対応、訂正経緯、命名の採用範囲、現在のレビュー状態を管理する資料 |
 | [A3_UBIQUITOUS_LANGUAGE.md](A3_UBIQUITOUS_LANGUAGE.md) | Ownerが採用した体系・章名、用語、性質の参照名と、体系自体を原則とし個別原則名を設けない方針の索引 |
 | [A3_WHOLE_DRAFT_REVIEW.md](A3_WHOLE_DRAFT_REVIEW.md) | 固定版の六章23節横断レビュー。E01〜E04は現行草案へ反映済み、E05は未反映の任意編集候補 |
@@ -19,7 +19,7 @@
 
 **匿名レビュー用本文の扱い：** [草案](A3_PHILOSOPHY_DRAFT.md)が唯一の継続編集元であり、[独立レビュー用本文](review-export/CONTRACT_BOUNDARY_PHILOSOPHY.md)はそこから私が手動で整えた独立スナップショット。現在の版は、草案blob `9036d22253bcd225bdcf75542aad2696ef3e77d4` を基準に手動で整え、出力blob `e3ca7314b79fcb66f74c9620a59cc683b5b0fa38`。L13の表現整理（契約の成立の用語区別、乖離の定義文、運用の接続、D6.1重複整理、責務への統一）とL14のOwner判断反映（撮影対象に含まれる仮想、集合的担い手の既成事実的認識）を反映済み。草案を更新したときは必要に応じて私が本文を手動で整え直す。**恒久的な生成スクリプトは設けない。** 匿名レビューではリポジトリやこのINDEXのURLではなく、出力ファイルのMarkdown本文のみを渡す。
 
-**本文・章構成とも未承認。** Ownerは現在の六章を**契約境界哲学体系**と位置づけ、まず本体系をほぼ完成させてからAON・記録・環境の潔癖など他の思想を別途論じると判断した。これら他領域の詳細・分類や相互関係は各領域の吟味で扱う。真実・記録領域は、後続のOwner判断に基づき契約境界哲学の概念に依存して編集する（下記参照）。A-4の構造合意やA-5のsubject化を完了したものではない。
+**名称は更新済み、本文・章構成は未承認。** Ownerは先行して現在の六章を旧称「契約境界哲学体系」と位置づけ、他の思想へ進む順序を決定した。今回[名称変更の原文](../../../knowledge/records/2026-11-20-philosophy-name-pairing/RECORD.md)に基づき、現在の表示名を「契約と境界の哲学」へ統一した。これら他領域の詳細・分類や相互関係は各領域の吟味で扱う。真実・記録領域は、後続のOwner判断に基づき契約境界哲学の概念に依存して編集する（下記参照）。A-4の構造合意やA-5のsubject化を完了したものではない。
 
 基点主体と枝ごとのミクロ側の壁、既存原理からの帰結と規範的指針を[草案本文](A3_PHILOSOPHY_DRAFT.md)へ接続した。[現行のレビュー状態](A3_PHILOSOPHY_REVIEW.md#review-status)では、本六章について独立して維持する未解決論点はない。具体的な実務的実現はDev-Methodologyが担い、草案本文の正式承認と構成の最終確定は引き続きA-3以降で扱う。
 
@@ -27,7 +27,7 @@
 
 [導出検討のrecord](../../../knowledge/records/2026-11-13-philosophy-question-derivations/RECORD.md)に先行対話を保存。さらに[別チャット由来の本質論・対象範囲の対話record](../../../knowledge/records/2026-11-13-development-philosophy-essence-dialogue-import/RECORD.md)を原文のまま取り込み、Owner発言に基づく補強案を草案D1.2と冒頭へ反映した。
 
-[認識・情報化・実体験と欲求＝本質のOwner発言／Assistant応答を収録した哲学baseline](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/RECORD.md)、[合意の具体的成立が具象と結びつくことを示すOwner原文record](../../../knowledge/records/2026-11-14-agreement-and-concrete-formation-philosophy-baseline/RECORD.md)、[命名＝契約＝境界のA／NotAによる論理的根拠を示すOwner原文とAssistant応答](../../../knowledge/records/2026-11-15-naming-contract-boundary-equivalence-philosophy-baseline/RECORD.md)、[認識の撮影・主体内の仮想・契約と実体の普遍性に関するOwner原文とAssistant応答](../../../knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/RECORD.md)、[Subjectとしての意味完全性と作業基点を再確認したOwner指示record](../../../knowledge/records/2026-11-14-philosophy-subject-completeness-and-context-realignment/RECORD.md)、[今回の完成度向上に向けたOwnerの継続依頼](../../../knowledge/records/2026-11-14-contract-boundary-quality-review-request/RECORD.md)、[匿名レビュー6.1〜6.8の再評価と第0章新設に関するOwner判断](../../../knowledge/records/2026-11-15-anonymous-review-reassessment-and-chapter-zero-philosophy-baseline/RECORD.md)、[契約境界哲学体系そのものを原則とするOwner判断](../../../knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)、[命名の採用範囲に関する先行Owner判断](../../../knowledge/records/2026-11-14-contract-boundary-terminology-approval/RECORD.md)、[契約境界哲学体系の範囲・検討順序に関するOwner判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)、[哲学と方法論の責務境界についてのOwner判断](../../../knowledge/records/2026-11-14-q01-closure-q02-guidance/RECORD.md)、[基点主体と双璧の継続対話](../../../knowledge/records/2026-11-14-contextual-base-subject-and-branchwise-walls-philosophy-baseline/RECORD.md)、[今回の分析へのOwner承認](../../../knowledge/records/2026-11-14-q02-closure-and-baseline-integration/RECORD.md)を、それぞれ独立したrecordsとして保持する。
+[認識・情報化・実体験と欲求＝本質のOwner発言／Assistant応答を収録した哲学baseline](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/RECORD.md)、[合意の具体的成立が具象と結びつくことを示すOwner原文record](../../../knowledge/records/2026-11-14-agreement-and-concrete-formation-philosophy-baseline/RECORD.md)、[命名＝契約＝境界のA／NotAによる論理的根拠を示すOwner原文とAssistant応答](../../../knowledge/records/2026-11-15-naming-contract-boundary-equivalence-philosophy-baseline/RECORD.md)、[認識の撮影・主体内の仮想・契約と実体の普遍性に関するOwner原文とAssistant応答](../../../knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/RECORD.md)、[Subjectとしての意味完全性と作業基点を再確認したOwner指示record](../../../knowledge/records/2026-11-14-philosophy-subject-completeness-and-context-realignment/RECORD.md)、[今回の完成度向上に向けたOwnerの継続依頼](../../../knowledge/records/2026-11-14-contract-boundary-quality-review-request/RECORD.md)、[匿名レビュー6.1〜6.8の再評価と第0章新設に関するOwner判断](../../../knowledge/records/2026-11-15-anonymous-review-reassessment-and-chapter-zero-philosophy-baseline/RECORD.md)、[契約と境界の哲学そのものを原則とするOwner判断](../../../knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)、[命名の採用範囲に関する先行Owner判断](../../../knowledge/records/2026-11-14-contract-boundary-terminology-approval/RECORD.md)、[契約と境界の哲学の範囲・検討順序に関するOwner判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)、[哲学と方法論の責務境界についてのOwner判断](../../../knowledge/records/2026-11-14-q01-closure-q02-guidance/RECORD.md)、[基点主体と双璧の継続対話](../../../knowledge/records/2026-11-14-contextual-base-subject-and-branchwise-walls-philosophy-baseline/RECORD.md)、[今回の分析へのOwner承認](../../../knowledge/records/2026-11-14-q02-closure-and-baseline-integration/RECORD.md)を、それぞれ独立したrecordsとして保持する。
 
 **今回のOwner原文S21を受けた追加編集：** 草案冒頭に第0章「本体系の前提と読み方」を新設。外部の一般語彙・既存理論・ソフトウェア開発理論を本体系の定義より上位に置かないこと、ただし論理的推論は捨てず内部定義から導くことを明記。曖昧な認識の撮影と曖昧な命名・契約の同時成立、契約という語彙の維持、主体相対的な定義、隠れた欲求を外部から推測しないこと、日時計・目印から時計塔への脱皮、具体的な合意・分割運用の方法論への責務、過去と現在の認識の差異を捉えることをD0.1〜D0.6およびD1.1・D2.2・D2.4・D5.4・D6.1・D6.4へ反映。詳細は[A3レビューS21](A3_PHILOSOPHY_REVIEW.md#s21)・[L12](A3_PHILOSOPHY_REVIEW.md#l12)。
 
@@ -41,13 +41,15 @@
 
 **今回の根源的な接続：** [S17のOwner原文とAssistant応答](../../../knowledge/records/2026-11-14-recognition-information-and-virtuality-philosophy-baseline/RECORD.md)に基づき、[草案](A3_PHILOSOPHY_DRAFT.md)のD1.1・D1.3・D2.2・D4.2に、認識を介する言及、個体にも及ぶ仮想性、直接の体験と情報化された記憶の違い、欲求＝本質の強い結合を追記した。旧「中身を未決定として論じられる」という説明はD1.3から除去。**これは草案へのAssistant編集反映であり、今回の修正文のOwner承認ではない。** また、**「仮想」「情報化」「認識＝情報」の用語の最終的な関係はまだ検討中**とする。S17の「情報化」は正式な全面改名の合意ではない。
 
-**契約境界哲学体系をほぼ完成と評価するための残る確認：** 六章23節の本文と出典対応のOwnerによる通読・意図の確認、E01〜E04・E06〜E08および今回のS17に基づく修正文が原意を保っているかの確認、E05の要否判断、仮想と情報化の用語関係の検討。**体系そのものを原則とし、個別の原則名や略称を設けない判断は確定済み**。章名・用語と性質の参照名もOwner採用範囲で反映済み。現在の独立したQ01・Q02は終了済みであり、他思想をこの六章へ混ぜることは完成条件としない。正式制定とA-4の構成確定は別の承認判断とする。
+**契約と境界の哲学をほぼ完成と評価するための残る確認：** 六章23節の本文と出典対応のOwnerによる通読・意図の確認、E01〜E04・E06〜E08および今回のS17に基づく修正文が原意を保っているかの確認、E05の要否判断、仮想と情報化の用語関係の検討。**体系そのものを原則とし、個別の原則名や略称を設けない判断は確定済み**。章名・用語と性質の参照名もOwner採用範囲で反映済み。現在の独立したQ01・Q02は終了済みであり、他思想をこの六章へ混ぜることは完成条件としない。正式制定とA-4の構成確定は別の承認判断とする。
 
 今後は同じ草案ファイルを編集し、変更をGit履歴で追う。原文recordsは編集用本文と分離して保持する。[草案作成依頼のrecord](../../../knowledge/records/2026-11-13-philosophy-editable-draft-request/RECORD.md) / [議論の入口：Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。
 
-## A-3：真実・原本・解釈・記録の哲学（仮称）
+**名称の統一（2026-11-20）：** [Owner原文](../../../knowledge/records/2026-11-20-philosophy-name-pairing/RECORD.md)に従い、二つの哲学名を「契約と境界の哲学」と「真実と記録の哲学」に統一する。「契約と教会」は文脈上の変換誤りと推定して補正したが、原文自体は改変せず、字面のOwner確認の余地を残す。「一番基礎かも」を、正式な層内順位の決定としては扱わない。旧称の下で採用された章名・用語・原則の位置づけは保持する。匿名レビュー用の[固定版](review-export/CONTRACT_BOUNDARY_PHILOSOPHY.md)は旧名称時点の履歴スナップショットとして保持し、本文の現行編集元ではない。
 
-真実・原本・解釈・記録を扱う思想として、**契約境界哲学の概念に依存して編集する**。[2026-11-19のOwner判断と編集依頼](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)を基礎に、[主体としての記録・逐次記録・再現と再開に関する今回の対話と更新依頼](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)を本文へ接続した。依存関係と草案編集の判断、本文全体・正式な体系名・構成の採用は区別する。
+## A-3：真実と記録の哲学
+
+真実・原本・解釈・記録を扱う**真実と記録の哲学**として、**契約と境界の哲学の概念を参照して編集する**。[2026-11-19のOwner判断と編集依頼](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)を基礎に、[主体としての記録・逐次記録・再現と再開に関する今回の対話と更新依頼](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)を本文へ接続した。依存関係と草案編集の判断、今回の名称選定、本文全体・正式な構成の採用は区別する。
 
 | 成果物 | 用途 |
 | --- | --- |
@@ -58,7 +60,7 @@
 
 **原文と根拠：** [11月11日のOwner原文](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)と[後日取り込みのAssistant発言追補](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/ASSISTANT_MESSAGES.md)、[他の哲学へ進む依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)、[記録の実体化と主体変化の原文](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[依存判断・精査応答全文・編集依頼・資料確認の訂正](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)、[今回の主体・逐次記録・再現と再開の対話](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)を参照する。新しいrecordはOwner U1→Assistant検討回答A1全文→Owner更新依頼U2を収録した。既存方法論の確認版と「なぜはdiffが示す」の修正対象は[レビューL05](A3_TRUTH_SOURCE_REVIEW.md#l05)で辿れる。
 
-**契約境界との関係：** 別の主題として論じながら、主体・仮想・実体・認識の撮影・欲求と責務・契約・再定義の意味を依存先から参照する。契約境界の本文は本領域で再定義しない。AON・NALとの正式な配置や、体系名・構成は内容の吟味後にA-4で扱う。NALの採用済みの意味は維持する。「環境の潔癖」は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
+**契約境界との関係：** 別の主題として論じながら、主体・仮想・実体・認識の撮影・欲求と責務・契約・再定義の意味を依存先から参照する。契約境界の本文は本領域で再定義しない。AON・NALとの正式な配置や体系構成は内容の吟味後にA-4で扱う。NALの採用済みの意味は維持する。「環境の潔癖」は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
 
 ## A-1/A-2：一次監査完了
 

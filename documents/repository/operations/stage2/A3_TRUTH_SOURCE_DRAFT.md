@@ -1,8 +1,8 @@
-# 真実・原本・解釈・記録の哲学（仮称）— A-3編集用草案
+# 真実と記録の哲学 — A-3編集用草案
 
-**状態：Stage 2-A-3の未承認・編集用草案。** Ownerの原文と契約境界哲学の既存定義を接続したAssistant編集案である。Ownerは[今回の対話](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)で、契約境界哲学に依存することを認め、精査結果を実際の草案へ反映するよう依頼した。本文全体・体系名・正式な章構成の制定は、引き続きOwnerの意味確認と採否判断の対象とする。
+**状態：Stage 2-A-3の未承認・編集用草案。** 哲学名は[今回のOwner発言](../../../knowledge/records/2026-11-20-philosophy-name-pairing/RECORD.md)に従い「真実と記録の哲学」とした。Ownerの原文と「契約と境界の哲学」（旧称「契約境界哲学体系」）の既存定義を接続したAssistant編集案である。名称の採用と、本文・六節構成の正式承認は別の判断である。Ownerは[今回の対話](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)で、契約境界哲学に依存することを認め、精査結果を実際の草案へ反映するよう依頼した。本文全体・正式な節構成の制定は、引き続きOwnerの意味確認と採否判断の対象とする。
 
-本草案は、[契約境界哲学](A3_PHILOSOPHY_DRAFT.md)の主体・仮想・実体・認識の撮影・欲求と責務・契約・再定義を基礎として、真実・原本・解釈・記録を扱う。これらの概念の定義は依存先を参照し、本草案では記録・理解・評価・伝達への関係を論じる。[以前の検討順序](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に従って別の主題として編集することと、概念上の依存は両立する。AON・NALなど他の思想との正式な配置関係は別途検討する。
+本草案は、[契約と境界の哲学](A3_PHILOSOPHY_DRAFT.md)の主体・仮想・実体・認識の撮影・欲求と責務・契約・再定義を基礎として、真実・原本・解釈・記録を扱う。これらの概念の定義は依存先を参照し、本草案では記録・理解・評価・伝達への関係を論じる。[以前の検討順序](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に従って別の主題として編集することと、概念上の依存は両立する。AON・NALなど他の思想との正式な配置関係は別途検討する。
 
 思想の一次証拠は[2026-11-11のOwner原文U1〜U11](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)、[記録・主体変化に関する11月19日のOwner原文](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[主体としての記録・逐次記録・再現と再開に関する今回のOwner原文](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)を参照する。今回の対話では、Assistantの検討回答を受けて草案等の更新とrecordsへの保存が依頼された。出典対応、Assistantの導出・発展案、編集の経緯は[レビュー資料](A3_TRUTH_SOURCE_REVIEW.md)で管理する。
 
@@ -242,7 +242,7 @@ Work Recordsの軽量な記述と、Record Modelが扱う選定原文の保存�
 
 個別の意図解釈の照合、複製の忠実性の確認、記録の保存・参照方法、伝達する鍵の選定は、具体的な対象と目的に即して方法論が実現する。普遍的な意味・関係・判断の方向を哲学が扱うことと、具体的な手順を方法論が扱うことを区別する。
 
-体系名・正式な構成、A-1の未承認候補P08・P09・P16、採用済みNAL・AON、既存のrepository管理モデルとの配置・所有関係は、内容の吟味を経てA-4で検討する。「環境の潔癖」は本草案の対象に含めない。
+選定した名称を超える正式な体系構成、A-1の未承認候補P08・P09・P16、採用済みNAL・AON、既存のrepository管理モデルとの配置・所有関係は、内容の吟味を経てA-4で検討する。「環境の潔癖」は本草案の対象に含めない。
 
 Ownerがネモ船長の言葉として挙げた「不正確な地図」の比喩（U6）は、考えを理解する補助材料として記録されている。出典・逐語性は未検証のため、外部の確定引用や独立した証明としては用いない。
 
