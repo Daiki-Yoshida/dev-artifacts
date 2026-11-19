@@ -20,15 +20,15 @@
 | S09 | [Work Records提案のOwner原文](../../../knowledge/records/2026-10-13-work-records-proposal/USER_MESSAGES.md)、既存mainの[Work Identity](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/work-identity/S001_IDENTITY_MODEL.md)・[Work Documents](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/work-identity/S003_WORK_DOCUMENTS.md)・[開発実行モデル](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/development-execution/S001_EXECUTION_MODEL.md) | 作業目的の同一性、軽量な逐次記録、共通の参照先、実行の再現性を扱う既存実現例。参照版を固定し、新体系の方法論としての再採用とは区別 |
 | S10 | 既存mainの[FormatとGit](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/documentation/S005_FORMAT_AND_GIT.md) | S08 A1が指摘した「なぜはdiffが示す」の修正対象を確認。変更差分と主体の判断理由の関係をL05で方法論へ引き継ぐ |
 | S11 | [2026-11-20 哲学の名称をそろえるOwner原文](../../../knowledge/records/2026-11-20-philosophy-name-pairing/RECORD.md) | 「真実と記録の哲学」という名称の選定、「契約と教会」という原文表記と「境界」へのAssistant補正、基礎に関する検討表現を区別 |
-
 | S12 | [2026-11-20 四体系の名称・境界の採用と整備依頼](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md) | 記録と理解・伝達の一体性、現在名「真実と記録と伝達の哲学」、他体系との境界を採用。過去の草案を刷新しNALに注意する編集依頼 |
+| S13 | [2026-11-20 哲学草案への具体的な方法論の掲載に関するOwner訂正](../../../knowledge/records/2026-11-20-truth-philosophy-methodology-scope-correction/RECORD.md) | Work・Record・GitHubへの言及はAssistantの理解を助けるためであり、哲学草案へ入れるべきではないという範囲の明示 |
 
 原文recordsは編集せず、後続判断を既存の閉じたsource bundleへ継ぎ足さない。
 
 <a id="lineage"></a>
 ## 編集と判断の系譜
 
-L01以降は各時点の判断と編集を保存する。過去の「名称未確定」「配置未定」等の扱いは、最新のL07と現在のレビュー状態で更新する。
+L01以降は各時点の判断と編集を保存する。過去の「名称未確定」「配置未定」等の扱いはL07、具体的な方法論を本文へ接続した編集判断はL08と現在のレビュー状態で更新する。
 
 ### L01：スキャフォールド初版（2026-11-18）
 
@@ -155,18 +155,30 @@ S12のOwner U3は、記録の性質上、保存と適切な理解・伝達を一
 
 [刷新前の草案](https://github.com/Daiki-Yoshida/documents-artifacts/blob/685fce3a1489930bb2d8b8178ab9825cb66bc9a1/documents/repository/operations/stage2/A3_TRUTH_SOURCE_DRAFT.md)とL01〜L06から先行説明を辿れる。S12は構成と名称の採用、今回の接続表現はその判断に基づくAssistantの本文編集として区別する。
 
+<a id="l08"></a>
+### L08：説明用の具体的な方法論を哲学草案から外す（2026-11-20）
+
+[S13のOwner原文](../../../knowledge/records/2026-11-20-truth-philosophy-methodology-scope-correction/RECORD.md)は、「Work・Record・GitHubへの接続」が方法論の範囲であり、その言及はAssistantの理解を助けるためで、哲学草案へ入れるべきではないと明示した。L05・L07でAssistantが行った、具体的な仕組みを哲学本文へ掲載する編集判断を訂正する。
+
+草案末尾の同名節を、対応表、既存運用への参照、Work Recordsとknowledge records、snapshot形状の説明を含めて外した。4節では、保存と現在の採用を区別する意味を残し、Record Model・Decision Lineage Modelという具体的な運用例への接続を外した。末尾の見出しは「本文の吟味」とした。体系構成とINDEXにある、同じ具体的機構への対応づけも整理した。
+
+主体としての記録、逐次記録、経過と到達状態の違い、原本と再開用説明の関係、後の主体による理解・判断・利用は、具体的な機構を前提としない哲学上の意味として本文に保つ。②の記録・理解・伝達と④の実際の条件・状態の再形成という責務境界も維持する。
+
+[S08](#sources)のOwnerによる具体例と、今回の掲載範囲の訂正を関係づける。S04・S09・S10の資料とL05の方法論向け検討は、編集経緯・後続の方法論検討の資料として保持する。原文recordや過去の編集履歴自体は現在の判断に合わせて書き換えない。
+
+[訂正前の本文](https://github.com/Daiki-Yoshida/documents-artifacts/blob/a9b92d541d542541015f3a929ee0f0ec15925c2f/documents/repository/operations/stage2/A3_TRUTH_SOURCE_DRAFT.md)から、掲載していた内容と今回の差分を辿れる。
+
 <a id="review-status"></a>
 ## 現在のレビュー状態
 
 **名称、記録と理解・伝達を一つに引き受ける本質、他の三体系との責務境界は採用済み。** 既存6節の本文をこの境界に沿って整備した。独立した「理解と伝達」や「信頼と検証」の体系を追加しないという構成判断は、[全体の系譜](A3_PHILOSOPHY_SYSTEMS.md)で扱う。
 
-本文の意味確認では、原本の一次性・非同一性・意図への忠実性を保っているか、主体の変化・逐次記録・評価・訂正・再開・伝達を適切につないでいるかを吟味する。S01・S06・S08・S12のOwner原文と、L04・L05・L07のAssistantの導出・接続を辿れるようにした。
+本文の意味確認では、原本の一次性・非同一性・意図への忠実性を保っているか、主体の変化・逐次記録・評価・訂正・再開・伝達を適切につないでいるかを吟味する。S01・S06・S08・S12・S13のOwner原文と、L04・L05・L07の導出・接続、およびL08の掲載範囲の訂正を辿れるようにした。
 
-具体的な複製・保存・記録の時機・再開・照合・伝達方法は、哲学の責務を方法論が実現する。知識管理規則や既存Work運用の再構築では、個々の規範の意味と根拠を確認する。A-1のP08・P09・P16に含まれる全主張が、今回の体系名の採用だけで一括制定されたという扱いはしない。
+主体としての記録・逐次記録・再開性は、哲学上の関係として本文に保持する。具体的なWork・Record・GitHubの説明は、S13に基づいて哲学本文の掲載対象から外した。具体的な複製・保存・記録の時機・再開・照合・伝達方法は、哲学の責務を方法論が実現する。A-1のP08・P09・P16に含まれる全主張が、今回の体系名の採用だけで一括制定されたという扱いはしない。
 
-[方法論へ引き継ぐ修正箇所](#l05)として、変更差分だけでは判断理由が一意に定まらない点を保持する。ネモ船長に帰属された引用は外部出典・逐語性が未検証であり、本文の確定根拠には使っていない。
+L05の[方法論へ引き継ぐ修正箇所](#l05)は、後続工程向けの作業メモとして保持する。ネモ船長に帰属された引用は外部出典・逐語性が未検証であり、本文の確定根拠には使っていない。
 
 ## 編集と次の工程
 
 新しい意味の判断は新しいsource eventとして記録し、出典と本文の対応を更新する。既存定義から説明できる事項は本文で説明する。四体系の構成判断は採用済みとして扱い、各草案の説明文の吟味、subjectsへの配置、Stage 3の配布設計は[進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。
-

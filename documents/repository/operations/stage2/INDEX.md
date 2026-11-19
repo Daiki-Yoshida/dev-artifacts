@@ -36,8 +36,6 @@ AONを核に、目的と責務に照らす必要性と、その充足に即し�
 
 本文は現在の意味とその理由を直接説明し、過去の訂正や構成変更の経緯はレビュー・records・Git履歴から辿れるようにする。NALに配慮しつつ、意味に必要な条件・規範の強さ・例・反例・対比を保持する。原文payloadを現在の説明へ合わせて書き換えない。
 
-Work Documents・records・GitHub運用は、四体系の責務を具体的に実現する方法論として接続する。具体的な保存形式・頻度・運用手順は、その対象と責務に即して扱う。
-
 ## 過去の検討・固定版
 
 以下は各時点の検討資料である。現在の意味と判断は上記の本文・レビューを参照する。
@@ -70,4 +68,3 @@ Work Documents・records・GitHub運用は、四体系の責務を具体的に�
 四名称と責務境界を、採用済みの構成判断として今後の本文整備に用いる。各体系の説明文は出典に照らして吟味し、subjectsへの配置、方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。現時点の継続編集元はこの作業資料領域である。
 
 Work：[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。個別の継続草案：[① Issue #222](https://github.com/Daiki-Yoshida/documents-artifacts/issues/222)、[② Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。③④の作成・吟味は#221から追跡する。
-
