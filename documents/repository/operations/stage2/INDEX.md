@@ -19,7 +19,7 @@
 
 **匿名レビュー用本文の扱い：** [草案](A3_PHILOSOPHY_DRAFT.md)が唯一の継続編集元であり、[独立レビュー用本文](review-export/CONTRACT_BOUNDARY_PHILOSOPHY.md)はそこから私が手動で整えた独立スナップショット。現在の版は、草案blob `9036d22253bcd225bdcf75542aad2696ef3e77d4` を基準に手動で整え、出力blob `e3ca7314b79fcb66f74c9620a59cc683b5b0fa38`。L13の表現整理（契約の成立の用語区別、乖離の定義文、運用の接続、D6.1重複整理、責務への統一）とL14のOwner判断反映（撮影対象に含まれる仮想、集合的担い手の既成事実的認識）を反映済み。草案を更新したときは必要に応じて私が本文を手動で整え直す。**恒久的な生成スクリプトは設けない。** 匿名レビューではリポジトリやこのINDEXのURLではなく、出力ファイルのMarkdown本文のみを渡す。
 
-**本文・章構成とも未承認。** Ownerは現在の六章を**契約境界哲学体系**と位置づけ、まず本体系をほぼ完成させてからAON・記録・環境の潔癖など他の思想を別途論じると判断した。これら他領域の詳細・分類や相互関係は本A-3資料では未決定。A-4の構造合意やA-5のsubject化を完了したものではない。
+**本文・章構成とも未承認。** Ownerは現在の六章を**契約境界哲学体系**と位置づけ、まず本体系をほぼ完成させてからAON・記録・環境の潔癖など他の思想を別途論じると判断した。これら他領域の詳細・分類や相互関係は各領域の吟味で扱う。真実・記録領域は、後続のOwner判断に基づき契約境界哲学の概念に依存して編集する（下記参照）。A-4の構造合意やA-5のsubject化を完了したものではない。
 
 基点主体と枝ごとのミクロ側の壁、既存原理からの帰結と規範的指針を[草案本文](A3_PHILOSOPHY_DRAFT.md)へ接続した。[現行のレビュー状態](A3_PHILOSOPHY_REVIEW.md#review-status)では、本六章について独立して維持する未解決論点はない。具体的な実務的実現はDev-Methodologyが担い、草案本文の正式承認と構成の最終確定は引き続きA-3以降で扱う。
 
@@ -47,16 +47,18 @@
 
 ## A-3：真実・原本・解釈・記録の哲学（仮称）
 
-契約境界哲学体系とは別の思想群として、[Ownerの範囲・順序判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に基づき新設した領域。2026-11-19時点で、既存Owner原文から初回の一続きの本文草案へ文章化し、さらに同日のOwner発言に基づき、契約境界哲学の主体・仮想・実体・時間変化との接続を追加した。Ownerによる今回の編集文面の意味確認・体系名や構成の採否判断はこれから。
+真実・原本・解釈・記録を扱う思想として、**契約境界哲学の概念に依存して編集する**。[2026-11-19のOwner判断と編集依頼](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)に従い、精査で示した深化内容を本文へ反映した。依存関係を認める判断と、草案本文全体・正式な体系名・構成の採用は区別する。
 
 | 成果物 | 用途 |
 | --- | --- |
-| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 真実・原本・解釈・記録の文章草案。Owner原文U1〜U10と11/19の記録・主体変化に関する発言を、契約境界のD1.1/D2.1/D4.2の定義を参照して接続。Assistant編集案は未承認 |
-| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 原文・今回の追加Owner発言と本文の対応、Assistant補足の範囲、未決論点、Owner確認待ちの状態を管理する資料 |
+| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 6節の編集用草案。記録の必要性、再認識、原本と解釈、正しさの評価対象、後続説明、評価履歴、探索・保存・伝達とNALを、契約境界の既存定義へ接続。本文はOwnerの意味確認・採否判断の対象 |
+| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 原文と本文の対応、Owner判断とAssistantの導出・発展案、編集の系譜、現在の吟味対象を管理。今回の追加・訂正はS07/L04を参照 |
 
-**今回の進行根拠：** [2026-11-19のOwner依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)に従い、既存文書・recordsを先に照合して軽量な文章化から始めた。さらに[記録の実体化と主体の時間変化に関する追加Owner原文](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)を独立して保存し、契約境界哲学を再定義せず真実・記録草案から参照する。これらは本文の正式承認を意味しない。
+**今回の本文編集：** 旧1節の外部表現と旧4節の主体変化を、新1節「変化する主体と記録」へ接続。2節は原本の一次性・非同一性と発言の参照関係、3節は意図への忠実性・正しさの対応先・後続説明、4節は誤情報・評価・訂正の保存、5節は欲求と責務に応じた探索・保存・伝達および重さ・型・鍵、6節は採用済みNALとの接続を扱う。既存定義から説明できた事項を本文へ進め、具体的な保存・検証・伝達方法は方法論へ接続した。
 
-**契約境界との関係：** 領分が重ならない別領域として独立して編集する。AON原則（採用済み）と本領域の従属・並列関係は未確定。NALは既存の目的指向の文脈構成として採用済みだが、哲学層との接続は本領域の吟味対象。環境の潔癖は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
+**原文と根拠：** [11月11日のOwner原文](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)と[後日取り込みのAssistant発言追補](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/ASSISTANT_MESSAGES.md)、[他の哲学へ進む依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)、[記録の実体化と主体変化の原文](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[今回の依存判断・精査応答全文・編集依頼・資料確認の訂正](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)を参照する。過去の閉じたrecordsは保持し、Assistantの精査応答とその後の訂正も区別して保存した。
+
+**契約境界との関係：** 別の主題として論じながら、主体・仮想・実体・認識の撮影・欲求と責務・契約・再定義の意味を依存先から参照する。契約境界の本文は本領域で再定義しない。AON・NALとの正式な配置や、体系名・構成は内容の吟味後にA-4で扱う。NALの採用済みの意味は維持する。「環境の潔癖」は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
 
 ## A-1/A-2：一次監査完了
 
