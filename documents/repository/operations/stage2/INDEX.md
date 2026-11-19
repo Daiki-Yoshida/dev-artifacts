@@ -47,16 +47,16 @@
 
 ## A-3：真実・原本・解釈・記録の哲学（仮称）
 
-真実・原本・解釈・記録を扱う思想として、**契約境界哲学の概念に依存して編集する**。[2026-11-19のOwner判断と編集依頼](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)に従い、精査で示した深化内容を本文へ反映した。依存関係を認める判断と、草案本文全体・正式な体系名・構成の採用は区別する。
+真実・原本・解釈・記録を扱う思想として、**契約境界哲学の概念に依存して編集する**。[2026-11-19のOwner判断と編集依頼](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)を基礎に、[主体としての記録・逐次記録・再現と再開に関する今回の対話と更新依頼](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)を本文へ接続した。依存関係と草案編集の判断、本文全体・正式な体系名・構成の採用は区別する。
 
 | 成果物 | 用途 |
 | --- | --- |
-| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 6節の編集用草案。記録の必要性、再認識、原本と解釈、正しさの評価対象、後続説明、評価履歴、探索・保存・伝達とNALを、契約境界の既存定義へ接続。本文はOwnerの意味確認・採否判断の対象 |
-| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 原文と本文の対応、Owner判断とAssistantの導出・発展案、編集の系譜、現在の吟味対象を管理。今回の追加・訂正はS07/L04を参照 |
+| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 6節の編集用草案。主体と活動の記録、原本と解釈、評価と経過、再現・再開、探索・保存・伝達とNALを扱い、Work・Record・GitHubへの方法論上の接続を示す。本文はOwnerの意味確認・採否判断の対象 |
+| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 原文と本文の対応、Owner判断とAssistantの導出・発展案、編集の系譜、現在の吟味対象を管理。今回の接続と既存方法論の修正対象はS08〜S10/L05を参照 |
 
-**今回の本文編集：** 旧1節の外部表現と旧4節の主体変化を、新1節「変化する主体と記録」へ接続。2節は原本の一次性・非同一性と発言の参照関係、3節は意図への忠実性・正しさの対応先・後続説明、4節は誤情報・評価・訂正の保存、5節は欲求と責務に応じた探索・保存・伝達および重さ・型・鍵、6節は採用済みNALとの接続を扱う。既存定義から説明できた事項を本文へ進め、具体的な保存・検証・伝達方法は方法論へ接続した。
+**今回の本文編集：** 1節で、主体の立場・欲求・責務に即した記録と、時間や担い手をまたぐ活動の継続を説明。4節で、終点だけでは経路が定まらないことと、途中でも主体が変わることから逐次記録を接続。5節で、再開地点を示す状態と原本・履歴の関係、対象に応じた再現条件、後の主体の参照可能性を追加した。2・3節の原本・解釈・正しさ・後続説明と、重さ・型・鍵・NALの意味を維持し、Work・Record・GitHubは責務の具体化として方法論へ接続した。具体的な保存形式・頻度・手順の制定は後続工程で扱う。
 
-**原文と根拠：** [11月11日のOwner原文](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)と[後日取り込みのAssistant発言追補](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/ASSISTANT_MESSAGES.md)、[他の哲学へ進む依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)、[記録の実体化と主体変化の原文](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[今回の依存判断・精査応答全文・編集依頼・資料確認の訂正](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)を参照する。過去の閉じたrecordsは保持し、Assistantの精査応答とその後の訂正も区別して保存した。
+**原文と根拠：** [11月11日のOwner原文](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)と[後日取り込みのAssistant発言追補](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/ASSISTANT_MESSAGES.md)、[他の哲学へ進む依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)、[記録の実体化と主体変化の原文](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[依存判断・精査応答全文・編集依頼・資料確認の訂正](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)、[今回の主体・逐次記録・再現と再開の対話](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)を参照する。新しいrecordはOwner U1→Assistant検討回答A1全文→Owner更新依頼U2を収録した。既存方法論の確認版と「なぜはdiffが示す」の修正対象は[レビューL05](A3_TRUTH_SOURCE_REVIEW.md#l05)で辿れる。
 
 **契約境界との関係：** 別の主題として論じながら、主体・仮想・実体・認識の撮影・欲求と責務・契約・再定義の意味を依存先から参照する。契約境界の本文は本領域で再定義しない。AON・NALとの正式な配置や、体系名・構成は内容の吟味後にA-4で扱う。NALの採用済みの意味は維持する。「環境の潔癖」は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
 
