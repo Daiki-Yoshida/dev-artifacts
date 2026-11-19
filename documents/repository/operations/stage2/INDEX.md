@@ -47,14 +47,16 @@
 
 ## A-3：真実・原本・解釈・記録の哲学（仮称）
 
-契約境界哲学体系とは別の思想群として、[Ownerの範囲・順序判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に基づき新設した領域。2026-11-18時点では、既存Owner原文の棚卸しを行うスキャフォールド段階であり、Ownerによる吟味・議論は未開始。
+契約境界哲学体系とは別の思想群として、[Ownerの範囲・順序判断](../../../knowledge/records/2026-11-14-contract-boundary-philosophy-scope-sequencing/RECORD.md)に基づき新設した領域。2026-11-19時点で、既存Owner原文から初回の一続きの本文草案へ文章化済み。Ownerによる本文の意味確認・体系名や構成の採否判断はこれから。
 
 | 成果物 | 用途 |
 | --- | --- |
-| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 真実・原本・解釈・記録領域の編集用草案の骨格。S01 record（U1〜U11）の要素を議論用の節構成へ配置した素材土台。体系名・章構成・用語は未確定の仮称 |
-| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 出典一覧、編集・訂正の経緯、現在のレビュー状態を管理する資料 |
+| [A3_TRUTH_SOURCE_DRAFT.md](A3_TRUTH_SOURCE_DRAFT.md) | 真実・原本・解釈・記録の初回文章草案。Owner原文U1〜U10をつなげた未承認のAssistant整理であり、体系名・章構成・哲学としての独立性は未確定 |
+| [A3_TRUTH_SOURCE_REVIEW.md](A3_TRUTH_SOURCE_REVIEW.md) | 原文U1〜U11と本文の対応、Assistant整理の範囲、未決論点、Owner確認待ちの状態を管理する資料 |
 
-**契約境界との関係：** 領分が重ならない別領域として独立して編集する。AON原則（採用済み）と本領域の従属・並列関係は未確定。NALはArtifact側で採用済みだが、哲学層との接続は本領域の吟味対象。環境の潔癖は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
+**今回の進行根拠：** [2026-11-19のOwner依頼](../../../knowledge/records/2026-11-19-other-philosophy-a3-approach/RECORD.md)に従い、既存文書・recordsを先に照合して軽量な文章化から始めた。文章化したことは本文の承認を意味しない。
+
+**契約境界との関係：** 領分が重ならない別領域として独立して編集する。AON原則（採用済み）と本領域の従属・並列関係は未確定。NALは既存の目的指向の文脈構成として採用済みだが、哲学層との接続は本領域の吟味対象。環境の潔癖は本領域外。議論の入口は [Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。
 
 ## A-1/A-2：一次監査完了
 
