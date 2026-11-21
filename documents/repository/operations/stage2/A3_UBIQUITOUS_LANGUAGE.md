@@ -1,12 +1,14 @@
-# 主体と契約と境界の哲学 — 用語と命名の参照表
+# 主体と契約と境界の哲学（SCB哲学） — 用語と命名の参照表
 
 **状態：Ownerが採用した名称・用語と、現在の草案での説明先を整理した索引。** 詳細な意味・条件・例は[草案本文](A3_PHILOSOPHY_DRAFT.md)が扱う。本書はそこへの参照を所有し、独立した定義の正本とはしない。
 
-哲学名と境界は[2026-11-20の採用判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)、既存の用語・章名・性質名は[用語の採用判断](../../../knowledge/records/2026-11-14-contract-boundary-terminology-approval/RECORD.md)、体系全体を原則とする位置づけは[後続判断](../../../knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)を根拠とする。各説明の出典と文章化の範囲は[レビュー資料](A3_PHILOSOPHY_REVIEW.md#traceability)に整理する。
+哲学名と略称は[2026-11-22の確定判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)、体系の構成と責務境界は[2026-11-20の採用判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)、既存の用語・章名・性質名は[用語の採用判断](../../../knowledge/records/2026-11-14-contract-boundary-terminology-approval/RECORD.md)、体系全体を原則とする位置づけは[後続判断](../../../knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)を根拠とする。各説明の出典と文章化の範囲は[レビュー資料](A3_PHILOSOPHY_REVIEW.md#traceability)に整理する。
 
 ## 哲学名と章名
 
-現在の名称は**主体と契約と境界の哲学**。主体が存在や関係を意味あるまとまりとして定義し、その境界を捉える基礎を担う。開発哲学を構成する四体系の関係は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
+正式な日本語名は**主体と契約と境界の哲学**、確定した略称は**SCB哲学**。**Subject / Contract / Boundary**の頭文字で、本体系全体を指す。英語の対応語は、本文で定義された主体・契約・境界を参照する。
+
+主体が存在や関係を意味あるまとまりとして定義し、その境界を捉える基礎を担う。開発哲学を構成する四体系の関係と、各体系の名称の状態は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
 
 | 章 | 章名 | 内容の中心 |
 | --- | --- | --- |

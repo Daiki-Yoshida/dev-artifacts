@@ -1,10 +1,10 @@
-# 真実と記録と伝達の哲学 — A-3編集用草案
+# 真実と記録と伝達の哲学（TRC哲学） — A-3編集用草案
 
-**状態：体系名と境界はOwner採用済み。本文はStage 2-A-3の編集用草案。** [四体系の採用判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、記録・理解・伝達を一つの体系として整理する。本文は、Owner原文と既存定義を接続したAssistant編集案を含む。各説明の出典・導出・採否は[レビュー資料](A3_TRUTH_SOURCE_REVIEW.md)で追跡する。
+**状態：日本語名と略称「TRC哲学」はOwner確定済み。本文はStage 2-A-3の編集用草案。** [2026-11-22の名称・略称の確定](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)により、**Truth / Record / Communication**の頭文字を用いたTRCを、本体系全体を指す略称とする。[四体系の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、記録・理解・伝達を一つの体系として整理する。本文は、Owner原文と既存定義を接続したAssistant編集案を含む。各説明の出典・導出・採否は[レビュー資料](A3_TRUTH_SOURCE_REVIEW.md)で追跡する。
 
 この哲学は、**真実・意図・表現・解釈の関係を踏まえ、主体や時間を越えて情報を保持し、後の主体がその意味を適切に理解・判断・利用できるようにすること**を扱う。当時の表現へ立ち返れることと、その意味を後の主体へ適切に伝えられることを、一体の責務として引き受ける。
 
-主体・仮想・実体・認識・欲求と責務・契約・再定義の定義は、[主体と契約と境界の哲学](A3_PHILOSOPHY_DRAFT.md)を基礎とする。本書のD番号は、その草案の定義箇所を指す。[目的と必要と充足の哲学](A3_PURPOSE_NECESSITY_DRAFT.md)は、目的と責務に照らした必要性と充足の判断を扱い、[状態と制御と再現の哲学](A3_STATE_CONTROL_DRAFT.md)は、活動の条件・状態・作用を把握し、必要な状態を再形成する責務を担う。四体系の境界と関係は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
+主体・仮想・実体・認識・欲求と責務・契約・再定義の定義は、[主体と契約と境界の哲学（SCB哲学）](A3_PHILOSOPHY_DRAFT.md)を基礎とする。本書のD番号は、その草案の定義箇所を指す。[目的と必要と充足の哲学（仮称）](A3_PURPOSE_NECESSITY_DRAFT.md)は、目的と責務に照らした必要性と充足の判断を扱い、[状態と制御と再現の哲学（仮称）](A3_STATE_CONTROL_DRAFT.md)は、活動の条件・状態・作用を把握し、必要な状態を再形成する責務を担う。四体系の境界と関係は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
 
 思想の原文は、[真実・原本・解釈・誤情報に関するOwner発言](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)、[記録・主体変化の発言](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[主体としての記録・逐次記録・再現と再開の対話](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)に保存している。本文中のU番号は、最初のOwner発言集の識別子である。
 
@@ -233,6 +233,6 @@ NALは、この体系の適切な伝達に関わる内容として位置づけ�
 
 ## 編集・承認の境界
 
-[今回のOwner判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)で採用されたのは、四体系の名称・境界と、それに基づく草案整備である。本体系では、記録・理解・伝達を一体として扱い、主体と契約と境界の哲学を基礎とする。
+[2026-11-20の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、本体系では記録・理解・伝達を一体として扱い、主体と契約と境界の哲学を基礎とする。[2026-11-22の判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)では①②の日本語名と略称SCB・TRCを確定し、③④の名称を仮称として扱う。今回の名称・略称の確定は、この本文の個別説明の承認とは区別する。
 
 本文には、Owner原文を既存定義へ接続したAssistantの導出・発展案を含む。体系の採用範囲と、各説明の意味確認・採否を[レビュー資料](A3_TRUTH_SOURCE_REVIEW.md)で追跡する。新たな判断や訂正は、別のsource eventとして保存する。subjectsへの配置、artifactsの構築・配布、`main`への統合は、[Stage 2の進行手順](../STAGE2_WORKFLOW.md)と各工程の判断に従う。

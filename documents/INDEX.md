@@ -9,7 +9,7 @@
 | 知識更新・運用手順 | [repository/operations/INDEX.md](repository/operations/INDEX.md) |
 | source event / 原文記録 | [knowledge/records/](knowledge/records/) |
 | 哲学・方法論の正本 | [knowledge/INDEX.md](knowledge/INDEX.md) |
-| 採用された四体系の構成と編集中の哲学草案 | [Stage 2の入口](repository/operations/stage2/INDEX.md) |
+| SCB・TRC哲学と③④の仮称・構成・編集用草案 | [Stage 2の入口](repository/operations/stage2/INDEX.md) |
 | 旧管理設計の参考 | [repository/legacy/INDEX.md](repository/legacy/INDEX.md) |
 
 **注意:** 旧`knowledge/system/`や旧`project/`を現行の管理規則として参照しない。Dev-Philosophyの内容の制定権はOwnerにあり、管理モデルはその手続きを定義する。

@@ -1,6 +1,6 @@
-# 主体と契約と境界の哲学 — 草案の出典対応とレビュー
+# 主体と契約と境界の哲学（SCB哲学） — 草案の出典対応とレビュー
 
-**四体系の名称・責務境界は2026-11-20にOwner採用済み。** 哲学本文は[A3_PHILOSOPHY_DRAFT.md](A3_PHILOSOPHY_DRAFT.md)で編集する。ここには原文との対応、編集の系譜と[現在のレビュー状態](#review-status)を置く。採用された構成と、本文の説明・例・接続に対する意味確認を区別する。
+**本体系の日本語名と略称「SCB哲学」は2026-11-22のOwner判断で確定。** SCBは**Subject / Contract / Boundary**の頭文字である。哲学本文は[A3_PHILOSOPHY_DRAFT.md](A3_PHILOSOPHY_DRAFT.md)で編集する。ここには原文との対応、編集の系譜と[現在のレビュー状態](#review-status)を置く。名称・略称の確定、既存の責務境界、本文の説明・例・接続に対する意味確認を区別する。
 
 Work：[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。作業ブランチ：`refactor/dev-artifacts-restructure`。初稿source snapshot：`a9c249c10b34e1ae5e9ee4bf220c26db9667359c`。S番号は出典用であり、原則の優先順位ではない。
 
@@ -13,7 +13,7 @@ Work：[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/
 
 Ownerの原文を採用判断の根拠として読み、同じrecordのAssistant本文は、当時の提案と訂正対象を把握するために使う。保存された本文は可視会話からの転記であり、公式チャット原本とのbyte-level同一性が保証されたものではない。recordの見出しやAIの案内だけで原意を確定しない。
 
-リンクは作業ブランチ上の相対参照。S01〜S07の初稿根拠は初稿snapshot commitで、S08〜S23は後続のOwner発言・検討記録を指す。S10は別チャット由来のアップロード原文であり、User発言とAssistantの検討案を分けて参照する。
+リンクは作業ブランチ上の相対参照。S01〜S07の初稿根拠は初稿snapshot commitで、S08〜S24は後続のOwner発言・検討記録を指す。S10は別チャット由来のアップロード原文であり、User発言とAssistantの検討案を分けて参照する。
 
 <a id="s01"></a>
 ### S01 — 命名・意味・契約（baseline第1件）
@@ -195,6 +195,13 @@ Ownerは、匿名レビュー6.1〜6.8について、曖昧な認識の撮影で
 [Owner原文・取得できたAssistant応答・採用範囲](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)。Ownerは、まとまりと命名を本体系の契約・境界の意味で扱うよう求め、理解と伝達を真実・記録と一体化したうえで、目的に対する必要・充足と、状態・条件・作用・再現を分ける構成の精査を依頼した。四体系の境界を説明した回答と二文字三語の命名案を受け、「これで一旦決定しようか」と採用し、既存草案を含む整備・刷新とNALへの注意を依頼した。
 
 現在名は「主体と契約と境界の哲学」。他の三体系が本体系の定義を参照するという境界を採用済みとして扱う。新たな本文の個別説明は出典に沿った編集案であり、今回の採用対象を超えて全文章を制定済みとは扱わない。
+
+<a id="s24"></a>
+### S24 — SCB・TRCの確定と、③④の仮称扱い（2026-11-22）
+
+[Owner原文と略称提案](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)。Owner U1は①②の日本語名を確定し、③④を仮称として扱うと明示した。Assistant A1による英単語と頭文字の対応案を受け、Owner U2は「SCB哲学とTRC哲学は確定させて」と採用した。本体系ではSubject / Contract / BoundaryをSCBに対応させ、体系全体の略称として用いる。
+
+③④の名称・略称は仮の検討対象であり、④の略称とSCBの類似は今後扱う。今回の確定範囲は①②の名称・略称であり、既存の概念定義・責務境界や草案本文の個別説明に、別の採否判断を付加しない。
 
 <a id="traceability"></a>
 ## 本文との対応
@@ -395,10 +402,17 @@ L13で登録したOwner確認候補A・Bについて、Owner判断を得てsourc
 
 刷新前は [685fce3時点の本文](https://github.com/Daiki-Yoshida/documents-artifacts/blob/685fce3a1489930bb2d8b8178ab9825cb66bc9a1/documents/repository/operations/stage2/A3_PHILOSOPHY_DRAFT.md)と[用語索引](https://github.com/Daiki-Yoshida/documents-artifacts/blob/685fce3a1489930bb2d8b8178ab9825cb66bc9a1/documents/repository/operations/stage2/A3_UBIQUITOUS_LANGUAGE.md)から参照できる。各章の意味と原文の対応は既存の出典表を用い、今回の構成判断はS23を参照する。
 
+<a id="l17"></a>
+### L17：体系全体の略称SCBを反映（2026-11-22）
+
+[S24](#s24)に基づき、題名・冒頭・用語索引に「SCB哲学」とSubject / Contract / Boundaryの対応を併記した。正式な日本語名「主体と契約と境界の哲学」を保持し、体系全体を短く参照できる呼称として扱う。内部の指針に個別の原則名・英語略称を設けないS16の判断も維持する。
+
+①②の名称確定と③④の仮称扱いを現在の名称状態として接続した。S23・L16は当時の判断と編集の記録として保持する。第0章＋六章、既存D番号・参照アンカー、本文の概念定義と関係は維持し、今回の略称採用を本文全文の承認へ広げない。
+
 <a id="review-status"></a>
 ## 現在のレビュー状態
 
-**現在の体系名と、四体系の基礎となる責務境界は採用済み。本文は既存の定義と判断を保ちながら刷新した。** 体系自体を原則とし内部に独立した原則名を設けないS16の判断、章名・用語・性質参照名に関するS15の判断を維持する。
+**日本語名「主体と契約と境界の哲学」と略称「SCB哲学」は確定済み。四体系の基礎となる責務境界を保持し、本文は既存の定義と判断を保ちながら整備している。** 体系自体を原則とし内部に独立した原則名を設けないS16の判断、章名・用語・性質参照名に関するS15の判断を維持する。①②の名称・略称確定と③④の仮称扱いは[S24](#s24)に基づく。
 
 本体系について独立して維持する未解決の問いはない。Q01・Q02は終了済みであり、未実現のまとまりの撮影対象と集合的担い手の認識も[L14](#l14)でOwner判断を反映済みである。認識・情報P・主体内の仮想の関係はS20以降の説明を参照する。
 

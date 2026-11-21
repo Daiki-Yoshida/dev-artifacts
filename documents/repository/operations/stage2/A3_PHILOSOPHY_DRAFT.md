@@ -1,12 +1,12 @@
-# 主体と契約と境界の哲学 — 編集用草案
+# 主体と契約と境界の哲学（SCB哲学） — 編集用草案
 
-**状態：四体系の名称・境界はOwner採用済み。本文はStage 2-A-3の編集用草案。** [2026-11-20の採用判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、既存の草案を現在の名称と責務へ整理した。これまでに採用された意味・用語・章名・指針を引き継ぎ、本文の文章化と章構成は引き続き吟味する。
+**状態：日本語名と略称「SCB哲学」はOwner確定済み。本文はStage 2-A-3の編集用草案。** [2026-11-22の名称・略称の確定](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)により、**Subject / Contract / Boundary**の頭文字を用いたSCBを、本体系全体を指す略称とする。[2026-11-20の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)と、これまでに採用された意味・用語・章名・指針を引き継ぎ、本文の文章化と章構成は引き続き吟味する。
 
 本体系は、**主体が何を一つの存在として捉え、その存在が何であり、何を担い、他の存在とどう関わるかを定義する体系**である。認識・まとまり・命名・本質・契約・境界の関係を基礎に、主体の欲求と責務、契約の成立と履行、内部自由、分割と統合、乖離と再定義を扱う。
 
 存在や関係を意味あるまとまりとして成立させ、その境界を捉えるための基礎を担う。他の三体系も、自身の対象・主体・責務・境界を捉える際に、この定義を基礎とする。四体系のまとまりと相互関係は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
 
-**本体系そのものを原則とし、内部の判断指針はそれぞれの意味と役割で扱う。** 独立した原則名や英語略称は設けない。この位置づけは[Ownerの判断](../../../knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)による。用語の入口は[ユビキタス言語](A3_UBIQUITOUS_LANGUAGE.md)、原文と編集判断の対応・採否の経緯は[レビュー資料](A3_PHILOSOPHY_REVIEW.md)に置く。過去の原文はrecords、本文の改訂過程はGit履歴から辿る。
+**本体系そのものを原則とし、内部の判断指針はそれぞれの意味と役割で扱う。** 内部の指針に独立した原則名や英語略称は設けない。この位置づけは[Ownerの判断](../../../knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)による。用語の入口は[ユビキタス言語](A3_UBIQUITOUS_LANGUAGE.md)、原文と編集判断の対応・採否の経緯は[レビュー資料](A3_PHILOSOPHY_REVIEW.md)に置く。過去の原文はrecords、本文の改訂過程はGit履歴から辿る。
 
 D番号は箇所を指定する参照IDである。議論と編集は[Issue #222](https://github.com/Daiki-Yoshida/documents-artifacts/issues/222)、開発哲学全体の構成は[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)で追跡する。
 
@@ -461,4 +461,4 @@ Aが日時計を使いたいのは時刻を知るためであり、Bが目印を
 
 本文は、この体系を現在の意味で理解するために編集する。Owner原文、Assistantによる導出・文章化、採用・訂正の関係は[レビュー資料](A3_PHILOSOPHY_REVIEW.md#traceability)から辿る。原文recordsは本文の変更に合わせて書き換えず、採用判断は対象となった意味と範囲に即して扱う。
 
-本体系の既存レビューで独立して維持する未解決論点はない。四体系の名称・境界の採用と、草案本文の文章化・章構成の吟味は、それぞれの範囲で追跡する。
+本体系の既存レビューで独立して維持する未解決論点はない。本体系の名称・略称と責務境界、草案本文の文章化・章構成の吟味は、それぞれの範囲で追跡する。他体系の名称を含む現在の状態は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
