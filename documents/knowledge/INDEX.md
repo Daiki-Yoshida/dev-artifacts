@@ -24,7 +24,7 @@ recordsを根拠としてsemantic completenessと現在評価を維持する正�
 
 個々の知識の抽出・分類・配置手順はStage 2で設計し、その後に構築する。現時点の空領域を完成済みの正本として扱わない。
 
-①②の名称と略称SCB哲学・TRC哲学は確定し、③④は仮称として議論を続ける。[2026-11-22の名称判断](records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)に基づく。[Stage 2の入口](../repository/operations/stage2/INDEX.md)から、現在の名称・構成判断・四つの編集用草案・出典へ辿れる。採用済みの意味と、編集中の説明文・今後のsubjects配置を区別して管理する。
+第1哲学は主体（SCB）、第2哲学は記録（RTC）の責務範囲と真名・略名を確定した。第3哲学は責務範囲・本質・名称を検討中。第4哲学は責務範囲を環境とし、環境の定義を土台とした草案を整備している。真名・略名は検討中。[SCB・RTCの名称・責務範囲の採用判断](records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)、[環境の定義と草案反映の判断](records/2026-11-24-environment-definition-and-independence/RECORD.md)を参照する。[Stage 2の入口](../repository/operations/stage2/INDEX.md)から、現在の名称・構成判断・四つの編集用草案・出典へ辿れる。採用済みの意味と、編集中の説明文・今後のsubjects配置を区別して管理する。
 
 ## 情報の判断
 

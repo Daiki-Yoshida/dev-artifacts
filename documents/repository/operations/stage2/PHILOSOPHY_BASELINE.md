@@ -20,7 +20,8 @@
 
 - **主体と契約と境界（SCB）：** [撮影対象と集合的担い手の明確化](../../../knowledge/records/2026-11-18-unrealized-unit-capture-and-collective-recognition-philosophy-baseline/RECORD.md)までの継続判断と、[現在の出典・編集系譜](A3_PHILOSOPHY_REVIEW.md)を参照する。
 - **記録と真実と伝達（RTC）：** [仮想的意図の実体表現と主体変化](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[基礎哲学への依存と本文深化](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)、[主体・逐次記録・再現と再開](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)、[現在の出典・編集系譜](A3_TRUTH_SOURCE_REVIEW.md)を参照する。
-- **目的と必要と充足／状態と制御と再現（ともに仮称）：** 名称は後続判断により仮称。現時点の構成・検討対象は2026-11-20の構成判断、AONの採用済み原則本文は下表のOwner制定を参照する。第3哲学はAONを含み、責務範囲・本質・中心的概念は[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)に従って検討を続ける。本文の根拠と新たな説明の範囲は[③のレビュー](A3_PURPOSE_NECESSITY_REVIEW.md)と[④のレビュー](A3_STATE_CONTROL_REVIEW.md)に示す。
+- **第3哲学（目的と必要と充足〈仮称〉）：** AONを含み、責務範囲・本質・中心的概念は[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)に従って検討を続ける。AONの原則本文は下表のOwner制定、草案の出典・補足は[③のレビュー](A3_PURPOSE_NECESSITY_REVIEW.md)を参照する。
+- **第4哲学（環境と独立と再現〈仮称〉）：** 責務範囲は環境。[環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)を環境の定義・独立・清潔さ・公布と草案反映の基準点とする。制御・安全性・再現等の詳しい説明と名称は引き続き吟味する。[④のレビュー](A3_STATE_CONTROL_REVIEW.md)を参照する。
 
 ## 対象recordと旧path→新path対応（新規を含む）
 

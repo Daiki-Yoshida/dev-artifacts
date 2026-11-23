@@ -65,5 +65,5 @@ NALへの配慮として、過去の名称候補や分類候補の列挙は本�
 
 - [草案本文](A3_PURPOSE_NECESSITY_DRAFT.md)
 - [四体系の定義](A3_PHILOSOPHY_SYSTEMS.md)
-- [状態と制御と再現の哲学 — レビュー](A3_STATE_CONTROL_REVIEW.md)
+- [第4哲学（環境）のレビュー](A3_STATE_CONTROL_REVIEW.md)
 - [Stage 2入口](INDEX.md)
