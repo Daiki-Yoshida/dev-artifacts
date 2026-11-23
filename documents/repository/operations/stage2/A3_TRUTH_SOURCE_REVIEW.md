@@ -1,6 +1,6 @@
-# 真実と記録と伝達の哲学（TRC哲学） — レビュー・出典資料
+# 記録と真実と伝達の哲学（RTC哲学） — レビュー・出典資料
 
-**状態：本体系の日本語名と略称「TRC哲学」は2026-11-22のOwner判断で確定。** TRCは**Truth / Record / Communication**の頭文字である。[草案本文](A3_TRUTH_SOURCE_DRAFT.md)は、主体と契約と境界の哲学を基礎に、原本の保持と後の主体の理解・判断・利用を一体の責務として説明する。本書は出典、Assistantの導出・補筆、編集の系譜と現在の意味確認を管理する。
+**第2哲学：責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** RTCは**Record / Truth / Communication**の頭文字である。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)を現在の根拠とする。[草案本文](A3_TRUTH_SOURCE_DRAFT.md)はSCB哲学を基礎に、原本の保持と後の主体の理解・判断・利用を一体の責務として説明する。本書は出典、Assistantの導出・補筆、編集の系譜と現在の意味確認を管理する。
 
 記録・解釈・理解・伝達とNALを本体系内で扱う。必要性と充足は③、活動の条件・状態・作用と再形成は④を参照する。全体の境界は[四体系の構成判断](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
 
@@ -20,16 +20,17 @@
 | S09 | [Work Records提案のOwner原文](../../../knowledge/records/2026-10-13-work-records-proposal/USER_MESSAGES.md)、既存mainの[Work Identity](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/work-identity/S001_IDENTITY_MODEL.md)・[Work Documents](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/work-identity/S003_WORK_DOCUMENTS.md)・[開発実行モデル](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/development-execution/S001_EXECUTION_MODEL.md) | 作業目的の同一性、軽量な逐次記録、共通の参照先、実行の再現性を扱う既存実現例。参照版を固定し、新体系の方法論としての再採用とは区別 |
 | S10 | 既存mainの[FormatとGit](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/documentation/S005_FORMAT_AND_GIT.md) | S08 A1が指摘した「なぜはdiffが示す」の修正対象を確認。変更差分と主体の判断理由の関係をL05で方法論へ引き継ぐ |
 | S11 | [2026-11-20 哲学の名称をそろえるOwner原文](../../../knowledge/records/2026-11-20-philosophy-name-pairing/RECORD.md) | 「真実と記録の哲学」という名称の選定、「契約と教会」という原文表記と「境界」へのAssistant補正、基礎に関する検討表現を区別 |
-| S12 | [2026-11-20 四体系の名称・境界の採用と整備依頼](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md) | 記録と理解・伝達の一体性、現在名「真実と記録と伝達の哲学」、他体系との境界を採用。過去の草案を刷新しNALに注意する編集依頼 |
+| S12 | [2026-11-20 四体系の名称・境界の採用と整備依頼](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md) | 記録と理解・伝達の一体性、当時の名称「真実と記録と伝達の哲学」、他体系との境界を採用。過去の草案を刷新しNALに注意する編集依頼 |
 | S13 | [2026-11-20 哲学草案への具体的な方法論の掲載に関するOwner訂正](../../../knowledge/records/2026-11-20-truth-philosophy-methodology-scope-correction/RECORD.md) | Work・Record・GitHubへの言及はAssistantの理解を助けるためであり、哲学草案へ入れるべきではないという範囲の明示 |
 | S14 | [2026-11-22 SCB・TRCの確定と③④の仮称扱い](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md) | Owner U1による①②の日本語名確定と③④の仮称扱い、Assistant A1の英語・略称案、U2によるSCB哲学・TRC哲学の採用。TRCはTruth / Record / Communicationに対応する体系全体の略称 |
+| S15 | [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md) | 記録を責務範囲とし第一語へ置く真名と、略名RTCの採用。第1哲学の主体・根源の区別。採用範囲は第1・第2哲学 |
 
 原文recordsは編集せず、後続判断を既存の閉じたsource bundleへ継ぎ足さない。
 
 <a id="lineage"></a>
 ## 編集と判断の系譜
 
-L01以降は各時点の判断と編集を保存する。過去の「名称未確定」「配置未定」等の扱いはL07、具体的な方法論を本文へ接続した編集判断はL08、名称・略称の後続判断はL09と現在のレビュー状態で辿る。
+L01以降は各時点の判断と編集を保存する。過去の「名称未確定」「配置未定」等の扱いはL07、具体的な方法論を本文へ接続した編集判断はL08、名称・略称の後続判断はL09・L10と現在のレビュー状態で辿る。
 
 ### L01：スキャフォールド初版（2026-11-18）
 
@@ -176,10 +177,15 @@ S12のOwner U3は、記録の性質上、保存と適切な理解・伝達を一
 
 現在の名称状態は今回のOwner判断を根拠とし、S12・L07は当時の構成・命名判断の記録として保持する。④の略称はSCBとの類似を踏まえて後続で検討する。今回の確定範囲を①②の名称・略称として扱い、六節の本文、記録と理解・伝達の一体性、L08による方法論の掲載範囲の訂正を保持する。
 
+<a id="l10"></a>
+### L10：記録を第一語とする真名・略名RTCの採用（2026-11-24）
+
+S15に基づき、責務範囲を記録と明示し、真名を「記録と真実と伝達の哲学」、略名をRTC（Record / Truth / Communication）へ更新した。六節の本文と記録・理解・伝達の一体性、原本と解釈の関係、方法論との責務境界は保持する。S12・S14とL07・L09は各時点の採用・編集記録である。今回の採用は本文の個別説明の新たな制定を意味しない。
+
 <a id="review-status"></a>
 ## 現在のレビュー状態
 
-**日本語名「真実と記録と伝達の哲学」と略称「TRC哲学」は確定済み。記録と理解・伝達を一つに引き受ける本質と、他体系との責務境界を保持する。** 既存6節の本文をこの境界に沿って整備した。①②の名称・略称確定と③④の仮称扱いはS14に基づく。独立した「理解と伝達」や「信頼と検証」の体系を追加しないという構成判断は、[全体の系譜](A3_PHILOSOPHY_SYSTEMS.md)で扱う。
+**第2哲学：責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** S15に基づく。記録と理解・伝達を一つに引き受ける本質と、他体系との責務境界を保持する。既存6節の本文はこの境界に沿って整備済みである。③④は仮称として議論を続ける。独立した「理解と伝達」や「信頼と検証」の体系を追加しないという構成判断は[全体の系譜](A3_PHILOSOPHY_SYSTEMS.md)で扱う。
 
 本文の意味確認では、原本の一次性・非同一性・意図への忠実性を保っているか、主体の変化・逐次記録・評価・訂正・再開・伝達を適切につないでいるかを吟味する。S01・S06・S08・S12・S13のOwner原文と、L04・L05・L07の導出・接続、およびL08の掲載範囲の訂正を辿れるようにした。
 

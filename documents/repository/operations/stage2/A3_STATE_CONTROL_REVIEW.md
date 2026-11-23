@@ -6,7 +6,7 @@
 
 2026-11-20のOwner判断により、四体系の一つとして「状態と制御と再現の哲学」という名称と、活動を成立させる状態・条件、その活動が及ぼす作用を把握し、意図した範囲で扱い、必要な状態を再び成立させる責務を採用した。
 
-名称の現在の扱いは、後続の[2026-11-22のOwner判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)を反映する。①②の日本語名と略称SCB・TRCが確定し、③④は仮称として議論を続ける。④の略称は未確定であり、SCRはAssistant提案として保持する。SCBとの似通いを踏まえた略称の検討は後続で扱う。
+名称の現在の扱いは[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。第1・第2哲学はSCB・RTCを用い、③④の名称・略名は引き続き検討する。今回の決定は第1・第2哲学に限る。
 
 環境と手順の定義、状態の清潔さ、依存関係、操作対象と副作用、分離と干渉、安全性、再現・復旧は、この責務のもとで一体として扱う。必要性と充足の判断において③を参照しつつ、活動の条件・状態・作用を引き受ける固有の体系として位置づける。
 
@@ -25,7 +25,7 @@
 | S06 | 固定mainの[権限・範囲・確認](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/engineering-operation/S002_AUTHORITY_SCOPE_AND_CLARIFICATION.md) | 技術的なアクセス可能性と権限、対象側の責務、既存の有効な委譲、実効的な変更先の区別を照合する既存方法論。具体的な規範分類や操作gateは今回の哲学で制定しない |
 | S07 | 固定mainの[検証と完了](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/engineering-operation/S005_VERIFICATION_AND_DONE.md) | 実際に変えたこと、確かめたこと、未確認のこと、影響を区別する既存実現例 |
 | S08 | [主体と契約と境界の哲学](A3_PHILOSOPHY_DRAFT.md)・[対応するレビュー](A3_PHILOSOPHY_REVIEW.md) | 主体・責務・契約・境界・内部自由・共有実態・乖離と再定義の基礎。一次出典と採否は参照先で管理 |
-| S09 | [真実と記録と伝達の哲学](A3_TRUTH_SOURCE_DRAFT.md)・[対応するレビュー](A3_TRUTH_SOURCE_REVIEW.md) | 状態・操作・判断の記録と、後の主体による理解・照合・再開。一次出典と採否は参照先で管理 |
+| S09 | [記録と真実と伝達の哲学](A3_TRUTH_SOURCE_DRAFT.md)・[対応するレビュー](A3_TRUTH_SOURCE_REVIEW.md) | 状態・操作・判断の記録と、後の主体による理解・照合・再開。一次出典と採否は参照先で管理 |
 | S10 | [目的と必要と充足の哲学](A3_PURPOSE_NECESSITY_DRAFT.md)・[対応するレビュー](A3_PURPOSE_NECESSITY_REVIEW.md) | 必要な成立条件、分離や手段の必要性、確認する範囲、充足の判断との接続。AON本文の根拠と説明上の補筆は参照先で管理 |
 | S11 | [①②の名称・略称の確定と③④の仮称扱い](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md) | Owner U1・U2による名称状態の明示とSCB・TRCの採用。④の名称は仮称とし、SCBとの似通いを踏まえた略称の検討は後続で扱う |
 

@@ -1,6 +1,6 @@
-# 真実と記録と伝達の哲学（TRC哲学） — A-3編集用草案
+# 記録と真実と伝達の哲学（RTC哲学） — A-3編集用草案
 
-**状態：日本語名と略称「TRC哲学」はOwner確定済み。本文はStage 2-A-3の編集用草案。** [2026-11-22の名称・略称の確定](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)により、**Truth / Record / Communication**の頭文字を用いたTRCを、本体系全体を指す略称とする。[四体系の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、記録・理解・伝達を一つの体系として整理する。本文は、Owner原文と既存定義を接続したAssistant編集案を含む。各説明の出典・導出・採否は[レビュー資料](A3_TRUTH_SOURCE_REVIEW.md)で追跡する。
+**第2哲学：責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** 本文はStage 2-A-3の編集用草案。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)に基づき、**Record / Truth / Communication**の頭文字を用いたRTCを体系全体の略名とする。[四体系の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、記録・理解・伝達を一つの体系として扱う。各説明の出典・導出・採否は[レビュー資料](A3_TRUTH_SOURCE_REVIEW.md)で追跡する。
 
 この哲学は、**真実・意図・表現・解釈の関係を踏まえ、主体や時間を越えて情報を保持し、後の主体がその意味を適切に理解・判断・利用できるようにすること**を扱う。当時の表現へ立ち返れることと、その意味を後の主体へ適切に伝えられることを、一体の責務として引き受ける。
 
@@ -233,6 +233,6 @@ NALは、この体系の適切な伝達に関わる内容として位置づけ�
 
 ## 編集・承認の境界
 
-[2026-11-20の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、本体系では記録・理解・伝達を一体として扱い、主体と契約と境界の哲学を基礎とする。[2026-11-22の判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)では①②の日本語名と略称SCB・TRCを確定し、③④の名称を仮称として扱う。今回の名称・略称の確定は、この本文の個別説明の承認とは区別する。
+[2026-11-20の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、本体系では記録・理解・伝達を一体として扱い、主体と契約と境界の哲学を基礎とする。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)により、記録を責務範囲とする真名・略名を確定した。名称の確定と本文の個別説明の承認は区別する。
 
 本文には、Owner原文を既存定義へ接続したAssistantの導出・発展案を含む。体系の採用範囲と、各説明の意味確認・採否を[レビュー資料](A3_TRUTH_SOURCE_REVIEW.md)で追跡する。新たな判断や訂正は、別のsource eventとして保存する。subjectsへの配置、artifactsの構築・配布、`main`への統合は、[Stage 2の進行手順](../STAGE2_WORKFLOW.md)と各工程の判断に従う。

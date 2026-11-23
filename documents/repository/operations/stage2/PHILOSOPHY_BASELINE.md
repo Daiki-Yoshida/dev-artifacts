@@ -12,14 +12,14 @@
 - 明示採用が確認できるのは例えば**AON原則の名称とOwner自身による定義**。ほかの対話は、深い思想形成を示していても、完成版Dev-Philosophyを一括承認したものではない。
 - 未来のOwnerの哲学の改訂・補足は**新しいrecord**に保存する。後続recordが判断をrefine / correct / supersedeし得る。後続のrecordsをこの接尾辞で一律に格下げしない。
 - 旧recordsは削除せず、あらゆる矛盾を「新しい日付のほうが上」と判断しない。**基準点の優先的な参照と、規範的authorityの確定は別の軸**。
-- 四体系の構成判断は2026-11-20のrecordを参照する。後続の2026-11-22の判断により、①②の名称と略称SCB哲学・TRC哲学は確定、③④は仮称として扱う。subjectの物理配置とStage 3の配布方式は、それぞれの工程で扱う。
+- 四体系の構成判断は2026-11-20のrecordを参照する。現在の名称・責務範囲は[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)に従い、第1哲学は主体（SCB）、第2哲学は記録（RTC）、③④は仮称として扱う。subjectの物理配置とStage 3の配布方式は、それぞれの工程で扱う。
 
 ## 後続の判断から読む
 
-現在の構成は[四体系の名称・略称・本質・責務境界](A3_PHILOSOPHY_SYSTEMS.md)を入口とする。2026-11-20の[採用と草案整備のrecord](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)と、2026-11-22の[名称状態・略称採用のrecord](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)は、以下の基準点に続く判断である。現在の名称状態は後者の判断に従い、接尾辞の有無で採用の有効性を変えない。
+現在の構成は[四体系の名称・略称・本質・責務境界](A3_PHILOSOPHY_SYSTEMS.md)を入口とする。[2026-11-20の構成判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)、[2026-11-22の名称判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)、[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)は、以下の基準点に続く判断である。現在の名称状態は最新の判断範囲に従う。
 
 - **主体と契約と境界（SCB）：** [撮影対象と集合的担い手の明確化](../../../knowledge/records/2026-11-18-unrealized-unit-capture-and-collective-recognition-philosophy-baseline/RECORD.md)までの継続判断と、[現在の出典・編集系譜](A3_PHILOSOPHY_REVIEW.md)を参照する。
-- **真実と記録と伝達（TRC）：** [仮想的意図の実体表現と主体変化](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[基礎哲学への依存と本文深化](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)、[主体・逐次記録・再現と再開](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)、[現在の出典・編集系譜](A3_TRUTH_SOURCE_REVIEW.md)を参照する。
+- **記録と真実と伝達（RTC）：** [仮想的意図の実体表現と主体変化](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[基礎哲学への依存と本文深化](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)、[主体・逐次記録・再現と再開](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)、[現在の出典・編集系譜](A3_TRUTH_SOURCE_REVIEW.md)を参照する。
 - **目的と必要と充足／状態と制御と再現（ともに仮称）：** 名称は後続判断により仮称。体系の責務境界は2026-11-20の構成判断、AONの核は下表のOwner制定を参照する。本文の根拠と新たな説明の範囲は[③のレビュー](A3_PURPOSE_NECESSITY_REVIEW.md)と[④のレビュー](A3_STATE_CONTROL_REVIEW.md)に示す。
 
 ## 対象recordと旧path→新path対応（新規を含む）

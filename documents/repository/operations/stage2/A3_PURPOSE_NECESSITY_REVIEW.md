@@ -6,7 +6,7 @@
 
 2026-11-20のOwner判断により、四体系の一つとして「目的と必要と充足の哲学」という名称と、目的・責務に対する必要を捉え、その充足に即して実現を選択・評価する責務を採用した。AONはこの体系の核に置く。活動の条件・状態・作用を扱う「状態と制御と再現の哲学」とは、それぞれの本質と責務を持つ体系として区別する。
 
-名称の現在の扱いは、後続の[2026-11-22のOwner判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)を反映する。①②の日本語名と略称SCB・TRCが確定し、③④は仮称として議論を続ける。③の略称は未確定であり、PNFは同記録のAssistant提案として保持する。
+名称の現在の扱いは[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。第1・第2哲学はSCB・RTCを用い、③④の名称・略名は引き続き検討する。今回の決定は第1・第2哲学に限る。
 
 AONの既存の採用範囲は、2026-11-11のOwner U3による名称・標語・原則本文である。今回の体系化に際しても、この本文の規範の強さと「実現の困難さや時期」という表現を維持する。A-1/P04全体や、当時のAssistantの説明をまとめて採用済み本文へ昇格させない。
 
@@ -24,7 +24,7 @@ AONの既存の採用範囲は、2026-11-11のOwner U3による名称・標語�
 | S05 | 固定mainの[実現モデル](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/code-design/S001_REALIZATION_MODEL.md)・[設計判断の優先順位](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/code-design/S012_DESIGN_PRIORITY.md) | 選択した契約に対する実装手段の交換可能性、必要な契約・保証を過剰設計回避の名目で省かない既存実現例。コード設計固有の優先順位を普遍哲学へ移さない |
 | S06 | 固定mainの[テストと実行構造](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/code-design/S009_TESTING_AND_RUNTIME.md)・[検証と完了](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/engineering-operation/S005_VERIFICATION_AND_DONE.md) | 契約適合と要求達成の分離、検証した範囲と未確認範囲の区別に関する既存方法論。特定の試験分類や報告項目は今回の哲学本文で制定しない |
 | S07 | [主体と契約と境界の哲学](A3_PHILOSOPHY_DRAFT.md)・[対応するレビュー](A3_PHILOSOPHY_REVIEW.md) | 主体・欲求・責務、契約の成立と履行、内部自由、乖離と再定義の基礎。一次出典と採否は参照先で管理 |
-| S08 | [真実と記録と伝達の哲学](A3_TRUTH_SOURCE_DRAFT.md)・[対応するレビュー](A3_TRUTH_SOURCE_REVIEW.md) | 変化する主体、判断の経過、原本と後続評価、再開できる記録の責務。一次出典と採否は参照先で管理 |
+| S08 | [記録と真実と伝達の哲学](A3_TRUTH_SOURCE_DRAFT.md)・[対応するレビュー](A3_TRUTH_SOURCE_REVIEW.md) | 変化する主体、判断の経過、原本と後続評価、再開できる記録の責務。一次出典と採否は参照先で管理 |
 | S09 | [①②の名称・略称の確定と③④の仮称扱い](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md) | Owner U1・U2による名称状態の明示とSCB・TRCの採用。③の名称は仮称、略称案はAssistant提案として扱う |
 
 S02〜S04の保存元は編集前の作業ブランチHEAD `685fce3a1489930bb2d8b8178ab9825cb66bc9a1` で確認した。S05・S06は `main` の `7ad8bb4f948359633003a47fa6bfcc8d6853ddb6` に固定して参照する。既存のmethodsを新体系へ再採用・配置する工程は、この草案化と区別する。
