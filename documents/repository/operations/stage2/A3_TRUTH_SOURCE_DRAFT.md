@@ -4,7 +4,7 @@
 
 この哲学は、**真実・意図・表現・解釈の関係を踏まえ、主体や時間を越えて情報を保持し、後の主体がその意味を適切に理解・判断・利用できるようにすること**を扱う。当時の表現へ立ち返れることと、その意味を後の主体へ適切に伝えられることを、一体の責務として引き受ける。
 
-主体・仮想・実体・認識・欲求と責務・契約・再定義の定義は、[主体と契約と境界の哲学（SCB哲学）](A3_PHILOSOPHY_DRAFT.md)を基礎とする。本書のD番号は、その草案の定義箇所を指す。[目的と必要と充足の哲学（仮称）](A3_PURPOSE_NECESSITY_DRAFT.md)は、目的と責務に照らした必要性と充足の判断を扱い、[環境と独立と制御の哲学（EIC哲学）](A3_STATE_CONTROL_DRAFT.md)は、活動の条件・状態・作用を把握し、必要な状態を再形成する責務を担う。四体系の境界と関係は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
+主体・仮想・実体・認識・欲求と責務・契約・再定義の定義は、[主体と契約と境界の哲学（SCB哲学）](A3_PHILOSOPHY_DRAFT.md)を基礎とする。本書のD番号は、その草案の定義箇所を指す。[第3哲学「実現の哲学」](A3_PURPOSE_NECESSITY_DRAFT.md)は、目的と責務に照らした行為の選択と充足の判断を扱い、[環境と独立と制御の哲学（EIC哲学）](A3_STATE_CONTROL_DRAFT.md)は、活動の条件・状態・作用を把握し、必要な状態を再形成する責務を担う。四体系の境界と関係は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
 
 思想の原文は、[真実・原本・解釈・誤情報に関するOwner発言](../../../knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)、[記録・主体変化の発言](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[主体としての記録・逐次記録・再現と再開の対話](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)に保存している。本文中のU番号は、最初のOwner発言集の識別子である。
 

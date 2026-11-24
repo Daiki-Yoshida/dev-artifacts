@@ -1,6 +1,6 @@
 # Stage 2：哲学の構成・草案・調査資料
 
-本ディレクトリは、哲学の抽出・対話・吟味・構成判断を保持する作業資料領域である。**第1哲学は主体（SCB）、第2哲学は記録（RTC）、第4哲学は環境（EIC）の真名・略名を確定。第3哲学は仮称。** [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。各本文の出典・説明上の補筆・現在の吟味範囲はレビュー資料で辿れる。記述・分析・Ownerレビューは日本語を標準とする。
+本ディレクトリは、哲学の抽出・対話・吟味・構成判断を保持する作業資料領域である。**第1哲学は主体（SCB）、第2哲学は記録（RTC）、第4哲学は環境（EIC）の真名・略名を確定。第3哲学の責務呼称は「実現の哲学」、真名の第一語は「実現」。** [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。各本文の出典・説明上の補筆・現在の吟味範囲はレビュー資料で辿れる。記述・分析・Ownerレビューは日本語を標準とする。
 
 まず[四体系の名称・略称・本質・責務境界](A3_PHILOSOPHY_SYSTEMS.md)を読む。①を基礎として、②③④がそれぞれの責務を担う構成と、体系を分ける・一つにする理由を説明している。[2026-11-20の採用と整備依頼のrecord](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に当時の原文と取得範囲を保存した。
 
@@ -18,11 +18,11 @@
 
 責務範囲は記録。当時の表現へ立ち返れることと、後の主体が意味を適切に理解・判断・利用できることを一体で担う。原本と解釈、主体としての記録、逐次記録、評価・訂正、再開を支える説明、適切な伝達とNALを扱う。
 
-### 3．目的と必要と充足の哲学〈仮称〉
+### 3．実現の哲学
 
 [本文](A3_PURPOSE_NECESSITY_DRAFT.md) / [出典・レビュー](A3_PURPOSE_NECESSITY_REVIEW.md)
 
-現時点の草案では、目的と責務に照らす必要性と、その充足に即した実現の選択・評価を扱う。採用済み原則AONを含み、その原文を保持する。第3哲学の暫定責務範囲は判断と実現。[判断と実現を暫定責務範囲とする判断](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-realization-scope/RECORD.md)に基づき、意思と判断、行為と実現の関係を検討する。一語で表す責務範囲・本質・中心的概念および真名・略名は検討中（[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)）。
+責務範囲は実現。実現を表、判断を裏とし、主体がなぜその行為を選んだか、その働きかけが何を満たしたかを扱う。「意思と判断」「必要と選択」「充足と判断の更新」の三節に整理し、採用済みのAONは第2節に置く。真名の残る構成語と略名は検討中である。[責務呼称の採用と草案整理の記録](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)
 
 ### 4．環境と独立と制御の哲学（EIC哲学）
 
@@ -65,6 +65,6 @@
 
 ## 進行と追跡先
 
-①②④は確定した真名・略名を用い、③は仮称として議論を続ける。体系の責務境界と各説明文は、それぞれの採用範囲・出典を辿って吟味する。subjectsへの配置、方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。現時点の継続編集元はこの作業資料領域である。
+①②④は確定した真名・略名を用い、③は責務呼称「実現の哲学」で参照する。体系の責務境界と各説明文は、それぞれの採用範囲・出典を辿って吟味する。subjectsへの配置、方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。現時点の継続編集元はこの作業資料領域である。
 
 Work：[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。個別の継続草案：[① Issue #222](https://github.com/Daiki-Yoshida/documents-artifacts/issues/222)、[② Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。③④の作成・吟味は#221から追跡する。

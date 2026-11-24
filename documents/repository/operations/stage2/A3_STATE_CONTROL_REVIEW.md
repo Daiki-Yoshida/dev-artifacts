@@ -30,7 +30,7 @@ S14 U1では、契約として求める環境と現実の実体の乖離はSCB�
 | S07 | 固定mainの[検証と完了](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/engineering-operation/S005_VERIFICATION_AND_DONE.md) | 実際に変えたこと、確かめたこと、未確認のこと、影響を区別する既存実現例 |
 | S08 | [主体と契約と境界の哲学](A3_PHILOSOPHY_DRAFT.md)・[対応するレビュー](A3_PHILOSOPHY_REVIEW.md) | 主体・責務・契約・境界・内部自由・共有実態・乖離と再定義の基礎。一次出典と採否は参照先で管理 |
 | S09 | [記録と真実と伝達の哲学](A3_TRUTH_SOURCE_DRAFT.md)・[対応するレビュー](A3_TRUTH_SOURCE_REVIEW.md) | 状態・操作・判断の記録と、後の主体による理解・照合・再開。一次出典と採否は参照先で管理 |
-| S10 | [目的と必要と充足の哲学](A3_PURPOSE_NECESSITY_DRAFT.md)・[対応するレビュー](A3_PURPOSE_NECESSITY_REVIEW.md) | 必要な成立条件、分離や手段の必要性、確認する範囲、充足の判断との接続。AON本文の根拠と説明上の補筆は参照先で管理 |
+| S10 | [第3哲学「実現の哲学」](A3_PURPOSE_NECESSITY_DRAFT.md)・[対応するレビュー](A3_PURPOSE_NECESSITY_REVIEW.md) | 必要な成立条件、分離や手段の必要性、確認する範囲、充足の判断との接続。AON本文の根拠と説明上の補筆は参照先で管理 |
 | S11 | [①②の名称・略称の確定と③④の仮称扱い](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md) | Owner U1・U2による名称状態の明示とSCB・TRCの採用。④の名称は仮称とし、SCBとの似通いを踏まえた略称の検討は後続で扱う |
 | S12 | [環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md) | 環境へのSCBの展開、清潔さと相互干渉、命名による公布、責務範囲「環境」、分野非限定、環境の定義案とその草案反映へのOwner判断。U0は引継ぎ引用、U1〜U5は選定したOwner発言、A1・A2は名称候補と定義案の記録。原文・導出・採用範囲はrecordで区別 |
 | S13 | [環境の契約・境界・独立の相対性に関する判断](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md) | U1による環境もSCBのまとまりであること、独立性の主体・欲求・契約への相対性、依存の契約の明示。A1の導出とU2の再構築依頼。先行質問・回答の選定箇所も保存 |
@@ -67,7 +67,7 @@ S14の精査では、既存環境と求める環境の関係はSCBの乖離と�
 
 ## 体系間の境界
 
-①は主体・契約・境界という意味の基礎を担う。第4哲学はその理論を活動の基盤となる環境へ展開し、環境の独立、管理責務、状態・作用、再形成を扱う。必要性・充足の判断では第3哲学の現時点の草案を参照する。第3哲学の暫定責務範囲は判断と実現であり、本質・中心的概念は検討中である。
+①は主体・契約・境界という意味の基礎を担う。第4哲学はその理論を活動の基盤となる環境へ展開し、環境の独立、管理責務、状態・作用、再形成を扱う。その環境を整えるために何が必要で、選んだ関わり方が目的をどこまで満たしたかを問うときは、第3哲学「実現の哲学」を参照する。
 
 ②との関係では、ある状態の記録が残っていること、後の主体がその意味を理解できること、必要な状態を実際に再構成できることを、それぞれの対応先に照らして扱う。記録を保存した事実だけで実際の再現まで成立したとせず、再現や復旧に必要な情報を②へ要求し、利用する関係として接続する。
 
@@ -101,5 +101,5 @@ S14で精査した五項目はOwnerの回答と補足を反映済み。独立・
 
 - [草案本文](A3_STATE_CONTROL_DRAFT.md)
 - [四体系の定義](A3_PHILOSOPHY_SYSTEMS.md)
-- [目的と必要と充足の哲学 — レビュー](A3_PURPOSE_NECESSITY_REVIEW.md)
+- [実現の哲学 — レビュー](A3_PURPOSE_NECESSITY_REVIEW.md)
 - [Stage 2入口](INDEX.md)

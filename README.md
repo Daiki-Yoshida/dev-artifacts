@@ -35,7 +35,7 @@ artifacts.sh
 
 ## Stage 2 — 哲学先行（進行中）
 
-[Owner採用済みのStage 2 Workflow](documents/repository/operations/STAGE2_WORKFLOW.md) に従い、**A-1/A-2の全件取得・一次意味監査は完了**（旧subjects 70/70、records 206/206）。[完了報告とOwnerへの論点](documents/repository/operations/stage2/A1_A2_COMPLETION_REPORT.md)・[調査資料](documents/repository/operations/stage2/INDEX.md)を参照。現在はA-3でOwnerが哲学の内容を吟味する前段階であり、17件の粗哲学候補は**すべて未承認**。 `subjects/dev-philosophy/` は空のまま維持する。
+[Owner採用済みのStage 2 Workflow](documents/repository/operations/STAGE2_WORKFLOW.md) に従い、**A-1/A-2の全件取得・一次意味監査は完了**（旧subjects 70/70、records 206/206）。一次監査で抽出した17件は[当時の完了報告](documents/repository/operations/stage2/A1_A2_COMPLETION_REPORT.md)にある。現在はA-3で、主体・記録・実現・環境を扱う四つの草案をOwnerと吟味している。第3哲学の責務呼称は「実現の哲学」。各判断の採用範囲と出典は[Stage 2の入口](documents/repository/operations/stage2/INDEX.md)から辿れる。
 
 ## Stage 1 の検証
 

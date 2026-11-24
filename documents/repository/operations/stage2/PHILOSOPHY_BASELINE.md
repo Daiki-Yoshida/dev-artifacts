@@ -12,7 +12,7 @@
 - 明示採用が確認できるのは例えば**AON原則の名称とOwner自身による定義**。ほかの対話は、深い思想形成を示していても、完成版Dev-Philosophyを一括承認したものではない。
 - 未来のOwnerの哲学の改訂・補足は**新しいrecord**に保存する。後続recordが判断をrefine / correct / supersedeし得る。後続のrecordsをこの接尾辞で一律に格下げしない。
 - 旧recordsは削除せず、あらゆる矛盾を「新しい日付のほうが上」と判断しない。**基準点の優先的な参照と、規範的authorityの確定は別の軸**。
-- 四体系の構成判断は2026-11-20のrecordを参照する。現在の名称・責務範囲は[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)および[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に従い、第1哲学は主体（SCB）、第2哲学は記録（RTC）、第4哲学は環境（EIC）、第3哲学は仮称として扱う。subjectの物理配置とStage 3の配布方式は、それぞれの工程で扱う。
+- 四体系の構成判断は2026-11-20のrecordを参照する。名称と責務範囲は[SCB・RTCの採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)、[EICの採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)、[第3哲学の責務呼称と真名の第一語の採用判断](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)から辿れる。subjectの物理配置とStage 3の配布方式は、それぞれの工程で扱う。
 
 ## 後続の判断から読む
 
@@ -20,7 +20,7 @@
 
 - **主体と契約と境界（SCB）：** [撮影対象と集合的担い手の明確化](../../../knowledge/records/2026-11-18-unrealized-unit-capture-and-collective-recognition-philosophy-baseline/RECORD.md)までの継続判断と、[現在の出典・編集系譜](A3_PHILOSOPHY_REVIEW.md)を参照する。
 - **記録と真実と伝達（RTC）：** [仮想的意図の実体表現と主体変化](../../../knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[基礎哲学への依存と本文深化](../../../knowledge/records/2026-11-19-truth-record-contract-dependency-and-deepening/RECORD.md)、[主体・逐次記録・再現と再開](../../../knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)、[現在の出典・編集系譜](A3_TRUTH_SOURCE_REVIEW.md)を参照する。
-- **第3哲学（目的と必要と充足〈仮称〉）：** AONを含む。[判断と実現を暫定責務範囲とする判断](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-realization-scope/RECORD.md)に基づき暫定責務範囲を判断と実現とする。本質・中心的概念は[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)に従って検討を続ける。AONの原則本文は下表のOwner制定、草案の出典・補足は[③のレビュー](A3_PURPOSE_NECESSITY_REVIEW.md)を参照する。
+- **第3哲学（実現の哲学）**　[判断と実現という暫定範囲](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-realization-scope/RECORD.md)を受け、[実現を表、判断を裏とする判断](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)で責務呼称と真名の第一語「実現」が定まった。残る構成語と略名は検討中。AONは[体系内の採用済み原則](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)として扱う。推敲案・原文と三節の対応は[③のレビュー](A3_PURPOSE_NECESSITY_REVIEW.md)に示す。
 - **第4哲学（環境と独立と制御の哲学（EIC哲学））：** 責務範囲は環境。[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)により真名・略名を確定した。[環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約・境界・独立の相対性に関する判断](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)を基準とする。境界に相対する汚染・清潔さ、行為の契約と環境の構造による履行、安全性、再現活動の環境を展開した。[④のレビュー](A3_STATE_CONTROL_REVIEW.md)に導出と吟味範囲を示す。
 
 ## 対象recordと旧path→新path対応（新規を含む）
