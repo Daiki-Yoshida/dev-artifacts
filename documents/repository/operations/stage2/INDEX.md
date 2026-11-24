@@ -22,7 +22,7 @@
 
 [本文](A3_PURPOSE_NECESSITY_DRAFT.md) / [出典・レビュー](A3_PURPOSE_NECESSITY_REVIEW.md)
 
-現時点の草案では、目的と責務に照らす必要性と、その充足に即した実現の選択・評価を扱う。採用済み原則AONを含み、その原文を保持する。第3哲学の責務範囲・本質・中心的概念および真名・略名は検討中（[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)）。
+現時点の草案では、目的と責務に照らす必要性と、その充足に即した実現の選択・評価を扱う。採用済み原則AONを含み、その原文を保持する。第3哲学の暫定責務範囲は判断と実現。[判断と実現を暫定責務範囲とする判断](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-realization-scope/RECORD.md)に基づき、意思と判断、行為と実現の関係を検討する。一語で表す責務範囲・本質・中心的概念および真名・略名は検討中（[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)）。
 
 ### 4．環境と独立と制御の哲学（EIC哲学）
 
