@@ -1,6 +1,6 @@
-# 環境と独立と再現の哲学〈仮称〉 — 第4哲学・編集用草案
+# 環境と独立と制御の哲学（EIC哲学） — 第4哲学・編集用草案
 
-**責務範囲：環境。真名・略名は検討中。本文はStage 2-A-3の編集用草案。** [環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約・境界・独立の相対性に関する判断](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)に基づく。標題は名称候補であり、正式な命名・本文全体の制定は別の判断とする。
+**第4哲学：責務範囲「環境」、真名「環境と独立と制御の哲学」、略名「EIC哲学」。本文はStage 2-A-3の編集用草案。** [EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。EICはEnvironment / Independence / Controlの頭文字である。 [環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約・境界・独立の相対性に関する判断](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)に基づく。真名・略名は採用済みであり、本文全体の正式制定は別の判断とする。
 
 本体系は、主体の活動の基盤となる環境に対してSCBを展開する理論哲学である。環境と、環境を通じて行われる行為を、主体と欲求に相対した命名・契約・境界を持つまとまりとして捉える。環境の定義・構成・利用・維持・変更・再形成を、契約と実態の関係から扱う。境界での堅固な契約の履行と内部自由、独立・依存・清潔さ、行為の契約・公布・制御・安全性、再現を、この関係に即して論じる。
 

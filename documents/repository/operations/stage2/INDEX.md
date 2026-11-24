@@ -1,6 +1,6 @@
 # Stage 2：哲学の構成・草案・調査資料
 
-本ディレクトリは、哲学の抽出・対話・吟味・構成判断を保持する作業資料領域である。**第1哲学は主体（SCB）、第2哲学は記録（RTC）の真名・略名を確定。③④は仮称。** [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)に基づく。各本文の出典・説明上の補筆・現在の吟味範囲はレビュー資料で辿れる。記述・分析・Ownerレビューは日本語を標準とする。
+本ディレクトリは、哲学の抽出・対話・吟味・構成判断を保持する作業資料領域である。**第1哲学は主体（SCB）、第2哲学は記録（RTC）、第4哲学は環境（EIC）の真名・略名を確定。第3哲学は仮称。** [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。各本文の出典・説明上の補筆・現在の吟味範囲はレビュー資料で辿れる。記述・分析・Ownerレビューは日本語を標準とする。
 
 まず[四体系の名称・略称・本質・責務境界](A3_PHILOSOPHY_SYSTEMS.md)を読む。①を基礎として、②③④がそれぞれの責務を担う構成と、体系を分ける・一つにする理由を説明している。[2026-11-20の採用と整備依頼のrecord](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に当時の原文と取得範囲を保存した。
 
@@ -24,11 +24,11 @@
 
 現時点の草案では、目的と責務に照らす必要性と、その充足に即した実現の選択・評価を扱う。採用済み原則AONを含み、その原文を保持する。第3哲学の責務範囲・本質・中心的概念および真名・略名は検討中（[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)）。
 
-### 4．環境と独立と再現の哲学〈仮称〉
+### 4．環境と独立と制御の哲学（EIC哲学）
 
 [本文](A3_STATE_CONTROL_DRAFT.md) / [出典・レビュー](A3_STATE_CONTROL_REVIEW.md)
 
-責務範囲は環境。SCBのまとまりとして環境を定義し、独立・依存と境界に相対する清潔さ・汚染、環境を通じた行為の命名・契約・公布と構造による責務の履行・安全性、再現活動の環境を五節にまとめた。内部自由と境界での堅固な契約の履行を結び、再現・管理と包含の関係を区別する。真名・略名、個々の定義の文章・語彙は引き続き吟味する（[清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)）。
+責務範囲は環境。SCBのまとまりとして環境を定義し、独立・依存と境界に相対する清潔さ・汚染、環境を通じた行為の命名・契約・公布と構造による責務の履行・安全性、再現活動の環境を五節にまとめた。内部自由と境界での堅固な契約の履行を結び、再現・管理と包含の関係を区別する。真名・略名は確定し、個々の定義の文章・語彙は引き続き吟味する（[清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)）。
 
 ## 原文と編集の扱い
 
@@ -65,6 +65,6 @@
 
 ## 進行と追跡先
 
-①②は確定名称と略称を用い、③④は仮称として議論を続ける。体系の責務境界と各説明文は、それぞれの採用範囲・出典を辿って吟味する。subjectsへの配置、方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。現時点の継続編集元はこの作業資料領域である。
+①②④は確定した真名・略名を用い、③は仮称として議論を続ける。体系の責務境界と各説明文は、それぞれの採用範囲・出典を辿って吟味する。subjectsへの配置、方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。現時点の継続編集元はこの作業資料領域である。
 
 Work：[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。個別の継続草案：[① Issue #222](https://github.com/Daiki-Yoshida/documents-artifacts/issues/222)、[② Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。③④の作成・吟味は#221から追跡する。

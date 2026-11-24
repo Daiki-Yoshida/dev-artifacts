@@ -6,7 +6,7 @@
 
 2026-11-20の構成判断で、第3哲学の検討対象を目的・責務に対する必要性と充足、その実現の選択・評価として整理した。活動の条件・状態・作用を扱う第4哲学とは区別して検討する。AONは第3哲学に含まれる採用済み原則である。[2026-11-24の位置づけの訂正](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)（S10）に基づき、第3哲学の責務範囲・本質・中心的概念は引き続き検討する。
 
-名称の現在の扱いは[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。第1・第2哲学はSCB・RTCを用い、③④の名称・略名は引き続き検討する。2026-11-24の真名・略名の確定は第1・第2哲学に限る。
+名称の現在の扱いは[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。第1・第2・第4哲学はSCB・RTC・EICを用いる。第4哲学の名称は[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。第3哲学の真名・略名は引き続き検討する。
 
 AONの既存の採用範囲は、2026-11-11のOwner U3による名称・標語・原則本文である。今回の体系化に際しても、この本文の規範の強さと「実現の困難さや時期」という表現を維持する。A-1/P04全体や、当時のAssistantの説明をまとめて採用済み本文へ昇格させない。
 
@@ -65,5 +65,5 @@ NALへの配慮として、過去の名称候補や分類候補の列挙は本�
 
 - [草案本文](A3_PURPOSE_NECESSITY_DRAFT.md)
 - [四体系の定義](A3_PHILOSOPHY_SYSTEMS.md)
-- [第4哲学（環境）のレビュー](A3_STATE_CONTROL_REVIEW.md)
+- [EIC哲学のレビュー](A3_STATE_CONTROL_REVIEW.md)
 - [Stage 2入口](INDEX.md)
