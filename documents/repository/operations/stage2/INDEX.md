@@ -1,6 +1,6 @@
 # Stage 2：哲学の構成・草案・調査資料
 
-本ディレクトリは、哲学の抽出・対話・吟味・構成判断を保持する作業資料領域である。**第1哲学は主体（SCB）、第2哲学は記録（RTC）、第4哲学は環境（EIC）の真名・略名を確定。第3哲学の責務呼称は「実現の哲学」、真名の第一語は「実現」。** [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)と[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。各本文の出典・説明上の補筆・現在の吟味範囲はレビュー資料で辿れる。記述・分析・Ownerレビューは日本語を標準とする。
+本ディレクトリは、哲学の抽出・対話・吟味・構成判断を保持する作業資料領域である。**四体系の名称と責務範囲が定まり、各本文はStage 2-A-3で吟味中である。** 各体系の名称の根拠は[SCB・RTCの採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)、[RJFの命名採用記録](../../../knowledge/records/2026-11-25-rjf-philosophy-naming-adoption/RECORD.md)、[EICの採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に、本文の出典と編集上の補筆は各レビューに示す。記述・分析・Ownerレビューは日本語を標準とする。
 
 まず[四体系の名称・略称・本質・責務境界](A3_PHILOSOPHY_SYSTEMS.md)を読む。①を基礎として、②③④がそれぞれの責務を担う構成と、体系を分ける・一つにする理由を説明している。[2026-11-20の採用と整備依頼のrecord](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に当時の原文と取得範囲を保存した。
 
@@ -18,11 +18,11 @@
 
 責務範囲は記録。当時の表現へ立ち返れることと、後の主体が意味を適切に理解・判断・利用できることを一体で担う。原本と解釈、主体としての記録、逐次記録、評価・訂正、再開を支える説明、適切な伝達とNALを扱う。
 
-### 3．実現の哲学
+### 3．実現と判断と充足の哲学（RJF哲学）
 
 [本文](A3_PURPOSE_NECESSITY_DRAFT.md) / [出典・レビュー](A3_PURPOSE_NECESSITY_REVIEW.md)
 
-責務範囲は実現。実現を表、判断を裏とし、主体がなぜその行為を選んだか、その働きかけが何を満たしたかを扱う。「意思と判断」「必要と選択」「充足と判断の更新」の三節に整理し、採用済みのAONは第2節に置く。真名の残る構成語と略名は検討中である。[責務呼称の採用と草案整理の記録](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)
+責務範囲は実現。実現を表、判断を裏とし、主体がなぜその行為を選んだか、その働きかけが何を満たしたかを扱う。「意思と判断」「必要と選択」「充足と判断の更新」の三節に整理し、採用済みのAONは第2節に置く。第3節では、個々の契約が履行されたとき、全体の目的を満たすには何が必要かを[乗り継ぎの例](A3_PURPOSE_NECESSITY_DRAFT.md#parts-and-whole)で検討する。
 
 ### 4．環境と独立と制御の哲学（EIC哲学）
 
@@ -63,8 +63,19 @@
 
 上記の件数・完了判断は各資料の固定した範囲を指す。四体系の構成判断は、粗哲学候補に含まれる全主張の一括採用を意味しない。
 
+<a id="review-2026-11-25"></a>
+## 2026-11-25の振り返り
+
+RJFの命名後、四つの本文とレビューを照合した。以下はA-3での編集上の所見である。
+
+SCBでは、契約を誰がどこまで引き受け、誰に委ねたかを説明できる。RJFはそこから、各主体が引き受けたことを果たしたとき、全体として求めた意味が実際に満たされたかを問う。乗り継ぎの例では、各区間が予定どおりでも接続条件次第で到着期限を守れない。旧資料から抽出した「境界をまたぐ成果の調整」は、この関係としてRJFの第3節に入っている。[SCBのレビュー](A3_PHILOSOPHY_REVIEW.md#review-status)・[RJFの本文と出典の対応](A3_PURPOSE_NECESSITY_REVIEW.md#traceability)
+
+活動を再開する場面では、RTCによって後の主体が当時の判断と残る仕事を読み取れる。EICによって、当時の活動を支えた依存関係と状態を捉え直し、再開に必要な環境を再び成立させられる。記録を読めても当時の依存先を利用できない場面を考えると、この二つの責務を別々に確かめられる。[RTCのレビュー](A3_TRUTH_SOURCE_REVIEW.md#review-status)・[EICの草案](A3_STATE_CONTROL_DRAFT.md)
+
+SCBでは過去に検討した反例まで現行の定義で説明できるか、RTCでは原本・意図・後の解釈の関係をどこまで原文に忠実に説明できているかが通読の焦点となる。RJFでは選択の根拠、実際の充足、そこへの主体の寄与を読み分けられるかを吟味する。EICでは「汚染」がどの境界でどんな作用を指すのか、語彙と定義文の最終吟味が残る。
+
 ## 進行と追跡先
 
-①②④は確定した真名・略名を用い、③は責務呼称「実現の哲学」で参照する。体系の責務境界と各説明文は、それぞれの採用範囲・出典を辿って吟味する。subjectsへの配置、方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。現時点の継続編集元はこの作業資料領域である。
+四体系の名称・責務は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照する。各本文はこの作業資料領域で編集を続ける。subjectsへの配置、方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。
 
 Work：[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。個別の継続草案：[① Issue #222](https://github.com/Daiki-Yoshida/documents-artifacts/issues/222)、[② Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)。③④の作成・吟味は#221から追跡する。
