@@ -6,6 +6,8 @@
 
 [「実現」を表に置く判断](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)（S12）で、OwnerはSCBを起点に表を決めるよう求め（U1）、提案A1を了承して草案整理を指示した（U2）。「実現」は第3哲学が何を扱うかを示し、「判断」は主体が何を根拠に関わり、その結果をどう捉えるかを示す。A1を[本文](A3_PURPOSE_NECESSITY_DRAFT.md)の土台とし、その説明、例、節構成は編集上の文章として扱う。
 
+[三つの問いと乗り継ぎの例をめぐる対話](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-contribution/RECORD.md)（S14）で、OwnerはSCBから導く問いを検討し、回答を草案へ反映するよう指示した。冒頭の二文、各節の問い、部分の履行から全体の充足を捉える説明は、この指示に応じてAssistantの推敲案を文章化したものである。
+
 [先行判断](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-realization-scope/RECORD.md)（S11）は両者を暫定責務範囲とした。S12はその表裏と第一語を定めた。従来の仮称「目的と必要と充足の哲学」で扱ってきた目的・必要性・充足は、この表裏から選択と結果を捉えるための概念として本文に位置づける。[四体系の責務境界](A3_PHILOSOPHY_SYSTEMS.md#system-3)
 
 AONの名称・標語・三段落の規範はS02のU3に基づく。第3哲学に含まれる採用済み原則として、必要性の判断を扱う第2節に原文を掲げる。体系内での位置づけは[S10](../../../knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)を参照する。
@@ -28,6 +30,8 @@ AONの名称・標語・三段落の規範はS02のU3に基づく。第3哲学�
 | S11 | [判断と実現を暫定責務範囲とする判断](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-realization-scope/RECORD.md) | Ownerが行為・意思・判断・実現の関係を指摘し、判断と実現を暫定責務範囲として策定するよう指示。一語の責務範囲と名称は未確定 |
 | S12 | [「実現」を表に置く判断](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)（[U1・U2](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/USER_MESSAGES.md)、[A1](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/ASSISTANT_MESSAGES.md#a1)） | 実現を表・判断を裏とする責務、呼称と真名の第一語、推敲案の草案反映。本文の個別の文言は編集用 |
 | S13 | [旧artifactsの検証・完了](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/artifacts/operation/VERIFICATION_AND_DONE.md) | A1が参照した方法論上の例。契約への適合と求めた結果の達成を別々に確かめる区別の根拠はS04・S06へ辿れる |
+| S14 | [実現と判断をSCBから導く対話](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-contribution/RECORD.md)（[U1・U2](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-contribution/USER_MESSAGES.md)、[A1](../../../knowledge/records/2026-11-25-third-philosophy-judgment-and-contribution/ASSISTANT_MESSAGES.md#a1)） | U1はSCBからの導出を依頼し、U2はA1の草案反映を指示。三つの問いと本文案、乗り継ぎの例による先の評価の見直しはA1の提案 |
+| S15 | 固定mainの[境界をまたぐ成果の調整](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/artifacts/design/STATE_AND_CONSISTENCY.md#cross-boundary-outcome-needs-a-coordinator) | S14 A1が検討した旧方法論。[抽出候補P06](https://github.com/Daiki-Yoshida/documents-artifacts/blob/79df4ca189520c9c9073379015d2328d821fd80f/documents/repository/operations/stage2/A1_ROUGH_PHILOSOPHY.md#L83)は状態の所有と全体の調整を扱う。本文では全体を引き受けた関係と部分の働きから答えを導く |
 
 S02〜S04の保存元は編集前の作業ブランチHEAD `685fce3a1489930bb2d8b8178ab9825cb66bc9a1` で確認した。S05・S06は `main` の `7ad8bb4f948359633003a47fa6bfcc8d6853ddb6` に固定して参照する。既存のmethodsを新体系へ再採用・配置する工程は、この草案化と区別する。
 
@@ -36,10 +40,11 @@ S02〜S04の保存元は編集前の作業ブランチHEAD `685fce3a1489930bb2d8
 
 | 本文 | 根拠 | 草案での扱い |
 | --- | --- | --- |
-| 呼称・冒頭の責務 | S07 D2.2、S11、S12 U1・A1・U2 | 求められた意味を基点とし、実現を主とする理由と、判断が表裏にある理由を記した。責務を示す本文冒頭の一文はA1による |
-| [1．意思と判断](A3_PURPOSE_NECESSITY_DRAFT.md#will-and-judgment) | S07 D2.2・D2.3、S11、S12 A1 | 欲求・意思・判断の関係、委譲と非介入、理由のある選択と結果に働く偶然。意思・判断の文言は推敲案に基づく |
-| [2．必要と選択](A3_PURPOSE_NECESSITY_DRAFT.md#purpose-and-responsibility) | S02 U3、S03、S05、S07 D3.2・D3.4、S10、S12 A1 | 旧1〜3節の目的・責務、条件・保証、手段の自由、費用・時期・順序、未充足を統合。[AON本文](A3_PURPOSE_NECESSITY_DRAFT.md#aon)はOwnerの採用原文。街灯の点灯時間は条件の具体例 |
-| [3．充足と判断の更新](A3_PURPOSE_NECESSITY_DRAFT.md#fulfilment) | S04、S06、S07 D3.3・D4.2・D6、S08、S12 A1、S13 | 旧4〜5節を再構成。結果の発生と主体の寄与、契約履行と欲求の充足、観察の限界を区別し、当時の見落とし・実態の変化・後発の欲求を時計の例で示した |
+| 呼称・冒頭の責務 | S07 D2.2、S11、S12 U1・A1・U2、S14 A1・U2 | 呼称と表裏はS12。冒頭の二文はS14 A1の本文案。同じ目的に向けて選択と結果の両方を吟味する理由を述べる |
+| [1．意思と判断](A3_PURPOSE_NECESSITY_DRAFT.md#will-and-judgment) | S07 D2.2・D2.3・D3.2、S11、S12 A1、S14 A1 | 誰にとって何が満たされればよいかを起点に、欲求、他者に対して引き受けた責務、当時把握した事情を関わり方を選ぶ理由に結ぶ。委譲・非介入も選択に含む |
+| [2．必要と選択](A3_PURPOSE_NECESSITY_DRAFT.md#purpose-and-responsibility) | S02 U3、S03、S05、S07 D3.2・D3.4、S10、S12 A1、S14 A1 | 目的に必要な意味と手段の選択の自由を、条件・保証、費用・時期・順序、未充足に即して扱う。[AON本文](A3_PURPOSE_NECESSITY_DRAFT.md#aon)はOwnerの採用原文。街灯の点灯時間は条件の具体例 |
+| [3．充足と判断の更新](A3_PURPOSE_NECESSITY_DRAFT.md#fulfilment) | S04、S06、S07 D3.3・D4.2・D6、S08、S12 A1、S13、S14 A1 | 選択の理由、実際の充足、そこへの主体の寄与を区別する。時計の例で偶然と主体の寄与の共存、確認範囲、見落とし・実態の変化・後発の欲求を扱う |
+| [3節：部分の履行と全体の充足](A3_PURPOSE_NECESSITY_DRAFT.md#parts-and-whole) | S07 D2.3・D3.2・D3.3・D6.2、S14 A1・U2、S15 | 旅程を成立させる接続、全体の引き受け方による次の判断の違い、当初の期限と後の到着を扱う。部分を結ぶ関係の必要性はSCBの分割・委譲と第3哲学の充足からの導出 |
 
 ## 体系間の境界
 
@@ -60,6 +65,8 @@ NALへの配慮として、過去の名称候補や分類候補の列挙は本�
 2026-11-25、S11に基づき暫定責務範囲を明示した。既存五節・AON原文・仮称を保持し、判断・意思・行為・実現の関係を今後の吟味対象とする。新しい定義や真名・略名、正式制定の判断はしていない。
 
 2026-11-25、S12に基づき「実現の哲学」を責務呼称として草案を三節に整理した。五節版から参照されていた必要性、AON、実現可能性、充足、判断の継続の各アンカーは該当する箇所に引き継いだ。[推敲前の五節版](https://github.com/Daiki-Yoshida/documents-artifacts/blob/dce4252fdbe9505ed5508564bcb97f411c9fb1dc/documents/repository/operations/stage2/A3_PURPOSE_NECESSITY_DRAFT.md)と[Chatで了承された推敲案](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/ASSISTANT_MESSAGES.md#a1)から編集の経過を辿れる。
+
+2026-11-25、S14 U2に基づき、S12の三節にS14 A1の問いと例を組み込んだ。先の完成度評価における補筆候補P06の見直しは、Assistantによる導出の再評価である。旅程全体を引き受ける主体、個々の契約、実際に起きた結果を辿れば答えられるため、独立の統括原則を加えずに第3節の事例として示した。
 
 ## 関連資料
 
