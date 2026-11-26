@@ -89,12 +89,13 @@ if ! curl -fsSL "$ARCHIVE_URL" -o "$ARCHIVE"; then
     "Failed to fetch the distribution source. Existing artifacts were not changed."
 fi
 
-if ! tar -xzf "$ARCHIVE" -C "$TMP_DIR"; then
+# GitHub names the archive's enclosing directory after the repository.
+SOURCE="$TMP_DIR/source"
+mkdir "$SOURCE"
+if ! tar -xzf "$ARCHIVE" --strip-components=1 -C "$SOURCE"; then
   fail "配布元の展開に失敗しました。既存のArtifactは変更されていません。" \
     "Failed to extract the distribution source. Existing artifacts were not changed."
 fi
-
-SOURCE="$TMP_DIR/documents-artifacts-$REF"
 
 [ -f "$SOURCE/artifacts.sh" ] \
   || fail "配布元にartifacts.shがありません。" \
