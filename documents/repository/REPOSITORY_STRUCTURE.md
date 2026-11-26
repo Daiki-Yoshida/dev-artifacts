@@ -2,7 +2,7 @@
 
 ## 位置づけ
 
-現行`documents-artifacts`と**同じリポジトリ・同じ役割**を継承し、将来GitHub上の名称を`dev-artifacts`に変更する。再構築は開発ブランチ `refactor/dev-artifacts-restructure` で進める。
+GitHub上の既存リポジトリを `dev-artifacts` に改名し、旧名 `documents-artifacts` の履歴・記録・配布を継承した。再構築は開発ブランチ `refactor/dev-artifacts-restructure` で進める。
 
 ```text
 dev-artifacts/
@@ -45,7 +45,7 @@ dev-artifacts/
 - `repository/models/`は**管理契約**を所有する。哲学の内容を所有しない。
 - `repository/operations/`は管理モデルを参照して具体的な運用手順を定める。
 - `knowledge/records/`は原文記録で、日付＋名称形式を維持する。哲学/方法論の強制区分を行わない。
-- `knowledge/subjects/`は第1層の哲学と第2層の方法論の正本を置く。[開発哲学の入口](../knowledge/subjects/dev-philosophy/INDEX.md)から、現行の仮決定本文とその根拠を参照できる。
+- `knowledge/subjects/`は第1層の哲学と第2層の方法論の正本を置く。哲学の仮決定版は[mainの開発哲学の入口](https://github.com/Daiki-Yoshida/dev-artifacts/blob/main/documents/knowledge/subjects/dev-philosophy/INDEX.md)、この再編枝の編集経緯は[Stage 2の作業資料](operations/stage2/INDEX.md)から辿れる。
 - `artifacts/`は従来同様、対象プロジェクトの`./documents/artifacts/`への配置とAIエージェントのリポジトリ横断参照を目的とする。Stage 3で形式を決める。
 - `legacy/`は旧文書の比較・歴史参照用であり、現行モデルや運用を定義しない。
 
@@ -61,4 +61,4 @@ dev-artifacts/
 
 `main`の既存配布と、未完成な開発ブランチは別。開発ブランチの`artifacts/`はStage 3までは正式配布用パックではなく、このブランチから既存プロジェクトへ同期しない。
 
-`install.sh`、`artifacts.sh`と旧テストは当面保持するが、Stage 3の設計を先取りしたものではない。Stage 3では配布URL・GitHub rename・テストの整合性を別途確認する。
+リポジトリの改名と既存Artifact v2の配布元切替は先行して実施した。[先行公開の作業記録](operations/stage2/INDEX.md#main-publication)に統合先を示す。Stage 3では次期パックの射影・読込・配布方式を設計し、その実装とテストを最新の `main` の配布契約と照合する。

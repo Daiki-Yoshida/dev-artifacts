@@ -22,7 +22,7 @@ knowledge/
 
 recordsを根拠としてsemantic completenessと現在評価を維持する正本。第1層`dev-philosophy/`（Owner制定権）と第2層`dev-methodology/`（哲学を実現するAI非依存の方法論）に分かれる。
 
-**[SERA開発哲学（セラ）の仮決定版](subjects/dev-philosophy/INDEX.md)** に四体系の本文を置く。第一哲学は主体（SCB）、第二哲学は環境（EIC）、第三哲学は記録（RTC）、第四哲学は実現（AJF）。名称と責務の採用、四本文の仮決定はそれぞれの判断記録から確認できる。[総称・略名・番号の採用記録](records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)・[四本文の仮決定記録](records/2026-11-26-sera-provisional-adoption/RECORD.md)
+**[SERA開発哲学（セラ）の仮決定版](https://github.com/Daiki-Yoshida/dev-artifacts/blob/main/documents/knowledge/subjects/dev-philosophy/INDEX.md)** の公開本文は `main` に置く。[この再編枝の本文](subjects/dev-philosophy/INDEX.md)から当時の編集資料へ辿れる。第一哲学は主体（SCB）、第二哲学は環境（EIC）、第三哲学は記録（RTC）、第四哲学は実現（AJF）。名称と責務の採用、四本文の仮決定はそれぞれの判断記録から確認できる。[総称・略名・番号の採用記録](records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)・[四本文の仮決定記録](records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
 草案がどの原文と判断を経て仮決定に至ったかは、[Stage 2のレビューと出典](../repository/operations/stage2/INDEX.md)から辿れる。方法論の抽出は後続の工程で扱う。
 

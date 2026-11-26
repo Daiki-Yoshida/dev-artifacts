@@ -4,6 +4,15 @@
 
 2026-11-26の[四哲学の仮決定記録](../../../knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)に基づき、四体系の本文は[開発哲学の仮決定版](../../../knowledge/subjects/dev-philosophy/INDEX.md)に置いた。この作業資料領域は、各体系の出典、草案を推敲した経緯、監査時点の所見を保持する。記述・分析・Ownerレビューは日本語を標準とする。[四体系を定めた2026-11-20の判断](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)
 
+<a id="main-publication"></a>
+## 2026-11-26　改名と仮決定版の先行公開
+
+[再編Issue #221](https://github.com/Daiki-Yoshida/dev-artifacts/issues/221)の作業として、既存リポジトリを `dev-artifacts` へ改名した。[PR #224](https://github.com/Daiki-Yoshida/dev-artifacts/pull/224)で改名前後のアーカイブを扱えるようにし、[PR #225](https://github.com/Daiki-Yoshida/dev-artifacts/pull/225)で既存Artifact v2の取得先を新名に切り替えた。切替後に新旧両方の公開URLから新規導入・更新を行い、それぞれ配布42ファイルのパスと内容の一致、管理領域外のプロジェクト所有ファイルの保持を確認した。
+
+[PR #226](https://github.com/Daiki-Yoshida/dev-artifacts/pull/226)でSERA四哲学の仮決定版を掲載した。[公開時点のコミット](https://github.com/Daiki-Yoshida/dev-artifacts/commit/7c9468ed4c8270c156b930d94ea6335a14856985)・[公開を採用した判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/7c9468ed4c8270c156b930d94ea6335a14856985/documents/knowledge/records/2026-11-26-dev-artifacts-rename-sera-publication/RECORD.md)を辿れる。この再編枝の[移植元 `cca44d6`](https://github.com/Daiki-Yoshida/dev-artifacts/tree/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/subjects/dev-philosophy)の四本文・体系索引・SCB用語索引を移し、公開側の索引と出典リンクを整えた。
+
+以後の方法論の検討には[mainの仮決定版](https://github.com/Daiki-Yoshida/dev-artifacts/blob/main/documents/knowledge/subjects/dev-philosophy/INDEX.md)を用いる。次期配布パックはStage 3で設計する。後日この再編枝を統合する際には、哲学本文・出典リンク・配布元を最新の `main` と照合し、先行公開後の改訂を引き継ぐ。
+
 <a id="現在の編集用草案"></a>
 ## 仮決定版と出典対応
 
@@ -82,4 +91,4 @@ SCBでは過去に検討した反例まで現行の定義で説明できるか�
 
 四体系の名称・責務は[体系構成](../../../knowledge/subjects/dev-philosophy/INDEX.md)を参照する。方法論の再構築、Stage 3の射影・配布は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。
 
-四体系全体、第二哲学（EIC）、第四哲学（AJF）の進行を[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)で追跡する。第一哲学（SCB）の検討は[Issue #222](https://github.com/Daiki-Yoshida/documents-artifacts/issues/222)、第三哲学（RTC）は[Issue #223](https://github.com/Daiki-Yoshida/documents-artifacts/issues/223)で追跡する。
+四体系全体、第二哲学（EIC）、第四哲学（AJF）の進行を[Issue #221](https://github.com/Daiki-Yoshida/dev-artifacts/issues/221)で追跡する。第一哲学（SCB）の検討は[Issue #222](https://github.com/Daiki-Yoshida/dev-artifacts/issues/222)、第三哲学（RTC）は[Issue #223](https://github.com/Daiki-Yoshida/dev-artifacts/issues/223)で追跡する。
