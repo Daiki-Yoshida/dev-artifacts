@@ -1,6 +1,6 @@
 # 開発方法論
 
-開発方法論は、[SERA開発哲学](https://github.com/Daiki-Yoshida/dev-artifacts/blob/7c9468ed4c8270c156b930d94ea6335a14856985/documents/knowledge/subjects/dev-philosophy/INDEX.md)だけを共通の背景として、初めての読者が自分の現場で使える実践書である。一つの方法の中で、どんな成果を目指し、何を単位として、いつどの手段を選ぶかを論じる。その選択に続けて、道具の使い方、手渡す文書や成果物、それが役割を果たしたか確かめる操作を説明する。
+開発方法論は、[SERA開発哲学](https://github.com/Daiki-Yoshida/dev-artifacts/blob/7c9468ed4c8270c156b930d94ea6335a14856985/documents/knowledge/subjects/dev-philosophy/INDEX.md)だけを共通の背景として、初めての読者が自分の現場で使える実践書である。一つの方法の中で、どんな成果を目指し、何を単位として、いつどの手段を選ぶかを論じる。必要な道具を示し、その方法での使いどころ、手渡す文書や成果物、結果の確かめ方を説明する。
 
 ## 何から始めるか
 
