@@ -196,8 +196,11 @@ for record_dir in documents/knowledge/records/*/; do
 
   metadata="${record_dir}RECORD.md"
   [[ -f "$metadata" ]] || metadata="${record_dir}MANIFEST.md"
-  # Only the first YAML block is authoritative; example metadata does not count.
+  # Prefer YAML front matter; older records use a fenced YAML header.
   header="$(awk '
+    NR == 1 && /^---$/ { front=1; next }
+    front && /^---$/ { exit }
+    front { print; next }
     /^```yaml$/ { inside=1; next }
     inside && /^```$/ { exit }
     inside { print }
