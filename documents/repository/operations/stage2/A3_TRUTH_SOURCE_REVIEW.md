@@ -25,6 +25,7 @@
 | S14 | [2026-11-22 SCB・TRCの確定と③④の仮称扱い](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md) | Owner U1による①②の日本語名確定と③④の仮称扱い、Assistant A1の英語・略称案、U2によるSCB哲学・TRC哲学の採用。TRCはTruth / Record / Communicationに対応する体系全体の略称 |
 | S15 | [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md) | 記録を責務範囲とし第一語へ置く真名と、略名RTCの採用。第1哲学の主体・根源の区別。当時の採用範囲は第1・第2哲学 |
 | S16 | [SERA開発哲学の命名・番号の採用記録](../../../knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md) | SERAで記録を第3哲学に位置づけ、RTCの真名・略名と責務を引き継ぐ。これ以前の出典・編集履歴の番号は各時点の判断を指す |
+| S17 | [旧artifactsの調査と三論点の配置依頼](../../../knowledge/records/2026-11-26-sera-legacy-artifacts-review/RECORD.md) | 記録する行為における取得・保持・伝達の範囲を検討した調査報告と、精査・配置を委ねたOwner発言 |
 
 原文recordsは編集せず、後続判断を既存の閉じたsource bundleへ継ぎ足さない。
 
@@ -182,6 +183,11 @@ S12のOwner U3は、記録の性質上、保存と適切な理解・伝達を一
 ### L10：記録を第一語とする真名・略名RTCの採用（2026-11-24）
 
 S15に基づき、責務範囲を記録と明示し、真名を「記録と真実と伝達の哲学」、略名をRTC（Record / Truth / Communication）へ更新した。六節の本文と記録・理解・伝達の一体性、原本と解釈の関係、方法論との責務境界は保持する。S12・S14とL07・L09は各時点の採用・編集記録である。今回の採用は本文の個別説明の新たな制定を意味しない。
+
+<a id="l11"></a>
+### L11：記録を作る行為の対象と権限（2026-11-26）
+
+[S17の調査と配置依頼](../../../knowledge/records/2026-11-26-sera-legacy-artifacts-review/RECORD.md)に基づき、[第5節](A3_TRUTH_SOURCE_DRAFT.md#recording-scope)に、記録の対象への忠実性と、情報の取得・保持・伝達を引き受ける主体の範囲を加えた。無記名投票の例は、RTC第1節の外部表現、SCBの合意・履行、EICの作用と権限からのAssistantの導出。記録の成立、行為の契約への適合、すでに保存を引き受けた原本の保持を区別した。
 
 <a id="review-status"></a>
 ## 現在のレビュー状態

@@ -36,6 +36,7 @@ AONの名称・標語・三段落の規範はS02のU3に基づく。AJFに含ま
 | S15 | 固定mainの[境界をまたぐ成果の調整](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/artifacts/design/STATE_AND_CONSISTENCY.md#cross-boundary-outcome-needs-a-coordinator) | S14 A1が検討した旧方法論。[抽出候補P06](https://github.com/Daiki-Yoshida/documents-artifacts/blob/79df4ca189520c9c9073379015d2328d821fd80f/documents/repository/operations/stage2/A1_ROUGH_PHILOSOPHY.md#L83)は状態の所有と全体の調整を扱う。本文では全体を引き受けた関係と部分の働きから答えを導く |
 | S16 | [RJFの命名採用記録](../../../knowledge/records/2026-11-25-rjf-philosophy-naming-adoption/RECORD.md)（[U1・U2](../../../knowledge/records/2026-11-25-rjf-philosophy-naming-adoption/USER_MESSAGES.md)、[A1](../../../knowledge/records/2026-11-25-rjf-philosophy-naming-adoption/ASSISTANT_MESSAGES.md#a1)） | U2で真名「実現と判断と充足の哲学」、英語の対応 Realization / Judgment / Fulfillment、略名「RJF哲学」を採用。U2後半は四体系の現状を振り返る依頼 |
 | S17 | [SERA開発哲学の命名・番号の採用記録](../../../knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md) | SERAで実現を第4哲学とし、真名を引き継いで英語の対応 Actualization / Judgment / Fulfillment と略名AJFを採用。これ以前の出典・編集履歴の「第3哲学」は当時の実現の哲学を指す |
+| S18 | [旧artifactsの調査報告と三論点の配置依頼](../../../knowledge/records/2026-11-26-sera-legacy-artifacts-review/RECORD.md) | 旧正本の追加・省略に求める理由をAONと照合した。旧原文と後続説明の強さには[A-2で留保したF06](https://github.com/Daiki-Yoshida/documents-artifacts/blob/b8a5aed74183727364130147af42df6407a70625/documents/repository/operations/stage2/A2_FINDINGS.md#L53-L59)がある |
 
 S02〜S04の保存元は編集前の作業ブランチHEAD `685fce3a1489930bb2d8b8178ab9825cb66bc9a1` で確認した。S05・S06は `main` の `7ad8bb4f948359633003a47fa6bfcc8d6853ddb6` に固定して参照する。既存のmethodsを新体系へ再採用・配置する工程は、この草案化と区別する。
 
@@ -46,7 +47,7 @@ S02〜S04の保存元は編集前の作業ブランチHEAD `685fce3a1489930bb2d8
 | --- | --- | --- |
 | 名称・呼称・冒頭の責務 | S07 D2.2、S11、S12 U1・A1・U2、S14 A1・U2、S16 A1・U2、S17 | 責務呼称と表裏はS12、冒頭の二文はS14の本文案、真名はS16、現行の番号・英語の対応・略名はS17に基づく |
 | [1．意思と判断](A3_PURPOSE_NECESSITY_DRAFT.md#will-and-judgment) | S07 D2.2・D2.3・D3.2、S11、S12 A1、S14 A1 | 誰にとって何が満たされればよいかを起点に、欲求、他者に対して引き受けた責務、当時把握した事情を関わり方を選ぶ理由に結ぶ。委譲・非介入も選択に含む |
-| [2．必要と選択](A3_PURPOSE_NECESSITY_DRAFT.md#purpose-and-responsibility) | S02 U3、S03、S05、S07 D3.2・D3.4、S10、S12 A1、S14 A1 | 目的に必要な意味と手段の選択の自由を、条件・保証、費用・時期・順序、未充足に即して扱う。[AON本文](A3_PURPOSE_NECESSITY_DRAFT.md#aon)はOwnerの採用原文。街灯の点灯時間は条件の具体例 |
+| [2．必要と選択](A3_PURPOSE_NECESSITY_DRAFT.md#purpose-and-responsibility) | S02 U3、S03、S05、S07 D3.2・D3.4、S10、S12 A1、S14 A1、S18 | 目的に必要な意味と手段の選択の自由を、条件・保証、費用・時期・順序、未充足に即して扱う。[AON本文](A3_PURPOSE_NECESSITY_DRAFT.md#aon)はOwnerの採用原文。街灯の点灯時間は条件の具体例。S18を踏まえ、既存の保証から追加・省略に求める根拠の違いと、手段の要否が未判定な間も続く責務を導出した |
 | [3．充足と判断の更新](A3_PURPOSE_NECESSITY_DRAFT.md#fulfilment) | S04、S06、S07 D3.3・D4.2・D6、S08、S12 A1、S13、S14 A1 | 選択の理由、実際の充足、そこへの主体の寄与を区別する。時計の例で偶然と主体の寄与の共存、確認範囲、見落とし・実態の変化・後発の欲求を扱う |
 | [3節：部分の履行と全体の充足](A3_PURPOSE_NECESSITY_DRAFT.md#parts-and-whole) | S07 D2.3・D3.2・D3.3・D6.2、S14 A1・U2、S15 | 旅程を成立させる接続、全体の引き受け方による次の判断の違い、当初の期限と後の到着を扱う。部分を結ぶ関係の必要性はSCBの分割・委譲とAJFの充足からの導出 |
 
@@ -71,6 +72,8 @@ NALへの配慮として、過去の名称候補や分類候補の列挙は本�
 2026-11-25、S12に基づき「実現の哲学」を責務呼称として草案を三節に整理した。五節版から参照されていた必要性、AON、実現可能性、充足、判断の継続の各アンカーは該当する箇所に引き継いだ。[推敲前の五節版](https://github.com/Daiki-Yoshida/documents-artifacts/blob/dce4252fdbe9505ed5508564bcb97f411c9fb1dc/documents/repository/operations/stage2/A3_PURPOSE_NECESSITY_DRAFT.md)と[Chatで了承された推敲案](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/ASSISTANT_MESSAGES.md#a1)から編集の経過を辿れる。
 
 2026-11-25、S14 U2に基づき、S12の三節にS14 A1の問いと例を組み込んだ。先の完成度評価における補筆候補P06の見直しは、Assistantによる導出の再評価である。旅程全体を引き受ける主体、個々の契約、実際に起きた結果を辿れば答えられるため、独立の統括原則を加えずに第3節の事例として示した。
+
+2026-11-26、S18に基づき、第2節に、すでに引き受けた保証を起点に手段の追加・省略を判断する例を加えた。これはAssistantによるAONの解説である。将来の必要が未確定な段階で、どこまで内部の堅牢化を積極的に求めるかはF06の留保に属する。[当時のOwner原文](../../../knowledge/records/2026-09-24-yagni-encapsulation-horizon-decision/RECORD.md)・[AONの採用範囲](../../../knowledge/records/2026-11-11-aon-principle-adoption-philosophy-baseline/RECORD.md#L38-L50)
 
 ## 関連資料
 
