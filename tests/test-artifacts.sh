@@ -400,6 +400,39 @@ BEFORE_OWNER="$(sha256sum "$RTARGET/AGENTS.md" "$RTARGET/README.md" \
     "$RTARGET/documents/INDEX.md" "$RTARGET/documents/project/OWNERS.md")"
 BEFORE_STATUS="$(git -C "$RTARGET" status --porcelain -uall)"
 
+# After a GitHub rename the old URL can serve a differently named archive.
+# The same README command must still support a fresh install and an upgrade.
+RENAMED_PARENT="$TMP_ROOT/renamed-archive-parent"
+RENAMED_ROOT="$RENAMED_PARENT/dev-artifacts-main"
+RENAMED_ARCHIVE="$TMP_ROOT/dev-artifacts-main.tar.gz"
+RENAMED_TARGET="$TMP_ROOT/fresh-renamed-target"
+mkdir -p "$RENAMED_ROOT" "$RENAMED_TARGET/documents"
+cp "$SCRIPT" "$RENAMED_ROOT/artifacts.sh"
+tar -czf "$RENAMED_ARCHIVE" -C "$RENAMED_PARENT" dev-artifacts-main
+if TEST_ARCHIVE_SOURCE="$RENAMED_ARCHIVE" run_bootstrap "$RTARGET" >"$TMP_ROOT/incomplete.log" 2>&1; then
+  fail "bootstrap accepted a source with no pack"
+fi
+grep -Fq 'The distribution source does not contain the Artifact v2 pack.' "$TMP_ROOT/incomplete.log" \
+  || fail "incomplete renamed archive did not fail source validation"
+[[ "$BEFORE_PACK" == "$(tree_hashes "$RTARGET/documents/artifacts")" ]] \
+  || fail "incomplete archive changed the installed pack"
+git -C "$RTARGET" diff --quiet HEAD || fail "incomplete archive changed owner files"
+assert_tmp_clean "after incomplete archive"
+
+cp -r "$REPO_ROOT/artifacts" "$RENAMED_ROOT/artifacts"
+tar -czf "$RENAMED_ARCHIVE" -C "$RENAMED_PARENT" dev-artifacts-main
+printf 'obsolete\n' > "$RTARGET/documents/artifacts/obsolete.md"
+for rename_target in "$RENAMED_TARGET" "$RTARGET"; do
+  TEST_ARCHIVE_SOURCE="$RENAMED_ARCHIVE" run_bootstrap "$rename_target" >"$TMP_ROOT/rename.log" 2>&1 \
+    || { cat "$TMP_ROOT/rename.log"; fail "bootstrap failed with a renamed archive"; }
+  diff -r "$REPO_ROOT/artifacts" "$rename_target/documents/artifacts" \
+    || fail "renamed archive did not synchronize the exact distribution pack"
+done
+git -C "$RTARGET" diff --quiet HEAD || fail "renamed archive changed owner files"
+assert_owner_head "after rename"
+assert_tmp_clean "after rename"
+BEFORE_PACK="$(tree_hashes "$RTARGET/documents/artifacts")"
+
 # Failed archive fetch leaves the current installation untouched.
 if TEST_ARCHIVE_FAIL=1 run_bootstrap "$RTARGET" >"$TMP_ROOT/fetch-fail.log" 2>&1; then
   fail "archive acquisition failure unexpectedly succeeded"
