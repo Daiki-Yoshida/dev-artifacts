@@ -1,8 +1,8 @@
 # 第3哲学　記録と真実と伝達の哲学（RTC哲学） — レビュー・出典資料
 
-**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** RTCは**Record / Truth / Communication**の頭文字である。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)で真名・略名と責務範囲を定め、S16でSERAの第三に位置づけた。[草案本文](A3_TRUTH_SOURCE_DRAFT.md)はSCB哲学を基礎に、原本の保持と後の主体の理解・判断・利用を一体の責務として説明する。本書は出典、Assistantの導出・補筆、編集の系譜と現在の意味確認を管理する。
+**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** RTCは**Record / Truth / Communication**の頭文字である。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)で真名・略名と責務範囲を定め、S16でSERAの第三に位置づけた。[四哲学の仮決定記録](../../../knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)に基づく[RTCの本文](../../../knowledge/subjects/dev-philosophy/RTC.md)はSCB哲学を基礎に、原本の保持と後の主体の理解・判断・利用を一体の責務として説明する。本書は出典、Assistantの導出・補筆、編集の系譜と現在の意味確認を管理する。
 
-記録・解釈・理解・伝達とNALを本体系内で扱う。必要性と充足はAJF、活動の条件・状態・作用と再形成はEICを参照する。全体の境界は[四体系の構成判断](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
+記録・解釈・理解・伝達とNALを本体系内で扱う。必要性と充足はAJF、活動の条件・状態・作用と再形成はEICを参照する。全体の境界は[四体系の構成判断](../../../knowledge/subjects/dev-philosophy/INDEX.md)を参照する。
 
 <a id="sources"></a>
 ## 出典一覧
@@ -200,7 +200,7 @@ S18の調査と推敲依頼を受け、冒頭を第3節と照合した。S01 U4�
 <a id="review-status"></a>
 ## 現在のレビュー状態
 
-**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** 番号はS16、真名・略名と責務範囲はS15に基づく。既存六節は、記録と理解・伝達を一つに引き受ける本質に沿って整備した。環境の再形成は第2哲学（EIC）、目的に照らした判断と充足は第4哲学（AJF）の責務である。「理解と伝達」「信頼と検証」をめぐる構成判断は[四体系の系譜](A3_PHILOSOPHY_SYSTEMS.md)で辿れる。
+**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** 番号はS16、真名・略名と責務範囲はS15に基づく。既存六節は、記録と理解・伝達を一つに引き受ける本質に沿って整備した。環境の再形成は第2哲学（EIC）、目的に照らした判断と充足は第4哲学（AJF）の責務である。「理解と伝達」「信頼と検証」をめぐる構成判断は[当時の構成判断の系譜](https://github.com/Daiki-Yoshida/documents-artifacts/blob/d0ecefb1d641eff7283a00ec5cc995118ad8212a/documents/repository/operations/stage2/A3_PHILOSOPHY_SYSTEMS.md#構成判断の系譜と編集範囲)で辿れる。
 
 本文の意味確認では、原本の一次性・非同一性・意図への忠実性を保っているか、主体の変化・逐次記録・評価・訂正・再開・伝達を適切につないでいるかを吟味する。S01・S06・S08・S12・S13のOwner原文と、L04・L05・L07の導出・接続、およびL08の掲載範囲の訂正を辿れるようにした。
 
@@ -210,4 +210,4 @@ L05の[方法論へ引き継ぐ修正箇所](#l05)は、後続工程向けの作
 
 ## 編集と次の工程
 
-新しい意味の判断は新しいsource eventとして記録し、出典と本文の対応を更新する。既存定義から説明できる事項は本文で説明する。体系の責務境界と現在の名称状態は[体系構成](A3_PHILOSOPHY_SYSTEMS.md)を参照し、各草案の説明文の吟味、subjectsへの配置、Stage 3の配布設計は[進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。
+新しい意味の判断は新しいsource eventとして記録し、出典と本文の対応を更新する。既存定義から説明できる事項は本文で説明する。体系の責務境界と現在の名称状態は[体系構成](../../../knowledge/subjects/dev-philosophy/INDEX.md)を参照し、各本文の改訂やStage 3の配布設計は[進行手順](../STAGE2_WORKFLOW.md)に沿って扱う。

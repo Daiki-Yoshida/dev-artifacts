@@ -1,6 +1,6 @@
 # 第2哲学　環境と独立と制御の哲学（EIC哲学） — レビュー・出典資料
 
-**SERA開発哲学の第2哲学（S16）。責務範囲は環境。真名「環境と独立と制御の哲学」、略名「EIC哲学」を確定（S15）。本文はStage 2-A-3の編集用草案。** [清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)（S14）に基づき、境界に相対する汚染・清潔さ、環境を通じた行為の契約と履行、再現活動の環境を明示した。[草案本文](A3_STATE_CONTROL_DRAFT.md)の出典対応・編集判断・今後の吟味を本書で管理する。追跡先は[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。
+**SERA開発哲学の第2哲学（S16）。責務範囲は環境。真名「環境と独立と制御の哲学」、略名「EIC哲学」を確定（S15）。** [清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)（S14）に基づき、境界に相対する汚染・清潔さ、環境を通じた行為の契約と履行、再現活動の環境を明示した。[四哲学の仮決定記録](../../../knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)に基づく[EICの本文](../../../knowledge/subjects/dev-philosophy/EIC.md)について、本書は各説明を導いた出典と編集の経緯を保持する。追跡先は[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。
 
 ## 採用範囲と現在の本文
 
@@ -28,9 +28,9 @@ S14 U1では、契約として求める環境と現実の実体の乖離はSCB�
 | S05 | [Project Root・書込範囲に関するIssue本文の保存](../../../knowledge/records/2026-10-12-project-root-write-boundary/ISSUE_199_BODY.md) | 対象・必要性・所有・委譲・実効的作用の関係を扱う過去の提案・調査記録。Issue作成時の提案と、その後の方法論への反映をS04・S06で区別する |
 | S06 | 固定mainの[権限・範囲・確認](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/engineering-operation/S002_AUTHORITY_SCOPE_AND_CLARIFICATION.md) | 技術的なアクセス可能性と権限、対象側の責務、既存の有効な委譲、実効的な変更先の区別を照合する既存方法論。具体的な規範分類や操作gateは今回の哲学で制定しない |
 | S07 | 固定mainの[検証と完了](https://github.com/Daiki-Yoshida/documents-artifacts/blob/7ad8bb4f948359633003a47fa6bfcc8d6853ddb6/documents/knowledge/subjects/engineering-operation/S005_VERIFICATION_AND_DONE.md) | 実際に変えたこと、確かめたこと、未確認のこと、影響を区別する既存実現例 |
-| S08 | [主体と契約と境界の哲学](A3_PHILOSOPHY_DRAFT.md)・[対応するレビュー](A3_PHILOSOPHY_REVIEW.md) | 主体・責務・契約・境界・内部自由・共有実態・乖離と再定義の基礎。一次出典と採否は参照先で管理 |
-| S09 | [記録と真実と伝達の哲学](A3_TRUTH_SOURCE_DRAFT.md)・[対応するレビュー](A3_TRUTH_SOURCE_REVIEW.md) | 状態・操作・判断の記録と、後の主体による理解・照合・再開。一次出典と採否は参照先で管理 |
-| S10 | [実現と判断と充足の哲学（AJF哲学）](A3_PURPOSE_NECESSITY_DRAFT.md)・[対応するレビュー](A3_PURPOSE_NECESSITY_REVIEW.md) | 必要な成立条件、分離や手段の必要性、確認する範囲、充足の判断との接続。AON本文の根拠と説明上の補筆は参照先で管理 |
+| S08 | [主体と契約と境界の哲学](../../../knowledge/subjects/dev-philosophy/SCB.md)・[対応するレビュー](A3_PHILOSOPHY_REVIEW.md) | 主体・責務・契約・境界・内部自由・共有実態・乖離と再定義の基礎。一次出典と採否は参照先で管理 |
+| S09 | [記録と真実と伝達の哲学](../../../knowledge/subjects/dev-philosophy/RTC.md)・[対応するレビュー](A3_TRUTH_SOURCE_REVIEW.md) | 状態・操作・判断の記録と、後の主体による理解・照合・再開。一次出典と採否は参照先で管理 |
+| S10 | [実現と判断と充足の哲学（AJF哲学）](../../../knowledge/subjects/dev-philosophy/AJF.md)・[対応するレビュー](A3_PURPOSE_NECESSITY_REVIEW.md) | 必要な成立条件、分離や手段の必要性、確認する範囲、充足の判断との接続。AON本文の根拠と説明上の補筆は参照先で管理 |
 | S11 | [①②の名称・略称の確定と③④の仮称扱い](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md) | Owner U1・U2による名称状態の明示とSCB・TRCの採用。④の名称は仮称とし、SCBとの似通いを踏まえた略称の検討は後続で扱う |
 | S12 | [環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md) | 環境へのSCBの展開、清潔さと相互干渉、命名による公布、責務範囲「環境」、分野非限定、環境の定義案とその草案反映へのOwner判断。U0は引継ぎ引用、U1〜U5は選定したOwner発言、A1・A2は名称候補と定義案の記録。原文・導出・採用範囲はrecordで区別 |
 | S13 | [環境の契約・境界・独立の相対性に関する判断](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md) | U1による環境もSCBのまとまりであること、独立性の主体・欲求・契約への相対性、依存の契約の明示。A1の導出とU2の再構築依頼。先行質問・回答の選定箇所も保存 |
@@ -103,7 +103,7 @@ S14で精査した五項目はOwnerの回答と補足を反映済み。独立・
 
 ## 関連資料
 
-- [草案本文](A3_STATE_CONTROL_DRAFT.md)
-- [四体系の定義](A3_PHILOSOPHY_SYSTEMS.md)
+- [EIC仮決定版](../../../knowledge/subjects/dev-philosophy/EIC.md)
+- [四体系の定義](../../../knowledge/subjects/dev-philosophy/INDEX.md)
 - [実現と判断と充足の哲学（AJF哲学） — レビュー](A3_PURPOSE_NECESSITY_REVIEW.md)
 - [Stage 2入口](INDEX.md)

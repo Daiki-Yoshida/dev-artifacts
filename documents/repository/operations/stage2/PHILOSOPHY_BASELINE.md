@@ -12,11 +12,11 @@
 - 明示採用が確認できるのは例えば**AON原則の名称とOwner自身による定義**。ほかの対話は、深い思想形成を示していても、完成版Dev-Philosophyを一括承認したものではない。
 - 未来のOwnerの哲学の改訂・補足は**新しいrecord**に保存する。後続recordが判断をrefine / correct / supersedeし得る。後続のrecordsをこの接尾辞で一律に格下げしない。
 - 旧recordsは削除せず、あらゆる矛盾を「新しい日付のほうが上」と判断しない。**基準点の優先的な参照と、規範的authorityの確定は別の軸**。
-- 四体系の構成を定めた判断は[2026-11-20のrecord](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)、現在の総称・略名・番号は[SERAの採用記録](../../../knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)を参照する。subjectsの物理配置とStage 3の配布方式は、それぞれの工程で扱う。
+- 四体系の構成を定めた判断は[2026-11-20のrecord](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)、現在の総称・略名・番号は[SERAの採用記録](../../../knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)を参照する。2026-11-26に[四哲学の仮決定記録](../../../knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)を受け、四体系を開発哲学のsubjectsに配置した。
 
 ## 後続の判断から読む
 
-現在の構成は[SERA開発哲学の真名・責務境界](A3_PHILOSOPHY_SYSTEMS.md)を入口とする。先行する[2026-11-22の名称判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)を含め、各recordの体系番号と略名はその判断時点の呼称として読む。
+現在の構成は[SERA開発哲学の真名・責務境界](../../../knowledge/subjects/dev-philosophy/INDEX.md)を入口とする。先行する[2026-11-22の名称判断](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)を含め、各recordの体系番号と略名はその判断時点の呼称として読む。
 
 - **第一哲学　主体と契約と境界の哲学（SCB哲学）**　[SCB・RTCの名称と責務の判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)で、主体という責務範囲と根源としての役割を区別した。[撮影対象と集合的担い手の明確化](../../../knowledge/records/2026-11-18-unrealized-unit-capture-and-collective-recognition-philosophy-baseline/RECORD.md)までの継続判断と、[SCBの出典・編集系譜](A3_PHILOSOPHY_REVIEW.md)を参照する。
 - **第二哲学　環境と独立と制御の哲学（EIC哲学）**　[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)、[環境の定義・独立](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約と独立の相対性](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)を基準とする。境界に相対する汚染・清潔さ、行為の契約と環境の構造による履行、安全性、再現活動の環境について、導出と吟味範囲を[EICのレビュー](A3_STATE_CONTROL_REVIEW.md)に示す。

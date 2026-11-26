@@ -9,7 +9,8 @@
 | 知識更新・運用手順 | [repository/operations/INDEX.md](repository/operations/INDEX.md) |
 | source event / 原文記録 | [knowledge/records/](knowledge/records/) |
 | 哲学・方法論の正本 | [knowledge/INDEX.md](knowledge/INDEX.md) |
-| 四体系の責務・名称と編集用草案 | [Stage 2の入口](repository/operations/stage2/INDEX.md) |
+| SERA四哲学の仮決定本文と用語 | [開発哲学の入口](knowledge/subjects/dev-philosophy/INDEX.md) |
+| 四哲学の出典・レビューと編集経緯 | [Stage 2の作業資料](repository/operations/stage2/INDEX.md) |
 | 旧管理設計の参考 | [repository/legacy/INDEX.md](repository/legacy/INDEX.md) |
 
 **注意:** 旧`knowledge/system/`や旧`project/`を現行の管理規則として参照しない。Dev-Philosophyの内容の制定権はOwnerにあり、管理モデルはその手続きを定義する。

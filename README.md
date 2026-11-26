@@ -35,15 +35,17 @@ artifacts.sh
 
 ## Stage 2 — 哲学先行（進行中）
 
-[Owner採用済みのStage 2 Workflow](documents/repository/operations/STAGE2_WORKFLOW.md) に従い、**A-1/A-2の全件取得・一次意味監査は完了**（旧subjects 70/70、records 206/206）。一次監査で抽出した17件は[当時の完了報告](documents/repository/operations/stage2/A1_A2_COMPLETION_REPORT.md)にある。現在はA-3で、**SERA開発哲学（セラ）**の四つの本文をOwnerと吟味している。第一は主体（SCB）、第二は環境（EIC）、第三は記録（RTC）、第四は実現（AJF）を扱う。[総称・略名・番号の採用記録](documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)・[四体系の草案](documents/repository/operations/stage2/INDEX.md)
+**[SERA開発哲学（セラ）の仮決定版](documents/knowledge/subjects/dev-philosophy/INDEX.md)** をこのブランチの参照本文とする。第一は主体（SCB）、第二は環境（EIC）、第三は記録（RTC）、第四は実現（AJF）を扱う。Ownerは方法論の検討へ進む前に、現段階の四本文を仮決定とした。[仮決定の原文記録](documents/knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
-## Stage 1 の検証
+[Stage 2の進行手順](documents/repository/operations/STAGE2_WORKFLOW.md)に沿って、旧subjects 70件・records 206件の[一次監査](documents/repository/operations/stage2/A1_A2_COMPLETION_REPORT.md)、草案の推敲を経て仮配置した。各体系の出典と判断の経過は[Stage 2の作業資料](documents/repository/operations/stage2/INDEX.md)から辿れる。
+
+## 配置の検証
 
 ```bash
 bash tests/test-dev-artifacts-stage1.sh
 ```
 
-旧Artifact v2向けテストはこの開発ブランチの未構築領域には非適用。詳細は[tests/INDEX.md](tests/INDEX.md)。
+各検証の対象と旧Artifact v2向けテストの位置づけは[テストの入口](tests/INDEX.md)を参照する。
 
 ## 文書の入口
 

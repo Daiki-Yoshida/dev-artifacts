@@ -1,10 +1,10 @@
 # 第1哲学　主体と契約と境界の哲学（SCB哲学） — 草案の出典対応とレビュー
 
-**SERA開発哲学の第1哲学。責務範囲「主体」、真名「主体と契約と境界の哲学」、略名「SCB哲学」。役割は、あらゆる存在に対する思考の根源。** SCBは**Subject / Contract / Boundary**の頭文字である。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)で真名・略名と責務範囲を定め、[S26](#s26)でSERAの第一に位置づけた。哲学本文は[A3_PHILOSOPHY_DRAFT.md](A3_PHILOSOPHY_DRAFT.md)で編集し、本書は原文との対応、編集の系譜と[現在のレビュー状態](#review-status)を管理する。
+**SERA開発哲学の第1哲学。責務範囲「主体」、真名「主体と契約と境界の哲学」、略名「SCB哲学」。役割は、あらゆる存在に対する思考の根源。** SCBは**Subject / Contract / Boundary**の頭文字である。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)で真名・略名と責務範囲を定め、[S26](#s26)でSERAの第一に位置づけた。[四哲学の仮決定記録](../../../knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)により、[SCBの本文](../../../knowledge/subjects/dev-philosophy/SCB.md)を仮決定版として置いた。本書では原文との対応、草案を編集した経緯と[レビュー状態](#review-status)を辿れる。
 
 Work：[Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)。作業ブランチ：`refactor/dev-artifacts-restructure`。初稿source snapshot：`a9c249c10b34e1ae5e9ee4bf220c26db9667359c`。S番号は出典用であり、原則の優先順位ではない。
 
-対象は、**主体と契約と境界の哲学**（まとまり・主体・欲求・責務・契約・境界・再定義）である。他の三体系が対象と責務を捉える際の基礎を担う。四体系の本質と相互関係は[構成判断](A3_PHILOSOPHY_SYSTEMS.md)を参照する。本書の過去の出典説明・L項目は各時点の判断と編集を記録し、現在評価は末尾のレビュー状態で扱う。
+対象は、**主体と契約と境界の哲学**（まとまり・主体・欲求・責務・契約・境界・再定義）である。他の三体系が対象と責務を捉える際の基礎を担う。四体系の本質と相互関係は[構成判断](../../../knowledge/subjects/dev-philosophy/INDEX.md)を参照する。本書の過去の出典説明・L項目は各時点の判断と編集を記録し、現在評価は末尾のレビュー状態で扱う。
 
 検討の原文は[基準点records](PHILOSOPHY_BASELINE.md)と[導出検討のrecord](../../../knowledge/records/2026-11-13-philosophy-question-derivations/RECORD.md)に保存している。以前のレビューは[Git履歴の固定版](https://github.com/Daiki-Yoshida/documents-artifacts/blob/f8f8817362030953559ac5b5c53f0e0293ca9e8f/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md)を参照する。
 
@@ -226,36 +226,36 @@ Ownerは、匿名レビュー6.1〜6.8について、曖昧な認識の撮影で
 <a id="traceability"></a>
 ## 本文との対応
 
-「原文基礎」はOwnerが内容を述べたことを示す。草案の文言が原文と同一であること、節全体が承認されたことを意味しない。「導出案」「接続案」は、既存の原理をつないだAssistantの文章化を示す。全23節と冒頭の範囲説明は編集用草案であり、論点を閉じる指示を本文全体の正式制定の証跡にはしない。
+「原文基礎」はOwnerが内容を述べたことを示す。草案の文言が原文と同一であること、節全体が承認されたことを意味しない。「導出案」「接続案」は、既存の原理をつないだAssistantの文章化を示す。仮決定の対象は、冒頭の範囲説明と全23節を含む本文である。各行の区分は、それぞれの文言を草案へ取り入れた時点での由来を表す。
 
 | 本文 | 原文の主要箇所 | 原文と導出案の区別 |
 | --- | --- | --- |
-| [対象範囲（冒頭）](A3_PHILOSOPHY_DRAFT.md) | S05 U3、S10 第2部User発言、S14、S17 U2〜U4 | 対象範囲は既存Owner原文。S17により、仮想性を未実装・未完成の設計と同一視せず、認識・言及と実体験との区別を追加した編集案 |
-| [第0章：本体系の前提と読み方](A3_PHILOSOPHY_DRAFT.md#chapter-0) | S08 U1、S11 U1〜U5、S14〜S21 | 普遍階層と方法論の区別、主体相対性、脱皮、契約の意味、認識の不完全性は既存Owner原文。一般語彙・外部理論を本体系の定義より上位に置かないという読み方の明示、導出と未定義・矛盾の区別は、今回のOwner指示を受けたAssistant編集案 |
-| [普遍階層と方法論](A3_PHILOSOPHY_DRAFT.md#philosophy-scope) | S08 U1、S09 A1 | Ownerの分類基準を明示。例示と適用対象、文章形式と分類の区別は接続案 |
-| [D1.1](A3_PHILOSOPHY_DRAFT.md#d1-1) | S01 U2・U4、S04 U2〜U3、S06 U2、S17 U2〜U4、S20 U1〜U4、S21 U1 | 認識の撮影が最初から命名・契約を伴い、不完全でも情報Pを成立させること、仮想が主体内にあること、外部記録の実体性、撮影が完全な表現を保証しないことはOwner原文S20。本文の接続・表現はAssistant編集案 |
-| [D1.2](A3_PHILOSOPHY_DRAFT.md#d1-2) | S01 U3・U5・U7、S02 U6〜U7、S04 U2、S06 U2、**S10 第5・7・8部User発言**、S15、S17 U2〜U4、S19 U1、S20 U1〜U4 | 定義・命名・本質の一体性と従来の境界説明はOwner原文基礎。Aの命名・定義がNotAとの差異とA／NotAの境界を同時に定めるという論理はOwner原文S19。NotAを否定側の関係的表現とし、NotA全体を独立のまとまりとしない補足はAssistant A1に由来する説明案。
-| [D1.3](A3_PHILOSOPHY_DRAFT.md#d1-3) | S02 U1・U3〜U6、S04 U6、S05 U2、S17 U1 | 縦横・挿入・抽象は原文基礎。Ownerの「実現方法を未決定」という説明への訂正を受け、時計の本質と命名先を中身の未決定と区別する。さらに「内部を問わない」は空欄を残すことではなく、その本質を定める問いに内部という問いが不要という意味だと補足。数学的同一性を主張しない留保は維持 |
-| [D2.1](A3_PHILOSOPHY_DRAFT.md#d2-1) | S02 U2〜U3、S04 U4〜U5、S06 U2 | 個体と主体は原文基礎。個体数だけでは合意を決めない説明は導出案。基点主体・担い手はD2.4に記載 |
-| [D2.2](A3_PHILOSOPHY_DRAFT.md#d2-2) | S03 U1〜U3・U9〜U10、S04 U4、S06 U2、S17 U1、S21 U1 | 欲求と本質の同一の問いはOwner原文基礎。欲求のフラクタル性に基づき、広い欲求（幸せになりたい等）を異なる高さの欲求として捉え直す説明、語句や具体対象の一意対応と同一視しない説明はAssistant編集案。新たな一意性条件は設けない |
-| [D2.3](A3_PHILOSOPHY_DRAFT.md#d2-3) | S04 U5〜U6 | 内包・適切な分割の収束・委譲は原文基礎 |
-| [D2.4](A3_PHILOSOPHY_DRAFT.md#d2-4) | S12 U1〜U2、S02 U2〜U3、S04 U4〜U5、S13 A1・U2、S21 U1、[L14](#l14)、[S28](#s28) | 基点主体の相対性・主軸の直接的欲求・一つのまとまりとしての担い手はOwner原文基礎。命名案はS12 A1へのOwnerの肯定。集団の事実上の方向はL14のOwner原文基礎。階層関係と再定義の接続、集団の決定の成立条件との区別は編集案 |
-| [D3.1](A3_PHILOSOPHY_DRAFT.md#d3-1) | S06 U2、S03 U16〜U17、S20 U2〜U4 | 契約の内容はS06の再表現。多様な形式はS03。主体内の契約は対応する対象実体の存在に先行し得ることはOwner原文S20 |
-| [D3.2](A3_PHILOSOPHY_DRAFT.md#d3-2) | S06 U2、S05 U5、S02 U3、S04 U4〜U5、S11 U2・U5、S18 U1、S20 U3 | 契約成立の意味と、合意の具体的成立が具象とセットであることを区別。対象実体が未存在でも契約が成立し得るというOwner明示はS20。合意の具体的成立方法は引き続き具象・方法論に委ねる |
-| [D3.3](A3_PHILOSOPHY_DRAFT.md#d3-3) | S06 U2、S04 U3・U7、S20 U3 | 実態と契約の対応状態としての履行はOwner定義。対象実体がまだ存在しない場合にその対象実体による履行はないことは既存定義からの接続案 |
-| [D3.4](A3_PHILOSOPHY_DRAFT.md#d3-4) | S02 U2、S03 U6〜U7・U20〜U21、S04 U2、S06 U2、S15、S27 | 契約相対的自由はOwner原文基礎。「内部自由の契約相対性」はS15で採用された性質の参照名。委ねた選択が下位の履行条件を具体化する例は[S27](#s27)の導出案。契約上規定されないことと現実の実現可能性を区別する説明は、既存定義からのAssistant編集案 |
-| [D4.1](A3_PHILOSOPHY_DRAFT.md#d4-1) | S05 U3〜U4、S10 第2部User発言 | 「新しい」を保持。対象範囲は既述のD4.1と整合し、冒頭にも明示 |
-| [D4.2](A3_PHILOSOPHY_DRAFT.md#d4-2) | S04 U7〜U8、S17 U2〜U4、S20 U2〜U4 | 仮想は主体内にあり外部記録は実体であること、契約と実体の関係が開発対象に限られず普遍的であることはOwner原文S20。再帰的な適用、文書化と主体内契約の区別はAssistant編集案 |
-| [D4.3](A3_PHILOSOPHY_DRAFT.md#d4-3) | S05 U5〜U7、S06 U2、S10 第5・7部User発言、S11 U2・U5、[S28](#s28) | 共有実態と共通契約は原文基礎。別関係への影響と、共有を後から認識した場合の説明は接続案。具体的な合意形成・相互確証の運用を方法論の責務とするのはS11のOwner判断 |
-| [D5.1](A3_PHILOSOPHY_DRAFT.md#d5-1) | S03 U4〜U5、S04 U4、S06 U2、S12 U2 | 幅と区切り方は原文基礎。基点と各枝のミクロ壁を接続し、原文で示された**抽象から具象へ**の探索方向を明示 |
-| [D5.2](A3_PHILOSOPHY_DRAFT.md#d5-2) | S06 U2、S02 U6、S12 U2 | 双璧の根拠・可変性は原文基礎。枝ごとにミクロ壁の深さが異なることとゲームステージ／エンジン／ランタイムの例はOwner原文 |
-| [D5.3](A3_PHILOSOPHY_DRAFT.md#d5-3) | S06 U2、S12 U2 | 幅・粒度・数値例は原文基礎。数値例を全枝一律の壁と読まないことはS12との接続 |
-| [D5.4](A3_PHILOSOPHY_DRAFT.md#d5-4) | S03 U8〜U22、S06 U2、S04 U2、S11 U5、S12 U2、S13 A1・U2、S19 U1、S21 U1 | 独立した意味・責任を持つ存在の成立価値はOwner原文S03 U8。独立性がA／NotAの差異と境界の確立に根拠を持つという接続はS19のOwner原文をD5.4へ適用したAssistant編集案 |
-| [D5.5](A3_PHILOSOPHY_DRAFT.md#d5-5) | S03 U6・U11、S04 U5〜U6、S06 U2、S02 U3、S12 U1〜U2、S13 A1 | 停止と委譲の区別は原文基礎。各枝で委譲先を別基点として捉えられることは既存原理との接続。唯一解とは限らないという説明は導出案 |
-| [D6.1](A3_PHILOSOPHY_DRAFT.md#d6-1) | S04 U7〜U8、S07 U1〜U2、S20 U4、S21 U1、[S28](#s28) | 乖離を認識したまま流さず対処すること、再定義の望ましさと実態修正の余地はOwner原文。認識された乖離と実際の不一致を区別することはOwnerの認識の不完全性に関する発言S20をD6.1へ接続したAssistant編集案。期限内の履行と現在の対処の区別はS28の導出案 |
-| [D6.2](A3_PHILOSOPHY_DRAFT.md#d6-2) | S07 U1〜U2、S04 U7〜U8、S05 U6、S06 U2 | A/B/Cの原因分類はOwnerの提示。S07 U2の訂正と旧契約が適合し続ける既存の例に合わせて、見出しと冒頭を「乖離・再定義の検討につながる事情」とする編集案（E07） |
-| [D6.3](A3_PHILOSOPHY_DRAFT.md#d6-3) | S07 U1〜U2、S01 U7、S04 U2、S05 U6〜U7、S06 U2、S11 U2・U5 | 堅牢性と親への判断は原文基礎。上位再定義と変更される契約関係は導出案、具体的な運用・権限配置を方法論へ委ねるのはS11のOwner判断 |
-| [D6.4](A3_PHILOSOPHY_DRAFT.md#d6-4) | S02 U4〜U5、S03 U4、S05 U5〜U9、S06 U2、S21 U1 | 欲求への遡行・脱皮はOwner原文基礎。外部から推測した隠れた欲求を基準にしない説明は今回のOwner判断を受けた編集案 |
+| [対象範囲（冒頭）](../../../knowledge/subjects/dev-philosophy/SCB.md) | S05 U3、S10 第2部User発言、S14、S17 U2〜U4 | 対象範囲は既存Owner原文。S17により、仮想性を未実装・未完成の設計と同一視せず、認識・言及と実体験との区別を追加した編集案 |
+| [第0章：本体系の前提と読み方](../../../knowledge/subjects/dev-philosophy/SCB.md#chapter-0) | S08 U1、S11 U1〜U5、S14〜S21 | 普遍階層と方法論の区別、主体相対性、脱皮、契約の意味、認識の不完全性は既存Owner原文。一般語彙・外部理論を本体系の定義より上位に置かないという読み方の明示、導出と未定義・矛盾の区別は、今回のOwner指示を受けたAssistant編集案 |
+| [普遍階層と方法論](../../../knowledge/subjects/dev-philosophy/SCB.md#philosophy-scope) | S08 U1、S09 A1 | Ownerの分類基準を明示。例示と適用対象、文章形式と分類の区別は接続案 |
+| [D1.1](../../../knowledge/subjects/dev-philosophy/SCB.md#d1-1) | S01 U2・U4、S04 U2〜U3、S06 U2、S17 U2〜U4、S20 U1〜U4、S21 U1 | 認識の撮影が最初から命名・契約を伴い、不完全でも情報Pを成立させること、仮想が主体内にあること、外部記録の実体性、撮影が完全な表現を保証しないことはOwner原文S20。本文の接続・表現はAssistant編集案 |
+| [D1.2](../../../knowledge/subjects/dev-philosophy/SCB.md#d1-2) | S01 U3・U5・U7、S02 U6〜U7、S04 U2、S06 U2、**S10 第5・7・8部User発言**、S15、S17 U2〜U4、S19 U1、S20 U1〜U4 | 定義・命名・本質の一体性と従来の境界説明はOwner原文基礎。Aの命名・定義がNotAとの差異とA／NotAの境界を同時に定めるという論理はOwner原文S19。NotAを否定側の関係的表現とし、NotA全体を独立のまとまりとしない補足はAssistant A1に由来する説明案。
+| [D1.3](../../../knowledge/subjects/dev-philosophy/SCB.md#d1-3) | S02 U1・U3〜U6、S04 U6、S05 U2、S17 U1 | 縦横・挿入・抽象は原文基礎。Ownerの「実現方法を未決定」という説明への訂正を受け、時計の本質と命名先を中身の未決定と区別する。さらに「内部を問わない」は空欄を残すことではなく、その本質を定める問いに内部という問いが不要という意味だと補足。数学的同一性を主張しない留保は維持 |
+| [D2.1](../../../knowledge/subjects/dev-philosophy/SCB.md#d2-1) | S02 U2〜U3、S04 U4〜U5、S06 U2 | 個体と主体は原文基礎。個体数だけでは合意を決めない説明は導出案。基点主体・担い手はD2.4に記載 |
+| [D2.2](../../../knowledge/subjects/dev-philosophy/SCB.md#d2-2) | S03 U1〜U3・U9〜U10、S04 U4、S06 U2、S17 U1、S21 U1 | 欲求と本質の同一の問いはOwner原文基礎。欲求のフラクタル性に基づき、広い欲求（幸せになりたい等）を異なる高さの欲求として捉え直す説明、語句や具体対象の一意対応と同一視しない説明はAssistant編集案。新たな一意性条件は設けない |
+| [D2.3](../../../knowledge/subjects/dev-philosophy/SCB.md#d2-3) | S04 U5〜U6 | 内包・適切な分割の収束・委譲は原文基礎 |
+| [D2.4](../../../knowledge/subjects/dev-philosophy/SCB.md#d2-4) | S12 U1〜U2、S02 U2〜U3、S04 U4〜U5、S13 A1・U2、S21 U1、[L14](#l14)、[S28](#s28) | 基点主体の相対性・主軸の直接的欲求・一つのまとまりとしての担い手はOwner原文基礎。命名案はS12 A1へのOwnerの肯定。集団の事実上の方向はL14のOwner原文基礎。階層関係と再定義の接続、集団の決定の成立条件との区別は編集案 |
+| [D3.1](../../../knowledge/subjects/dev-philosophy/SCB.md#d3-1) | S06 U2、S03 U16〜U17、S20 U2〜U4 | 契約の内容はS06の再表現。多様な形式はS03。主体内の契約は対応する対象実体の存在に先行し得ることはOwner原文S20 |
+| [D3.2](../../../knowledge/subjects/dev-philosophy/SCB.md#d3-2) | S06 U2、S05 U5、S02 U3、S04 U4〜U5、S11 U2・U5、S18 U1、S20 U3 | 契約成立の意味と、合意の具体的成立が具象とセットであることを区別。対象実体が未存在でも契約が成立し得るというOwner明示はS20。合意の具体的成立方法は引き続き具象・方法論に委ねる |
+| [D3.3](../../../knowledge/subjects/dev-philosophy/SCB.md#d3-3) | S06 U2、S04 U3・U7、S20 U3 | 実態と契約の対応状態としての履行はOwner定義。対象実体がまだ存在しない場合にその対象実体による履行はないことは既存定義からの接続案 |
+| [D3.4](../../../knowledge/subjects/dev-philosophy/SCB.md#d3-4) | S02 U2、S03 U6〜U7・U20〜U21、S04 U2、S06 U2、S15、S27 | 契約相対的自由はOwner原文基礎。「内部自由の契約相対性」はS15で採用された性質の参照名。委ねた選択が下位の履行条件を具体化する例は[S27](#s27)の導出案。契約上規定されないことと現実の実現可能性を区別する説明は、既存定義からのAssistant編集案 |
+| [D4.1](../../../knowledge/subjects/dev-philosophy/SCB.md#d4-1) | S05 U3〜U4、S10 第2部User発言 | 「新しい」を保持。対象範囲は既述のD4.1と整合し、冒頭にも明示 |
+| [D4.2](../../../knowledge/subjects/dev-philosophy/SCB.md#d4-2) | S04 U7〜U8、S17 U2〜U4、S20 U2〜U4 | 仮想は主体内にあり外部記録は実体であること、契約と実体の関係が開発対象に限られず普遍的であることはOwner原文S20。再帰的な適用、文書化と主体内契約の区別はAssistant編集案 |
+| [D4.3](../../../knowledge/subjects/dev-philosophy/SCB.md#d4-3) | S05 U5〜U7、S06 U2、S10 第5・7部User発言、S11 U2・U5、[S28](#s28) | 共有実態と共通契約は原文基礎。別関係への影響と、共有を後から認識した場合の説明は接続案。具体的な合意形成・相互確証の運用を方法論の責務とするのはS11のOwner判断 |
+| [D5.1](../../../knowledge/subjects/dev-philosophy/SCB.md#d5-1) | S03 U4〜U5、S04 U4、S06 U2、S12 U2 | 幅と区切り方は原文基礎。基点と各枝のミクロ壁を接続し、原文で示された**抽象から具象へ**の探索方向を明示 |
+| [D5.2](../../../knowledge/subjects/dev-philosophy/SCB.md#d5-2) | S06 U2、S02 U6、S12 U2 | 双璧の根拠・可変性は原文基礎。枝ごとにミクロ壁の深さが異なることとゲームステージ／エンジン／ランタイムの例はOwner原文 |
+| [D5.3](../../../knowledge/subjects/dev-philosophy/SCB.md#d5-3) | S06 U2、S12 U2 | 幅・粒度・数値例は原文基礎。数値例を全枝一律の壁と読まないことはS12との接続 |
+| [D5.4](../../../knowledge/subjects/dev-philosophy/SCB.md#d5-4) | S03 U8〜U22、S06 U2、S04 U2、S11 U5、S12 U2、S13 A1・U2、S19 U1、S21 U1 | 独立した意味・責任を持つ存在の成立価値はOwner原文S03 U8。独立性がA／NotAの差異と境界の確立に根拠を持つという接続はS19のOwner原文をD5.4へ適用したAssistant編集案 |
+| [D5.5](../../../knowledge/subjects/dev-philosophy/SCB.md#d5-5) | S03 U6・U11、S04 U5〜U6、S06 U2、S02 U3、S12 U1〜U2、S13 A1 | 停止と委譲の区別は原文基礎。各枝で委譲先を別基点として捉えられることは既存原理との接続。唯一解とは限らないという説明は導出案 |
+| [D6.1](../../../knowledge/subjects/dev-philosophy/SCB.md#d6-1) | S04 U7〜U8、S07 U1〜U2、S20 U4、S21 U1、[S28](#s28) | 乖離を認識したまま流さず対処すること、再定義の望ましさと実態修正の余地はOwner原文。認識された乖離と実際の不一致を区別することはOwnerの認識の不完全性に関する発言S20をD6.1へ接続したAssistant編集案。期限内の履行と現在の対処の区別はS28の導出案 |
+| [D6.2](../../../knowledge/subjects/dev-philosophy/SCB.md#d6-2) | S07 U1〜U2、S04 U7〜U8、S05 U6、S06 U2 | A/B/Cの原因分類はOwnerの提示。S07 U2の訂正と旧契約が適合し続ける既存の例に合わせて、見出しと冒頭を「乖離・再定義の検討につながる事情」とする編集案（E07） |
+| [D6.3](../../../knowledge/subjects/dev-philosophy/SCB.md#d6-3) | S07 U1〜U2、S01 U7、S04 U2、S05 U6〜U7、S06 U2、S11 U2・U5 | 堅牢性と親への判断は原文基礎。上位再定義と変更される契約関係は導出案、具体的な運用・権限配置を方法論へ委ねるのはS11のOwner判断 |
+| [D6.4](../../../knowledge/subjects/dev-philosophy/SCB.md#d6-4) | S02 U4〜U5、S03 U4、S05 U5〜U9、S06 U2、S21 U1 | 欲求への遡行・脱皮はOwner原文基礎。外部から推測した隠れた欲求を基準にしない説明は今回のOwner判断を受けた編集案 |
 
 <a id="lineage"></a>
 ## 編集と判断の履歴
@@ -447,5 +447,5 @@ L13で登録したOwner確認候補A・Bについて、Owner判断を得てsourc
 
 本文の具体的な表現やAssistantによる導出は、原文への忠実性と体系内部の整合を吟味する対象である。新しい意味の判断が生じた際は、その対象を特定して新しいsource eventへ記録する。既存定義から説明できる事項は、その説明を本文で整える。
 
-具体的な構成・評価・委譲・検証・運用は、哲学を前提としてDev-Methodologyが実現する。四体系の構成判断は[A3_PHILOSOPHY_SYSTEMS.md](A3_PHILOSOPHY_SYSTEMS.md)、subjectsへの配置と配布に関する工程は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)を参照する。
+具体的な構成・評価・委譲・検証・運用は、哲学を前提としてDev-Methodologyが実現する。四体系の現在の構成は[仮決定版の入口](../../../knowledge/subjects/dev-philosophy/INDEX.md)、配置と配布に関する工程は[Stage 2の進行手順](../STAGE2_WORKFLOW.md)を参照する。
 

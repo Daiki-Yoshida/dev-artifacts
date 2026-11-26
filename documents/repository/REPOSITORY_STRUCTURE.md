@@ -1,8 +1,8 @@
-# Repository Structure — Stage 1
+# Repository Structure
 
 ## 位置づけ
 
-現行`documents-artifacts`と**同じリポジトリ・同じ役割**を継承し、将来GitHub上の名称を`dev-artifacts`に変更する。Stage 1は`refactor/dev-artifacts-restructure`という開発ブランチ上の再構築であり、`main`は変更しない。
+現行`documents-artifacts`と**同じリポジトリ・同じ役割**を継承し、将来GitHub上の名称を`dev-artifacts`に変更する。再構築は開発ブランチ `refactor/dev-artifacts-restructure` で進める。
 
 ```text
 dev-artifacts/
@@ -23,15 +23,17 @@ dev-artifacts/
 │   │   │   └── TRACEABILITY_MODEL.md
 │   │   ├── operations/
 │   │   │   ├── INDEX.md
-│   │   │   └── KNOWLEDGE_UPDATE_WORKFLOW.md
+│   │   │   ├── KNOWLEDGE_UPDATE_WORKFLOW.md
+│   │   │   ├── STAGE2_WORKFLOW.md
+│   │   │   └── stage2/            # 哲学の出典対応・レビュー・監査
 │   │   └── legacy/            # 非現行の旧管理文書・資料
 │   └── knowledge/
 │       ├── INDEX.md
 │       ├── records/
 │       │   └── YYYY-MM-DD-name/
 │       └── subjects/
-│           ├── dev-philosophy/
-│           └── dev-methodology/
+│           ├── dev-philosophy/     # INDEX.mdから四哲学の仮決定本文と用語索引へ
+│           └── dev-methodology/    # 方法論の配置先
 ├── artifacts/                 # Stage 3で構築
 ├── tests/
 ├── install.sh
@@ -43,7 +45,7 @@ dev-artifacts/
 - `repository/models/`は**管理契約**を所有する。哲学の内容を所有しない。
 - `repository/operations/`は管理モデルを参照して具体的な運用手順を定める。
 - `knowledge/records/`は原文記録で、日付＋名称形式を維持する。哲学/方法論の強制区分を行わない。
-- `knowledge/subjects/`は第1層と第2層の意味上の正本。内容と抽出の詳細はStage 2で決める。
+- `knowledge/subjects/`は第1層の哲学と第2層の方法論の正本を置く。[開発哲学の入口](../knowledge/subjects/dev-philosophy/INDEX.md)から、現行の仮決定本文とその根拠を参照できる。
 - `artifacts/`は従来同様、対象プロジェクトの`./documents/artifacts/`への配置とAIエージェントのリポジトリ横断参照を目的とする。Stage 3で形式を決める。
 - `legacy/`は旧文書の比較・歴史参照用であり、現行モデルや運用を定義しない。
 

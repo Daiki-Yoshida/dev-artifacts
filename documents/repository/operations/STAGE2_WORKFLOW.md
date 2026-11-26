@@ -49,6 +49,7 @@ B〜Dの細かい作業手順・完了条件は、この時点で制定されて
 
 - [OwnerがStage 2の工程を決めた原文記録](../../knowledge/records/2026-11-11-stage2-philosophy-first/)
 - [Issue #221](https://github.com/Daiki-Yoshida/documents-artifacts/issues/221)
-- [A-1・A-2の調査資料](stage2/INDEX.md)
+- [A-1・A-2の監査とA-3のレビュー](stage2/INDEX.md)
+- [SERA四哲学の仮決定本文](../../knowledge/subjects/dev-philosophy/INDEX.md)・[仮決定と配置の依頼原文](../../knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
 この手順書はOwnerの判断に基づくリポジトリ運用文書であり、原文recordの代わりではない。

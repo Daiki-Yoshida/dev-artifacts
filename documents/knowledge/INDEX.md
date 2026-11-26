@@ -22,18 +22,16 @@ knowledge/
 
 recordsを根拠としてsemantic completenessと現在評価を維持する正本。第1層`dev-philosophy/`（Owner制定権）と第2層`dev-methodology/`（哲学を実現するAI非依存の方法論）に分かれる。
 
-個々の知識の抽出・分類・配置手順はStage 2で設計し、その後に構築する。現時点の空領域を完成済みの正本として扱わない。
+**[SERA開発哲学（セラ）の仮決定版](subjects/dev-philosophy/INDEX.md)** に四体系の本文を置く。第一哲学は主体（SCB）、第二哲学は環境（EIC）、第三哲学は記録（RTC）、第四哲学は実現（AJF）。名称と責務の採用、四本文の仮決定はそれぞれの判断記録から確認できる。[総称・略名・番号の採用記録](records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)・[四本文の仮決定記録](records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
-**SERA開発哲学（セラ）**は、主体を起点に環境・記録・実現を扱う四つの哲学の総称である。第一哲学は主体（SCB）、第二哲学は環境（EIC）、第三哲学は記録（RTC）、第四哲学は実現（AJF）。四つの文字はこの番号順に各体系の責務を指す。[総称・略名・番号の採用記録](records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
-
-各体系の責務と真名は[体系構成](../repository/operations/stage2/A3_PHILOSOPHY_SYSTEMS.md)、先行する名称や責務の採用判断は[判断の系譜](../repository/operations/stage2/PHILOSOPHY_BASELINE.md)から辿れる。各本文はStage 2-A-3で吟味中の[編集用草案](../repository/operations/stage2/INDEX.md)である。
+草案がどの原文と判断を経て仮決定に至ったかは、[Stage 2のレビューと出典](../repository/operations/stage2/INDEX.md)から辿れる。方法論の抽出は後続の工程で扱う。
 
 ## 情報の判断
 
 - 何がsource eventとして記録されたか：recordsと第0情報源を確認する。
 - どれがcurrentな判断か：Decision LineageとOwner承認を確認する。
 - どの内容が何を所有するか：Dev Layers / Governanceモデルを確認する。
-- 通常の内容参照は制定済みsubjects、疑義があればrecordsへ遡る。
+- 通常の内容参照にはsubjectsを使い、各文書の採用範囲と状態を確認する。疑義があればrecordsへ遡る。
 
 情報源の信頼性と規範的な優先関係は別であり、すべてのファイルをパスの上下で順位づけない。
 
