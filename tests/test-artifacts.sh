@@ -202,7 +202,7 @@ awk '/<!-- remote-delivery-snippet -->/{f=1;next} /<!-- \/remote-delivery-snippe
   > "$README_BOOTSTRAP"
 [[ -s "$README_BOOTSTRAP" ]] || fail "README remote-delivery snippet not found"
 sh -n "$README_BOOTSTRAP" || fail "README bootstrap snippet has a syntax error"
-grep -Fqx 'curl -fsSL https://raw.githubusercontent.com/Daiki-Yoshida/documents-artifacts/main/install.sh | sh' \
+grep -Fqx 'curl -fsSL https://raw.githubusercontent.com/Daiki-Yoshida/dev-artifacts/main/install.sh | sh' \
   "$README_BOOTSTRAP" || fail "README bootstrap is not the canonical one-line curl installer"
 
 BOOT_TMP="$TMP_ROOT/boot-tmp"
@@ -256,10 +256,10 @@ done
 [[ -n "$url" ]] || exit 2
 printf '%s\n' "$url" >> "${TEST_CURL_LOG:?TEST_CURL_LOG is required}"
 case "$url" in
-  https://raw.githubusercontent.com/Daiki-Yoshida/documents-artifacts/main/install.sh)
+  https://raw.githubusercontent.com/Daiki-Yoshida/dev-artifacts/main/install.sh)
     src="${TEST_INSTALL_SOURCE:?TEST_INSTALL_SOURCE is required}"
     ;;
-  https://github.com/Daiki-Yoshida/documents-artifacts/archive/refs/heads/main.tar.gz)
+  https://github.com/Daiki-Yoshida/dev-artifacts/archive/refs/heads/main.tar.gz)
     [[ "${TEST_ARCHIVE_FAIL:-0}" != "1" ]] || exit 22
     src="${TEST_ARCHIVE_SOURCE:?TEST_ARCHIVE_SOURCE is required}"
     ;;
@@ -482,8 +482,8 @@ grep -Fq 'Failed to sync Artifact v2.' "$TMP_ROOT/invalid.log" \
 # than claiming live coverage.
 LIVE_TARGET="$TMP_ROOT/live-target"
 mkdir -p "$LIVE_TARGET/documents"
-RAW_URL="https://raw.githubusercontent.com/Daiki-Yoshida/documents-artifacts/main/install.sh"
-ARCHIVE_URL="https://github.com/Daiki-Yoshida/documents-artifacts/archive/refs/heads/main.tar.gz"
+RAW_URL="https://raw.githubusercontent.com/Daiki-Yoshida/dev-artifacts/main/install.sh"
+ARCHIVE_URL="https://github.com/Daiki-Yoshida/dev-artifacts/archive/refs/heads/main.tar.gz"
 # `curl ... | sh` exits 0 even when curl itself fails (sh sees empty stdin),
 # so the bootstrap only counts as verified once INDEX.md actually lands.
 if timeout 180 bash -c 'cd -- "$1" && TMPDIR="$2" sh "$3" \

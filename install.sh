@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 
-REPOSITORY="Daiki-Yoshida/documents-artifacts"
+REPOSITORY="Daiki-Yoshida/dev-artifacts"
 REF="main"
 ARCHIVE_URL="https://github.com/$REPOSITORY/archive/refs/heads/$REF.tar.gz"
 TARGET="$(pwd -P)"
