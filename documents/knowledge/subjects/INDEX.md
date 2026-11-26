@@ -8,6 +8,7 @@
 
 | Subject | 主な責務 |
 |---|---|
+| [dev-philosophy](dev-philosophy/INDEX.md) | SERA開発哲学の四本文（仮決定版）、用語索引、各体系の出典 |
 | [work-identity](work-identity/INDEX.md) | Work Identity、Work lifecycle、Work Root、Work Documents、Git/worktree、resource ownership |
 | [encapsulation-horizon](encapsulation-horizon/INDEX.md) | 境界をどのscaleで硬化するか、責務・module・内部自由・contractの関係 |
 | [code-design](code-design/INDEX.md) | 選択済みsoftware boundaryをcode structureへ実現し、state/compatibility/verification/performance等を設計する |

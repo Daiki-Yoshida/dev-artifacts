@@ -39,7 +39,9 @@ subject directoryはtopic tagではなく、独立して理解・保守する価
 
 ## File naming
 
-subject内の整理済み本文fileには、公式な構造順・推奨読書順を表す `SNNN_` prefixを付ける。
+個別のsubjectを章に分けた本文fileには、公式な構造順・推奨読書順を表す `SNNN_` prefixを付ける。
+
+[SERA開発哲学の索引](../subjects/dev-philosophy/INDEX.md)は、四つの独立した哲学を一つの体系として引くための入口である。`dev-philosophy/` では体系ごとに採用した略名を本文の参照名とし、`SCB.md`、`EIC.md`、`RTC.md`、`AJF.md` の順を索引に示す。SCBの補助資料は `SCB_GLOSSARY.md` に置く。
 
 ```text
 subjects/<subject>/
