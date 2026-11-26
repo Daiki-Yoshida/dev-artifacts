@@ -1,12 +1,12 @@
-# 環境と独立と制御の哲学（EIC哲学） — 第4哲学・編集用草案
+# 第2哲学　環境と独立と制御の哲学（EIC哲学） — 編集用草案
 
-**第4哲学：責務範囲「環境」、真名「環境と独立と制御の哲学」、略名「EIC哲学」。本文はStage 2-A-3の編集用草案。** [EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。EICはEnvironment / Independence / Controlの頭文字である。 [環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約・境界・独立の相対性に関する判断](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)に基づく。真名・略名は採用済みであり、本文全体の正式制定は別の判断とする。
+**SERA開発哲学の第2哲学。責務範囲「環境」、真名「環境と独立と制御の哲学」、略名「EIC哲学」。本文はStage 2-A-3の編集用草案。** 体系の番号は[SERA開発哲学の命名・番号の採用記録](../../../knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)、真名・略名は[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。EICはEnvironment / Independence / Controlの頭文字である。 [環境の定義・独立に関する対話と草案反映の判断](../../../knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約・境界・独立の相対性に関する判断](../../../knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境に関する判断](../../../knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)に基づく。真名・略名は採用済みであり、本文全体の正式制定は別の判断とする。
 
 本体系は、主体の活動の基盤となる環境に対してSCBを展開する理論哲学である。環境と、環境を通じて行われる行為を、主体と欲求に相対した命名・契約・境界を持つまとまりとして捉える。環境の定義・構成・利用・維持・変更・再形成を、契約と実態の関係から扱う。境界での堅固な契約の履行と内部自由、独立・依存・清潔さ、行為の契約・公布・制御・安全性、再現を、この関係に即して論じる。
 
 開発哲学が対象とするのは、主体が何らかの存在を作り、開発する営み一般である。開発対象や環境を構成する存在が物理的実体を伴うかどうかにかかわらず、意味・状態・関係を主体に相対して捉える。個別の分野における環境の構成、操作、管理手段は、哲学の示す関係を方法論が実現する。
 
-[主体と契約と境界の哲学（SCB哲学）](A3_PHILOSOPHY_DRAFT.md)を根底とする。以下のD番号はSCBの定義を指す。[記録と真実と伝達の哲学（RTC哲学）](A3_TRUTH_SOURCE_DRAFT.md)が担う記録・伝達を参照しつつ、環境そのものの成立と作用を本体系で扱う。環境を整える目的に照らして何が必要で、どこまで満たされたかを判断するときは、[実現と判断と充足の哲学（RJF哲学）](A3_PURPOSE_NECESSITY_DRAFT.md)を参照する。各説明の出典・導出・採否は[レビュー資料](A3_STATE_CONTROL_REVIEW.md)に示す。
+[主体と契約と境界の哲学（SCB哲学）](A3_PHILOSOPHY_DRAFT.md)を根底とする。以下のD番号はSCBの定義を指す。[記録と真実と伝達の哲学（RTC哲学）](A3_TRUTH_SOURCE_DRAFT.md)が担う記録・伝達を参照しつつ、環境そのものの成立と作用を本体系で扱う。環境を整える目的に照らして何が必要で、どこまで満たされたかを判断するときは、[実現と判断と充足の哲学（AJF哲学）](A3_PURPOSE_NECESSITY_DRAFT.md)を参照する。各説明の出典・導出・採否は[レビュー資料](A3_STATE_CONTROL_REVIEW.md)に示す。
 
 <a id="conditions-and-state"></a>
 ## 1．環境の定義と性質
@@ -192,7 +192,7 @@
 
 活動を再開する際は、記録された到達状態や条件を参照しながら現在の実態を捉え、そのまま利用できるもの、再び整える必要があるもの、新しく判断するものを見出す。再開の目的と環境の再現に必要な意味を関係づけて扱う。
 
-RTCは、後の主体が理解し判断できる記録を引き受ける。第4哲学は、記録を手掛かりに活動の環境そのものを成立させ、状態・作用を扱う。情報を保持・伝達する責務と、環境の実態を維持・再形成する責務の関係をここに捉える。
+RTCは、後の主体が理解し判断できる記録を引き受ける。EICは、記録を手掛かりに活動の環境そのものを成立させ、状態・作用を扱う。情報を保持・伝達する責務と、環境の実態を維持・再形成する責務の関係をここに捉える。
 
 環境の具体的な構成、依存の管理、名前や入口の設け方、分離・保護・清掃、再現・診断・復旧の方法は、以上の関係に基づいて方法論が実現する。環境を成立させること、維持・変更すること、必要に応じて再び成立させることは、同じ環境の定義と、主体の欲求・契約に照らして扱う。
 

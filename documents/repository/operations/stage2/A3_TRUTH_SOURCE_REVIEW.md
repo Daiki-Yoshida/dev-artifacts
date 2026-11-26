@@ -1,8 +1,8 @@
-# 記録と真実と伝達の哲学（RTC哲学） — レビュー・出典資料
+# 第3哲学　記録と真実と伝達の哲学（RTC哲学） — レビュー・出典資料
 
-**第2哲学：責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** RTCは**Record / Truth / Communication**の頭文字である。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)を現在の根拠とする。[草案本文](A3_TRUTH_SOURCE_DRAFT.md)はSCB哲学を基礎に、原本の保持と後の主体の理解・判断・利用を一体の責務として説明する。本書は出典、Assistantの導出・補筆、編集の系譜と現在の意味確認を管理する。
+**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** RTCは**Record / Truth / Communication**の頭文字である。[2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)で真名・略名と責務範囲を定め、S16でSERAの第三に位置づけた。[草案本文](A3_TRUTH_SOURCE_DRAFT.md)はSCB哲学を基礎に、原本の保持と後の主体の理解・判断・利用を一体の責務として説明する。本書は出典、Assistantの導出・補筆、編集の系譜と現在の意味確認を管理する。
 
-記録・解釈・理解・伝達とNALを本体系内で扱う。必要性と充足は第3哲学（RJF）、活動の条件・状態・作用と再形成は④を参照する。全体の境界は[四体系の構成判断](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
+記録・解釈・理解・伝達とNALを本体系内で扱う。必要性と充足はAJF、活動の条件・状態・作用と再形成はEICを参照する。全体の境界は[四体系の構成判断](A3_PHILOSOPHY_SYSTEMS.md)を参照する。
 
 <a id="sources"></a>
 ## 出典一覧
@@ -23,7 +23,8 @@
 | S12 | [2026-11-20 四体系の名称・境界の採用と整備依頼](../../../knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md) | 記録と理解・伝達の一体性、当時の名称「真実と記録と伝達の哲学」、他体系との境界を採用。過去の草案を刷新しNALに注意する編集依頼 |
 | S13 | [2026-11-20 哲学草案への具体的な方法論の掲載に関するOwner訂正](../../../knowledge/records/2026-11-20-truth-philosophy-methodology-scope-correction/RECORD.md) | Work・Record・GitHubへの言及はAssistantの理解を助けるためであり、哲学草案へ入れるべきではないという範囲の明示 |
 | S14 | [2026-11-22 SCB・TRCの確定と③④の仮称扱い](../../../knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md) | Owner U1による①②の日本語名確定と③④の仮称扱い、Assistant A1の英語・略称案、U2によるSCB哲学・TRC哲学の採用。TRCはTruth / Record / Communicationに対応する体系全体の略称 |
-| S15 | [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md) | 記録を責務範囲とし第一語へ置く真名と、略名RTCの採用。第1哲学の主体・根源の区別。採用範囲は第1・第2哲学 |
+| S15 | [2026-11-24の名称・責務範囲の採用判断](../../../knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md) | 記録を責務範囲とし第一語へ置く真名と、略名RTCの採用。第1哲学の主体・根源の区別。当時の採用範囲は第1・第2哲学 |
+| S16 | [SERA開発哲学の命名・番号の採用記録](../../../knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md) | SERAで記録を第3哲学に位置づけ、RTCの真名・略名と責務を引き継ぐ。これ以前の出典・編集履歴の番号は各時点の判断を指す |
 
 原文recordsは編集せず、後続判断を既存の閉じたsource bundleへ継ぎ足さない。
 
@@ -185,7 +186,7 @@ S15に基づき、責務範囲を記録と明示し、真名を「記録と真�
 <a id="review-status"></a>
 ## 現在のレビュー状態
 
-**第2哲学：責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** S15に基づく。記録と理解・伝達を一つに引き受ける本質と、他体系との責務境界を保持する。既存6節の本文はこの境界に沿って整備済みである。第3哲学は[責務呼称を「実現の哲学」](../../../knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)とし、[真名「実現と判断と充足の哲学」、略名「RJF哲学」](../../../knowledge/records/2026-11-25-rjf-philosophy-naming-adoption/RECORD.md)を採用した。第4哲学は[EICの真名・略名の採用判断](../../../knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づきEIC哲学とする。独立した「理解と伝達」や「信頼と検証」の体系を追加しないという構成判断は[全体の系譜](A3_PHILOSOPHY_SYSTEMS.md)で扱う。
+**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** 番号はS16、真名・略名と責務範囲はS15に基づく。既存六節は、記録と理解・伝達を一つに引き受ける本質に沿って整備した。環境の再形成は第2哲学（EIC）、目的に照らした判断と充足は第4哲学（AJF）の責務である。「理解と伝達」「信頼と検証」をめぐる構成判断は[四体系の系譜](A3_PHILOSOPHY_SYSTEMS.md)で辿れる。
 
 本文の意味確認では、原本の一次性・非同一性・意図への忠実性を保っているか、主体の変化・逐次記録・評価・訂正・再開・伝達を適切につないでいるかを吟味する。S01・S06・S08・S12・S13のOwner原文と、L04・L05・L07の導出・接続、およびL08の掲載範囲の訂正を辿れるようにした。
 

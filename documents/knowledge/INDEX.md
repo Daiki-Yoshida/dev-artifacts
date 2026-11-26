@@ -24,9 +24,9 @@ recordsを根拠としてsemantic completenessと現在評価を維持する正�
 
 個々の知識の抽出・分類・配置手順はStage 2で設計し、その後に構築する。現時点の空領域を完成済みの正本として扱わない。
 
-第1哲学は主体（SCB）、第2哲学は記録（RTC）の責務範囲と真名・略名を確定した。第3哲学は実現を表、判断を裏とし、[責務呼称を「実現の哲学」とした](records/2026-11-25-third-philosophy-realization-primary/RECORD.md)。真名は「実現と判断と充足の哲学」、略名は「RJF哲学」に確定した。[RJFの真名・略名の採用判断](records/2026-11-25-rjf-philosophy-naming-adoption/RECORD.md)
+**SERA開発哲学（セラ）**は、主体を起点に環境・記録・実現を扱う四つの哲学の総称である。第一哲学は主体（SCB）、第二哲学は環境（EIC）、第三哲学は記録（RTC）、第四哲学は実現（AJF）。四つの文字はこの番号順に各体系の責務を指す。[総称・略名・番号の採用記録](records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
 
-第4哲学は責務範囲を環境とし、真名「環境と独立と制御の哲学」、略名「EIC哲学」を確定した。環境の定義を土台とした草案を整備している。[EICの真名・略名の採用判断](records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)を参照する。[SCB・RTCの名称・責務範囲の採用判断](records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)、[環境の定義と草案反映の判断](records/2026-11-24-environment-definition-and-independence/RECORD.md)を参照する。[Stage 2の入口](../repository/operations/stage2/INDEX.md)から、現在の名称・構成判断・四つの編集用草案・出典へ辿れる。採用済みの意味と、編集中の説明文・今後のsubjects配置を区別して管理する。
+各体系の責務と真名は[体系構成](../repository/operations/stage2/A3_PHILOSOPHY_SYSTEMS.md)、先行する名称や責務の採用判断は[判断の系譜](../repository/operations/stage2/PHILOSOPHY_BASELINE.md)から辿れる。各本文はStage 2-A-3で吟味中の[編集用草案](../repository/operations/stage2/INDEX.md)である。
 
 ## 情報の判断
 

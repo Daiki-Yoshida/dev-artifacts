@@ -35,7 +35,7 @@ artifacts.sh
 
 ## Stage 2 — 哲学先行（進行中）
 
-[Owner採用済みのStage 2 Workflow](documents/repository/operations/STAGE2_WORKFLOW.md) に従い、**A-1/A-2の全件取得・一次意味監査は完了**（旧subjects 70/70、records 206/206）。一次監査で抽出した17件は[当時の完了報告](documents/repository/operations/stage2/A1_A2_COMPLETION_REPORT.md)にある。現在はA-3で、主体・記録・実現・環境を扱う四つの草案をOwnerと吟味している。第3哲学の責務呼称は「実現の哲学」、真名は「実現と判断と充足の哲学」、略名は「RJF哲学」である。各判断の採用範囲と出典は[Stage 2の入口](documents/repository/operations/stage2/INDEX.md)から辿れる。
+[Owner採用済みのStage 2 Workflow](documents/repository/operations/STAGE2_WORKFLOW.md) に従い、**A-1/A-2の全件取得・一次意味監査は完了**（旧subjects 70/70、records 206/206）。一次監査で抽出した17件は[当時の完了報告](documents/repository/operations/stage2/A1_A2_COMPLETION_REPORT.md)にある。現在はA-3で、**SERA開発哲学（セラ）**の四つの本文をOwnerと吟味している。第一は主体（SCB）、第二は環境（EIC）、第三は記録（RTC）、第四は実現（AJF）を扱う。[総称・略名・番号の採用記録](documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)・[四体系の草案](documents/repository/operations/stage2/INDEX.md)
 
 ## Stage 1 の検証
 
