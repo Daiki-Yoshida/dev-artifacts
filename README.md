@@ -1,4 +1,4 @@
-# documents-artifacts
+# dev-artifacts
 
 再利用可能なengineering knowledgeと、そこからproject向けに配布するAI runtime guidanceを管理するrepository。
 
@@ -132,11 +132,13 @@ removeは `documents/artifacts/` 全体を明示的に削除する。project-own
 
 ### GitHub からの直接 install/update
 
+旧名 `documents-artifacts` で導入済みのProjectも、以後は下記のURLで更新できる。配布先は引き続き `documents/artifacts/`。
+
 対象Projectの**Project Root**で、次の1行を実行する。初回installとupdateは同じcommand。
 
 <!-- remote-delivery-snippet -->
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Daiki-Yoshida/documents-artifacts/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/Daiki-Yoshida/dev-artifacts/main/install.sh | sh
 ```
 <!-- /remote-delivery-snippet -->
 
@@ -161,7 +163,7 @@ artifacts.sh
 - **failure safety**: source取得・展開・validationが失敗した場合はmanaged replacementを開始しない。sync失敗時のstage/promote/rollback semanticsは `artifacts.sh` と同じ。
 - **temporary cleanup**: success / failure / signalのいずれでもbootstrap用temporary directoryを削除する。
 - **project-owned files**: `AGENTS.md`、`README.md`、project `documents/INDEX.md` 等には触れない。自動commitもしない。
-- **固定source**: source repositoryは `Daiki-Yoshida/documents-artifacts`、refは `main` 固定。commit/tag/ref選択やbackground updaterは提供しない。
+- **固定source**: source repositoryは `Daiki-Yoshida/dev-artifacts`、refは `main` 固定。commit/tag/ref選択やbackground updaterは提供しない。
 - sync後はtarget repositoryをGitでreviewし、Project側でcommitする。
 
 `artifacts.sh` 単体をraw URLからpipe実行する方法は使わない。sibling `artifacts/` packが必要なため、remote入口は `install.sh` とする。

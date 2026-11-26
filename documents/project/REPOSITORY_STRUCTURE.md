@@ -152,7 +152,7 @@ artifacts.sh
 remote install/updateの標準入口:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Daiki-Yoshida/documents-artifacts/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/Daiki-Yoshida/dev-artifacts/main/install.sh | sh
 ```
 
 `install.sh` はcurrent working directoryをProject Rootとして扱い、既存のreal `./documents/` が無ければfail closedする。bootstrap自身は `documents/` を作らない。GitHub `main` snapshotを一時取得し、そのsnapshot内の `artifacts.sh` へ同期を委譲する。temporary source checkoutはtargetへ残さない。
