@@ -33,11 +33,13 @@ artifacts.sh
 
 `subjects/`と`artifacts/`の旧本文はこのブランチでは外したが、`main`とGit履歴に残る。`records/`は引き継いでいる。空の`artifacts/`を既存プロジェクトへ配布しない。
 
-## Stage 2 — 哲学先行（進行中）
+## Stage 2 — 哲学の先行公開と方法論の草案
 
 [このブランチのSERA開発哲学](documents/knowledge/subjects/dev-philosophy/INDEX.md)は、先行公開時の本文と編集資料を照合するために参照できる。第一は主体（SCB）、第二は環境（EIC）、第三は記録（RTC）、第四は実現（AJF）を扱う。Ownerは方法論の検討へ進む前に、現段階の四本文を仮決定とした。[仮決定の原文記録](documents/knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
 [Stage 2の進行手順](documents/repository/operations/STAGE2_WORKFLOW.md)に沿って、旧subjects 70件・records 206件の[一次監査](documents/repository/operations/stage2/A1_A2_COMPLETION_REPORT.md)、草案の推敲を経て仮配置した。各体系の出典と判断の経過は[Stage 2の作業資料](documents/repository/operations/stage2/INDEX.md)から辿れる。
+
+第2層では、[Work方法論と文書・記録の草案](documents/knowledge/subjects/dev-methodology/INDEX.md)を使って、担当が交代しても判断を引き継げるか、何をもってWorkを終了できるかを検討している。
 
 ## 配置の検証
 

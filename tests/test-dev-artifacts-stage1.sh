@@ -46,12 +46,24 @@ for name in SCB EIC RTC AJF; do
   }
 done
 
-# Methodology and the projected AI guidance belong to later stages.
-for dir in documents/knowledge/subjects/dev-methodology artifacts; do
-  test -f "$dir/.gitkeep" || { echo "placeholder missing: $dir/.gitkeep" >&2; exit 1; }
-  unexpected="$(find "$dir" -mindepth 1 ! -path "$dir/.gitkeep" -print -quit)"
-  test -z "$unexpected" || { echo "unexpected content before methodology extraction or artifact projection: $unexpected" >&2; exit 1; }
+# Stage 2-B starts with two drafts and their source event.
+methodology=documents/knowledge/subjects/dev-methodology
+request=2026-11-26-work-methodology-draft-request/RECORD.md
+require_file "$methodology/INDEX.md"
+require_file "documents/knowledge/records/$request"
+require_file "documents/knowledge/records/${request%/*}/DIALOGUE.md"
+for method in work documentation-records; do
+  require_file "$methodology/$method/INDEX.md"
+  grep -Fq '草案' "$methodology/$method/INDEX.md" || { echo "draft status missing: $method" >&2; exit 1; }
+  grep -Fq "]($method/INDEX.md)" "$methodology/INDEX.md" || { echo "missing methodology route: $method" >&2; exit 1; }
 done
+grep -Fq "](../../records/$request)" "$methodology/INDEX.md" || { echo "methodology request reference missing" >&2; exit 1; }
+grep -Fq '](../documentation-records/INDEX.md)' "$methodology/work/INDEX.md" || { echo "document method reference missing" >&2; exit 1; }
+
+# Stage 3 will build the distributed guidance.
+require_file artifacts/.gitkeep
+unexpected="$(find artifacts -mindepth 1 ! -path artifacts/.gitkeep -print -quit)"
+test -z "$unexpected" || { echo "unexpected content before artifact projection: $unexpected" >&2; exit 1; }
 unexpected="$(find documents/knowledge/subjects -mindepth 1 -maxdepth 1 -type f -print -quit)"
 test -z "$unexpected" || { echo "unexpected root subjects file: $unexpected" >&2; exit 1; }
 
@@ -62,4 +74,4 @@ grep -q "Owner" documents/repository/models/AUTHORITY_GOVERNANCE_MODEL.md
 grep -q "Dev-Philosophy" documents/repository/models/DEV_LAYERS_MODEL.md
 grep -q "Stage 2" documents/repository/models/SUBJECT_MODEL.md
 grep -q "Stage 3" documents/repository/REPOSITORY_STRUCTURE.md
-echo "PASS: dev-artifacts governance layout and Stage 2-A provisional philosophy"
+echo "PASS: dev-artifacts governance layout and Stage 2 philosophy and methodology collections"
