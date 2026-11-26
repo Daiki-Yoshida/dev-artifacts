@@ -146,6 +146,13 @@ subject_dirs=(documents/knowledge/subjects/*/)
 (("${#subject_dirs[@]}" > 0)) || fail "no subjects found"
 for subject in "${subject_dirs[@]}"; do
   require_file "${subject}INDEX.md"
+  if [[ "$subject" == "documents/knowledge/subjects/dev-philosophy/" ]]; then
+    for leaf in SCB EIC RTC AJF SCB_GLOSSARY; do
+      require_file "${subject}${leaf}.md"
+      grep -Fq "](${leaf}.md)" "${subject}INDEX.md" || fail "missing philosophy route: ${leaf}"
+    done
+    continue
+  fi
   docs=("${subject}"S[0-9][0-9][0-9]_*.md)
   (("${#docs[@]}" > 0)) || fail "no SNNN files: $subject"
   for (( i = 0; i < ${#docs[@]}; i++ )); do
@@ -250,6 +257,9 @@ entrypoints=(
   documents/knowledge/subjects/INDEX.md
   documents/knowledge/subjects/*/INDEX.md
   documents/knowledge/subjects/*/S*.md
+  documents/knowledge/subjects/dev-philosophy/*.md
+  documents/knowledge/records/2026-11-26-sera-provisional-adoption/RECORD.md
+  documents/knowledge/records/2026-11-26-dev-artifacts-rename-sera-publication/RECORD.md
   documents/project/KNOWLEDGE_UPDATE_WORKFLOW.md
   documents/project/REPOSITORY_STRUCTURE.md
   documents/project/migration/KNOWLEDGE_MIGRATION_STATUS.md

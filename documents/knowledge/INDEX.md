@@ -71,7 +71,7 @@ subjectsはsemantic knowledgeを捨てず、Decision Lineageを根拠にcurrent 
 
 ## 基本的な読み方
 
-通常は、目的に対応するsubjectから読む。
+通常は、[subjectsの索引](subjects/INDEX.md)から、目的に対応するsubjectを読む。SERA開発哲学の四本文は[哲学の索引](subjects/dev-philosophy/INDEX.md)から参照できる。
 
 ```text
 subjects

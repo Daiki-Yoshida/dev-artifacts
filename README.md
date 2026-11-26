@@ -1,6 +1,8 @@
 # dev-artifacts
 
-再利用可能なengineering knowledgeと、そこからproject向けに配布するAI runtime guidanceを管理するrepository。
+開発哲学と方法論の正本を管理し、そこから導いた開発指示をプロジェクトへ配布するリポジトリ。
+
+[SERA開発哲学](documents/knowledge/subjects/dev-philosophy/INDEX.md)の四本文は仮決定版として公開している。これを基礎とする方法論は策定中で、各プロジェクトには引き続き[現行のArtifact v2](artifacts/INDEX.md)を配布する。
 
 このrepositoryは、**情報の完全性を守る第1情報源**と、**AIのtoken効率・routingを優先する第2情報源**を分離する。
 
@@ -49,7 +51,7 @@ target project / documents/artifacts/
 
 ## Knowledge
 
-`documents/knowledge/` が正本。
+[知識の索引](documents/knowledge/INDEX.md)から、正本とその根拠を辿れる。
 
 - `records/`: 第0情報源を原文のまま保存する。
 - `subjects/`: semantic ownershipで整理した現在のknowledge。

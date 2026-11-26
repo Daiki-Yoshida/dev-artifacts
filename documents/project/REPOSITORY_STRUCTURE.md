@@ -71,13 +71,14 @@ documents/knowledge/
 │     └─ ...
 └─ subjects/
    ├─ INDEX.md
+   ├─ dev-philosophy/       # SERA索引、各哲学の略名による本文、SCB用語索引
    └─ <subject>/
       ├─ INDEX.md
       ├─ S001_<NAME>.md
       └─ ...
 ```
 
-`records/` はsource event・snapshotの原文を保持する。現在は9 subject（encapsulation-horizon、code-design、engineering-operation、documentation、workspace-structure、development-execution、development-safety、work-identity、context-shaping）で整理している。
+`records/` はsource event・snapshotの原文を保持する。[subjectsの索引](../knowledge/subjects/INDEX.md)から、SERA開発哲学の仮決定版と、既存の各subjectへ辿れる。
 
 ## documents/project/
 
