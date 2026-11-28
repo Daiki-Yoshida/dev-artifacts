@@ -2,13 +2,13 @@
 
 2026年11月26日 仮決定版 [仮決定の記録](../../records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
-**SERA開発哲学の第2哲学。責務範囲「環境」、真名「環境と独立と制御の哲学」、略名「EIC哲学」。** 体系の番号は[SERA開発哲学の命名・番号の採用記録](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)、真名・略名は[EICの真名・略名の採用判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。EICはEnvironment / Independence / Controlの頭文字である。 [環境の定義・独立に関する対話と草案反映の判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約・境界・独立の相対性に関する判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境に関する判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)に基づく。
+**SERA開発哲学の第2哲学。責務範囲「環境」、真名「環境と独立と制御の哲学」、略名「EIC哲学」。** 体系の番号は[SERA開発哲学の命名・番号の採用記録](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)、真名・略名は[EICの真名・略名の採用判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-eic-philosophy-naming-adoption/RECORD.md)に基づく。EICはEnvironment / Independence / Controlの頭文字である。 [環境の定義・独立に関する対話と草案反映の判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)、[環境の契約・境界・独立の相対性に関する判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)、[清潔さ・行為の契約・再現環境に関する判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)に基づく。
 
 本体系は、主体の活動の基盤となる環境に対してSCBを展開する理論哲学である。環境と、環境を通じて行われる行為を、主体と欲求に相対した命名・契約・境界を持つまとまりとして捉える。環境の定義・構成・利用・維持・変更・再形成を、契約と実態の関係から扱う。境界での堅固な契約の履行と内部自由、独立・依存・清潔さ、行為の契約・公布・制御・安全性、再現を、この関係に即して論じる。
 
 開発哲学が対象とするのは、主体が何らかの存在を作り、開発する営み一般である。開発対象や環境を構成する存在が物理的実体を伴うかどうかにかかわらず、意味・状態・関係を主体に相対して捉える。個別の分野における環境の構成、操作、管理手段は、哲学の示す関係を方法論が実現する。
 
-[主体と契約と境界の哲学（SCB哲学）](SCB.md)を根底とする。以下のD番号はSCBの定義を指す。[記録と真実と伝達の哲学（RTC哲学）](RTC.md)が担う記録・伝達を参照しつつ、環境そのものの成立と作用を本体系で扱う。環境を整える目的に照らして何が必要で、どこまで満たされたかを判断するときは、[実現と判断と充足の哲学（AJF哲学）](AJF.md)を参照する。各説明の出典・導出・採否は[レビュー資料](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_STATE_CONTROL_REVIEW.md)に示す。
+[主体と契約と境界の哲学（SCB哲学）](SCB.md)を根底とする。以下のD番号はSCBの定義を指す。[記録と真実と伝達の哲学（RTC哲学）](RTC.md)が担う記録・伝達を参照しつつ、環境そのものの成立と作用を本体系で扱う。環境を整える目的に照らして何が必要で、どこまで満たされたかを判断するときは、[実現と判断と充足の哲学（AJF哲学）](AJF.md)を参照する。各説明の出典・導出・採否は[レビュー資料](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_STATE_CONTROL_REVIEW.md)に示す。
 
 <a id="conditions-and-state"></a>
 ## 1．環境の定義と性質
@@ -200,10 +200,10 @@
 
 ## 根拠と関連資料
 
-- [清潔さ・行為の契約・再現環境に関する判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)：契約と実態の乖離、境界に相対する汚染・内部自由・清潔さ、行為の命名・契約・公布と環境の管理責務、安全性、再現活動の環境についてのOwnerの補足と草案整備の依頼。
-- [環境の契約・境界・独立の相対性に関する判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)：環境もSCBのまとまりであり、独立・依存は主体・欲求・契約・境界に相対するというOwnerの説明と、再構築の依頼。
-- [環境の定義・独立に関する対話と草案反映の判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)：責務範囲、適用範囲、環境の定義に対するOwner判断、清潔さ・独立・公布についての発言。
-- [レビュー・出典資料](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_STATE_CONTROL_REVIEW.md)：採用範囲、SCB・RTCからの導出、従来の草案との関係、今後の吟味。
+- [清潔さ・行為の契約・再現環境に関する判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-environment-cleanliness-actions-and-reproduction/RECORD.md)：契約と実態の乖離、境界に相対する汚染・内部自由・清潔さ、行為の命名・契約・公布と環境の管理責務、安全性、再現活動の環境についてのOwnerの補足と草案整備の依頼。
+- [環境の契約・境界・独立の相対性に関する判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)：環境もSCBのまとまりであり、独立・依存は主体・欲求・契約・境界に相対するというOwnerの説明と、再構築の依頼。
+- [環境の定義・独立に関する対話と草案反映の判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-environment-definition-and-independence/RECORD.md)：責務範囲、適用範囲、環境の定義に対するOwner判断、清潔さ・独立・公布についての発言。
+- [レビュー・出典資料](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_STATE_CONTROL_REVIEW.md)：採用範囲、SCB・RTCからの導出、従来の草案との関係、今後の吟味。
 - [四体系の構成](INDEX.md)
 - [開発環境の基本思想の保存原本](../../records/2026-09-21-docs-jp-snapshot/files/docs-jp/development-environment-strategy/DEVELOPMENT_ENVIRONMENT_PHILOSOPHY.md)
-- [Stage 2入口](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/INDEX.md)
+- [Stage 2入口](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/INDEX.md)

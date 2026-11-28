@@ -1,5 +1,7 @@
 # PREPARE_RUN2 — generic-dir-work-runtime second blind run
 
+This is the preparation procedure used for the completed second run. The branch names and commands below describe the workspace at the time. The [evaluation](../../evaluations/generic-dir-work-runtime/2026-10-15-run2.md) and [captured run evidence](../../results/generic-dir-work-runtime/2026-10-15-run2/) are available in this repository.
+
 **Audience: the preparation agent and the evaluator only.**
 
 This file is an operator prompt for preparing and conducting the second

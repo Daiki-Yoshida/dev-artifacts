@@ -2,7 +2,7 @@
 
 2026年11月26日、四つの本文を方法論を検討する際の仮決定版とした。個々の説明の出典と採用範囲は、各本文のレビューに記載している。 [仮決定の記録](../../records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
-**SERA開発哲学（セラ）は、主体を起点に、環境・記録・実現を考える四つの哲学の総称である。** 番号はSERAの文字順に対応する。四体系の真名・略名・責務範囲は確定している。[SERAの総称・番号・AJFの採用記録](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
+**SERA開発哲学（セラ）は、主体を起点に、環境・記録・実現を考える四つの哲学の総称である。** 番号はSERAの文字順に対応する。四体系の真名・略名・責務範囲は確定している。[SERAの総称・番号・AJFの採用記録](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
 
 ## 体系の参照名
 
@@ -35,7 +35,7 @@
 
 本体系は、存在と関係を意味あるまとまりとして捉え、その責務と境界を定義する基礎を担う。他の三体系は、この意味を参照して自身の対象と関係を定める。個々の体系の固有の責務は、それを扱う本文が説明する。
 
-[本文](SCB.md) / [用語索引](SCB_GLOSSARY.md) / [出典・レビュー](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md)
+[本文](SCB.md) / [用語索引](SCB_GLOSSARY.md) / [出典・レビュー](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md)
 
 <a id="4環境と独立と制御の哲学eic哲学"></a>
 <a id="system-4"></a>
@@ -50,9 +50,9 @@
 
 環境はSCBのまとまりであり、定義・命名・本質・契約・境界を一体として持つ。独立性は主体の欲求と環境の契約・境界に相対する。自ら引き受ける管理責務と、外部への依存・委譲の契約を捉え、環境の定義・成立・履行を区別する。
 
-清潔さは内部自由を保ち、境界において契約を堅く履行し、外へ現れるべきでない状態・変化・作用を外側に現れさせず、残さないこととして扱う。環境を通じた行為もSCBのまとまりとして捉える。環境を担う主体がある行為の提供を引き受けたときは、何ができ、どこまで作用するかを利用主体に示す。その契約を公布し、引き受けた責務を環境の構造で履行することが、作用の制御と安全性を支える。再現についても、再現活動の環境とその依存・契約を捉え、再現・管理と包含の関係を区別する。必要性・充足の判断ではAJFを、記録・伝達ではRTCを参照する。[環境の契約・境界・独立の相対性に関する判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)に基づいて本文を再構築した。
+清潔さは内部自由を保ち、境界において契約を堅く履行し、外へ現れるべきでない状態・変化・作用を外側に現れさせず、残さないこととして扱う。環境を通じた行為もSCBのまとまりとして捉える。環境を担う主体がある行為の提供を引き受けたときは、何ができ、どこまで作用するかを利用主体に示す。その契約を公布し、引き受けた責務を環境の構造で履行することが、作用の制御と安全性を支える。再現についても、再現活動の環境とその依存・契約を捉え、再現・管理と包含の関係を区別する。必要性・充足の判断ではAJFを、記録・伝達ではRTCを参照する。[環境の契約・境界・独立の相対性に関する判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-environment-scb-contract-relativity/RECORD.md)に基づいて本文を再構築した。
 
-[本文](EIC.md) / [出典・レビュー](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_STATE_CONTROL_REVIEW.md)
+[本文](EIC.md) / [出典・レビュー](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_STATE_CONTROL_REVIEW.md)
 
 <a id="2記録と真実と伝達の哲学rtc哲学"></a>
 <a id="system-2"></a>
@@ -67,20 +67,20 @@
 
 保存と提示には異なる役割がある。その役割を結び、原本から現在の説明へ、現在の説明から原本と経過へ辿れる関係まで本体系が引き受ける。NALは、そのうち適切な理解と伝達に関わる内容として位置づける。主体としての記録、逐次記録、活動の再開を支える説明もこの責務に含む。
 
-[本文](RTC.md) / [出典・レビュー](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md)
+[本文](RTC.md) / [出典・レビュー](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md)
 
 <a id="3実現と判断と充足の哲学rjf哲学"></a>
 <a id="system-3"></a>
 <a id="actualization"></a>
 ## 4．実現と判断と充足の哲学（AJF哲学）
 
-**責務範囲は実現。一語での呼称は「実現の哲学」。** 実現を表、判断を裏とする。第三語の「充足」は、誰のどの必要が実際にどこまで満たされたかを示す。[AJFとSERA順の採用記録](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
+**責務範囲は実現。一語での呼称は「実現の哲学」。** 実現を表、判断を裏とする。第三語の「充足」は、誰のどの必要が実際にどこまで満たされたかを示す。[AJFとSERA順の採用記録](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
 
 主体が自らの欲求と引き受けた責務に照らして行為を選び、その働きかけが求めた意味をどこまで満たしたかを扱う。実現しようとする意味が、この体系の扱う判断の範囲を定める。主体が何を根拠に関わったかは、行為の選択にも、充足の評価とその後の見直しにも現れる。
 
-AONは、必要な範囲を目的と責務に照らして定める採用済み原則として本文の「必要と選択」で扱う。[AONの位置づけ](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)
+AONは、必要な範囲を目的と責務に照らして定める採用済み原則として本文の「必要と選択」で扱う。[AONの位置づけ](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-third-philosophy-aon-position-correction/RECORD.md)
 
-[本文](AJF.md) / [出典・レビュー](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PURPOSE_NECESSITY_REVIEW.md)
+[本文](AJF.md) / [出典・レビュー](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PURPOSE_NECESSITY_REVIEW.md)
 
 ## 体系間の関係
 
@@ -105,6 +105,8 @@ AJFは、主体が目的と責務に照らして何を必要とし、どう関�
 
 ## 出典と編集の経緯
 
+[仮決定の対象となった四本文・公開時の出典と原文資料](../../records/2026-11-28-sera-provisional-sources/MANIFEST.md)
+
 [既存配布を保ちながら、仮決定版をmainで公開する判断](../../records/2026-11-26-dev-artifacts-rename-sera-publication/RECORD.md)
 
-[体系名と責務の判断の系譜](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_SYSTEMS.md#構成判断の系譜と編集範囲) · [Stage 2の調査・レビュー](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/INDEX.md)
+[体系名と責務の判断の系譜](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_SYSTEMS.md#構成判断の系譜と編集範囲) · [Stage 2の調査・レビュー](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/INDEX.md)
