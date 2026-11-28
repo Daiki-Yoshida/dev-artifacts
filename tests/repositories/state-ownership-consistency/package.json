@@ -1,9 +1,0 @@
-{
-  "name": "state-ownership-consistency",
-  "private": true,
-  "scripts": {
-    "test": "node --test",
-    "consistency-check": "node scripts/consistency-check.js",
-    "verify": "npm test && npm run consistency-check"
-  }
-}

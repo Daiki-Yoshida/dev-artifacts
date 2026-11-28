@@ -1,8 +1,0 @@
-=== git status --short ===
- M src/profile/application/load-profile.js
- M src/profile/index.js
- D src/profile/infrastructure/.gitkeep
-?? src/profile/infrastructure/acme-profile-source.js
-
-=== ignored paths present (names only) ===
-none

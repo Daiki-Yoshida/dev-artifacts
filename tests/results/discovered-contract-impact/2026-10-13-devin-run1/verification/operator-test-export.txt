@@ -1,3 +1,0 @@
-$ bash tests/test-export.sh
-PASS: published export compatibility
-exit_code: 0

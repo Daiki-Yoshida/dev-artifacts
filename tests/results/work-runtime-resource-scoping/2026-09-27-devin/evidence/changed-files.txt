@@ -1,4 +1,0 @@
-M	Makefile
-M	README.md
-M	compose.yml
-M	scripts/resource-identity.js

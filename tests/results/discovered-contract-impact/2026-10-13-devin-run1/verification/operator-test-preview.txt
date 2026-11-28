@@ -1,3 +1,0 @@
-$ bash tests/test-preview.sh
-PASS: staff preview formatting
-exit_code: 0

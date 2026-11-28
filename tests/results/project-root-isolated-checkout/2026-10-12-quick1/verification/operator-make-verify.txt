@@ -1,3 +1,0 @@
-$ make verify
-Project-root-contained validation: PASS
-exit_code: 0

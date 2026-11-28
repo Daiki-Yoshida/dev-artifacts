@@ -1,5 +1,0 @@
-=== git status --short ===
- M src/report.js
-
-=== ignored paths present (names only) ===
-none

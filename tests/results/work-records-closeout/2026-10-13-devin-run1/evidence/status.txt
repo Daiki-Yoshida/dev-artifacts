@@ -1,5 +1,0 @@
-=== git status --short ===
-?? .serena/
-
-=== ignored paths present (names only) ===
-!! .serena/project.local.yml

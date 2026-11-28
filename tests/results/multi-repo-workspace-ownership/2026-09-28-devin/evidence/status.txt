@@ -1,4 +1,0 @@
-=== git status --short ===
-
-=== ignored paths present (names only) ===
-!! components/

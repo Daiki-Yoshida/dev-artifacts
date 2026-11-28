@@ -1,7 +1,0 @@
-=== git status --short ===
- M .github/workflows/ci.yml
- M Makefile
- M package.json
-
-=== ignored paths present (names only) ===
-none
