@@ -1,17 +1,11 @@
 # 第4哲学　実現と判断と充足の哲学（AJF）
 
-Actualization / Judgment / Fulfillment
+SERAの第4哲学は、ある主体が何を実現しようとし、そのために選んだ働きかけが、実際には誰のどんな必要を満たしたのかを扱う。
 
-| 内容 | ファイル |
+| 本文 | 扱う問い |
 | --- | --- |
-| 実現と判断 | `REALIZATION_AND_JUDGMENT.md` |
-| 必要と選択 | `NECESSITY_AND_CHOICE.md` |
-| 充足と判断の更新 | `FULFILLMENT.md` |
-| AONの命名・採用と、実現の哲学での位置づけ | `AON_ADOPTION.md` |
-| 実現の哲学の責務と名称 | `SCOPE_AND_NAMING.md` |
+| [主体が何を実現しようとするか](INTENT_AND_JUDGMENT.md) | ある欲求を自分の目的として引き受けるとき、何を根拠に関わり方を選ぶか。 |
+| [目的に必要な条件と実現手段](NECESSITY_AND_MEANS.md) | 目的の達成に欠かせない条件は何で、その条件を満たす手段にどれだけ選択の余地があるか。 |
+| [充足・寄与・判断の更新](FULFILLMENT_AND_REVISION.md) | 引き受けたことのうち何が実際に成り立ち、何が主体の寄与であり、その後も何を引き受けているか。 |
 
-## 名称の変遷
-
-| 哲学 | SERA採用前 | SERA順 |
-| --- | --- | --- |
-| 実現の哲学 | 第3哲学・RJF | 第4哲学・AJF |
+AJFは *Actualization / Judgment / Fulfillment* の頭文字をとる。検討の途上では第3哲学と呼ばれ、日本語の真名を定めた時点の略名はRJF（*Realization / Judgment / Fulfillment*）だった。SERAの各文字から対象と番号を引けるように、実現には *Actualization* を当て、第4哲学とした。日本語の真名と責務範囲はこの改番を通じて共通している。
