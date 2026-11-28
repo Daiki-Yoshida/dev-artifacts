@@ -97,6 +97,10 @@ documents/project/migration/ARTIFACT_V2_CROSS_FILE_AUTHORITY_AUDIT.md
 
 reviewed candidateは正式 `artifacts/` へpromotion済みであり、candidate directoryを重複保持しない。過程はGit historyと上記auditで追跡する。
 
+## 完了したWorkの記録
+
+[`documents/archive/works/`](../archive/works/) には、作業中に得た判断や検証結果をWorkごとに保存する。[SERAの出典保存とブランチ整理の完了記録](../archive/works/docs/preserve-repository-evidence/records/2026-11-28-closeout.md)から、保存した出典、試験結果、整理後に確認したブランチを辿れる。
+
 ## artifacts/
 
 Artifact v2のAI-facing runtime guidance。
