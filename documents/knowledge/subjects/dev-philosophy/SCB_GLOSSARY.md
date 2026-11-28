@@ -2,11 +2,11 @@
 
 Ownerが採用した名称と用語を、仮決定版での説明先とともに示す。 詳細な意味・条件・例は[SCB本文](SCB.md)が扱う。本書はそこへの参照を所有し、独立した定義の正本とはしない。
 
-哲学名と略称は[2026-11-22の確定判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)、体系の構成と責務境界は[2026-11-20の採用判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)、既存の用語・章名・性質名は[用語の採用判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-14-contract-boundary-terminology-approval/RECORD.md)、体系全体を原則とする位置づけは[後続判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)を根拠とする。各説明の出典と文章化の範囲は[レビュー資料](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)に整理する。
+哲学名と略称は[2026-11-22の確定判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-22-scb-trc-abbreviations-adoption/RECORD.md)、体系の構成と責務境界は[2026-11-20の採用判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)、既存の用語・章名・性質名は[用語の採用判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-14-contract-boundary-terminology-approval/RECORD.md)、体系全体を原則とする位置づけは[後続判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)を根拠とする。各説明の出典と文章化の範囲は[レビュー資料](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)に整理する。
 
 ## 哲学名と章名
 
-**第1哲学：責務範囲「主体」、真名「主体と契約と境界の哲学」、略名「SCB哲学」。役割は、あらゆる存在に対する思考の根源。** **Subject / Contract / Boundary**の頭文字で本体系全体を指す。英語の対応語は、本文で定義された主体・契約・境界を参照する。現在の名称と責務範囲は[2026-11-24の名称・責務範囲の採用判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)を根拠とする。
+**第1哲学：責務範囲「主体」、真名「主体と契約と境界の哲学」、略名「SCB哲学」。役割は、あらゆる存在に対する思考の根源。** **Subject / Contract / Boundary**の頭文字で本体系全体を指す。英語の対応語は、本文で定義された主体・契約・境界を参照する。現在の名称と責務範囲は[2026-11-24の名称・責務範囲の採用判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)を根拠とする。
 
 主体が存在や関係を意味あるまとまりとして定義し、その境界を捉える基礎を担う。SERA開発哲学の四体系の関係と、第一哲学としての位置づけは[体系構成](INDEX.md#subject)を参照する。
 
@@ -64,7 +64,7 @@ Ownerが採用した名称と用語を、仮決定版での説明先とともに
 
 外部媒体の文書・データは実体であり、主体内の情報Pとは区別する。また、熱さや味を直接感じることと、その体験について思考・言及するために認識することも捉え分ける。情報Pは実体の固定複製や記録・知識の集合とは異なり、主体の定義によるまとまりである。
 
-この関係は[S20のOwner原文](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/RECORD.md)に基づく。それに先行する「情報化」「認識＝情報」の検討は[S17](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s17)・[L06](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#l06)から辿れる。現在の説明は後続の概念関係に従って読む。
+この関係は[S20のOwner原文](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-15-recognition-capture-information-virtuality-and-universal-contract-reality-philosophy-baseline/RECORD.md)に基づく。それに先行する「情報化」「認識＝情報」の検討は[S17](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s17)・[L06](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#l06)から辿れる。現在の説明は後続の概念関係に従って読む。
 
 ## 採用した性質の参照名
 

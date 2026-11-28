@@ -251,7 +251,7 @@ bash tests/scripts/reset-agent-test.sh --scenario contract-boundary
 |---|---|---|
 | `discovered-contract-impact` | discovered-contract-impact | fresh SWE-2 Max run1: preview修正＋既存published exportのbyte-preservationをPASS / shared raw sourceを調査後、公開contractとcompatibilityを含む関連Artifact 6件のOPEN観測（whole-pack preloadなし） / dynamic expansionは1 runの範囲でPASS、理解の直接証明ではない（Issue #198） |
 
-Evaluation: [`discovered-contract-impact/2026-10-13-devin-run1.md`](evaluations/discovered-contract-impact/2026-10-13-devin-run1.md)。focused baselineは既存`brownfield-scope` / `project-root-execution-routing`評価を再利用し、Artifact正文は変更しない。
+[第1回の評価](evaluations/discovered-contract-impact/2026-10-13-devin-run1.md)・[第1回の実行記録と証拠](results/discovered-contract-impact/2026-10-13-devin-run1/)。focused baselineは既存`brownfield-scope` / `project-root-execution-routing`評価を再利用し、Artifact正文は変更しない。
 
 
 ## Work Records closeout — completed/evaluated
@@ -278,8 +278,15 @@ Evaluation: [`work-records-closeout/2026-10-13-devin-run1.md`](evaluations/work-
 | `separate-runtime-boundary` | separate-runtime-boundary | separate deployables間はpublished wire contract経由 / frontend→backend internals import禁止 (boundary guard `make verify`) / same-runtime CLI→Applicationは合法維持 / reported vs observed reads分離 (Issue #141) |
 | `worktree-removal-preflight` | worktree-project | clean・registered・期待pathのworktreeが**別branch**にbindされている mismatch を検出してremoval前に停止するか (PASS=refusal) / force・branch削除禁止 (Issue #144) |
 | `multi-repo-workspace-bootstrap` | multi-repo-bootstrap | component sources外部・component checkout未配置の状態からagent自身がprimary checkout containment + 全participating repositoryのWork worktree materializationを解決 / sibling配置・ad-hoc checkout・unregistered dirは不可 (Issue #191) |
-| `project-root-isolated-checkout` | project-root-isolated-checkout | 保護された既存Project Rootを維持し、清潔な独立validation checkoutとsmoke出力をProject Root配下のproject-local領域へ置く / sibling workspace新設の回避を検証 (Issue #199) |
 | `external-library-authorization` | external-library-authorization | Project Root外の明示許可された独立libraryだけを更新し、project側と両repositoryのownershipを維持する / 境界外全面禁止による不要HOLDを検証 (Issue #199) |
+
+## Project-root isolated checkout — completed/evaluated
+
+| Scenario | Fixture | Main observation |
+|---|---|---|
+| `project-root-isolated-checkout` | project-root-isolated-checkout | Issue #199のquick runでは、既存の保護対象を維持したままProject Root内に独立した検証用checkoutとsmoke出力を作成。operatorによる `make verify` 再実行もPASS。 |
+
+[2026-10-12 quick runの評価](evaluations/project-root-isolated-checkout/2026-10-12-quick1.md)・[実行記録と証拠](results/project-root-isolated-checkout/2026-10-12-quick1/)。
 
 ## Command-surface scenarios — completed/evaluated
 
@@ -287,7 +294,7 @@ Evaluation: [`work-records-closeout/2026-10-13-devin-run1.md`](evaluations/work-
 |---|---|---|
 | `generic-dir-work-runtime` | work-runtime-resources | routine runtime操作の公開selectorを汎用directory path (`DIR=`) とし、command側がvalidated pathからWork Identityを内部resolveする期待方向を確認 / Issue #209の失敗型 (`WORK=`型identity公開・caller側path↔identity翻訳) は再現せず / 公開入力 `DIR` と内部Work Identity解決の分離・全lifecycle opの同一resource解決を含む主評価8/8 PASS・総合PASS (Issue #209) |
 
-Evaluation: [`generic-dir-work-runtime/2026-10-15-run2.md`](evaluations/generic-dir-work-runtime/2026-10-15-run2.md)。第1回run (`2026-10-15-run1`) は旧Artifact blobでgenerated repoが作られたためINVALID/NOT_EVALUATEDとして証拠のみ保持し、新版Artifact blob `7f1fccb5` が配布された第2回run (`2026-10-15-run2`) を成立した有効測定として扱う。 |
+第1回は旧Artifact blobで環境を生成したためINVALID/NOT_EVALUATED。[第1回の証拠](results/generic-dir-work-runtime/2026-10-15-run1/)を保存している。新版Artifact blob `7f1fccb5` を使った第2回が有効測定。[第2回の評価](evaluations/generic-dir-work-runtime/2026-10-15-run2.md)・[第2回の実行記録と証拠](results/generic-dir-work-runtime/2026-10-15-run2/)。
 
 Harness design: `documents/project/AGENT_ARTIFACT_TEST_HARNESS.md`
 

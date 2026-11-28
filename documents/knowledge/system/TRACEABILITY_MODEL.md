@@ -30,6 +30,10 @@ sources:
 
 すべてのsentenceへsource markerを付ける必要はない。
 
+## 作業ブランチを閉じた後の参照
+
+このリポジトリで作業ブランチを閉じるときは、後の読者が `main` の索引から当時の判断とその根拠を開けることを確かめる。原文・版付きの資料は `records/`、現在の説明は `subjects/`、完了したWorkの記録は `documents/archive/works/`、試験の原資料と評価はそれぞれ `tests/results/` と `tests/evaluations/` が引き受ける。すでに同じ資料があれば、その保存先へ案内する。コミットIDは出典の版と保存内容を照合するために使える。[保存方針の判断](../records/2026-11-28-evidence-lifecycle/RECORD.md)
+
 ## 主張とsourceの関係
 
 subjectに記述する内容は、次のいずれかとして説明可能である必要がある。

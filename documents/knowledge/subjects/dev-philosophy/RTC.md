@@ -2,13 +2,13 @@
 
 2026年11月26日 仮決定版 [仮決定の記録](../../records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
-**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** 体系の番号は[SERA開発哲学の命名・番号の採用記録](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)に基づく。[2026-11-24の名称・責務範囲の採用判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)に基づき、**Record / Truth / Communication**の頭文字を用いたRTCを体系全体の略名とする。[四体系の構成判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、記録・理解・伝達を一つの体系として扱う。各説明の出典・導出・採否は[レビュー資料](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md)で追跡する。
+**SERA開発哲学の第3哲学。責務範囲「記録」、真名「記録と真実と伝達の哲学」、略名「RTC哲学」。** 体系の番号は[SERA開発哲学の命名・番号の採用記録](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)に基づく。[2026-11-24の名称・責務範囲の採用判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)に基づき、**Record / Truth / Communication**の頭文字を用いたRTCを体系全体の略名とする。[四体系の構成判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、記録・理解・伝達を一つの体系として扱う。各説明の出典・導出・採否は[レビュー資料](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md)で追跡する。
 
 この哲学は、**真実・意図・表現・解釈の関係を踏まえ、主体や時間を越えて情報を保持し、後の主体がその意味を適切に理解・判断・利用できるようにすること**を扱う。当時の表現へ立ち返れることと、その意味を後の主体へ適切に伝えられることを、一体の責務として引き受ける。
 
 主体・仮想・実体・認識・欲求と責務・契約・再定義の定義は、[主体と契約と境界の哲学（SCB哲学）](SCB.md)を基礎とする。本書のD番号は、SCB本文の定義箇所を指す。[実現と判断と充足の哲学（AJF哲学）](AJF.md)は、目的と責務に照らした行為の選択と充足の判断を扱い、[環境と独立と制御の哲学（EIC哲学）](EIC.md)は、活動の条件・状態・作用を把握し、必要な状態を再形成する責務を担う。四体系の境界と関係は[体系構成](INDEX.md)を参照する。
 
-思想の原文は、[真実・原本・解釈・誤情報に関するOwner発言](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)、[記録・主体変化の発言](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[主体としての記録・逐次記録・再現と再開の対話](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)に保存している。本文中のU番号は、最初のOwner発言集の識別子である。
+思想の原文は、[真実・原本・解釈・誤情報に関するOwner発言](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-11-truth-source-interpretation-nal-philosophy-baseline/USER_MESSAGES.md)、[記録・主体変化の発言](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-19-recording-virtual-expression-and-temporal-subject/RECORD.md)、[主体としての記録・逐次記録・再現と再開の対話](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-20-recording-subject-progress-and-resumption/RECORD.md)に保存している。本文中のU番号は、最初のOwner発言集の識別子である。
 
 ## 思想の中心
 
@@ -236,12 +236,12 @@ NALは、この体系の適切な伝達に関わる内容として位置づけ�
 
 本体系が扱うのは、情報を保持し、主体や時間を越えて意味を伝えるための関係と判断である。個別の意図解釈の照合、複製の忠実性の確認、保存・参照・提示の手順は、具体的な対象と目的に即して方法論が実現する。
 
-原本の参照関係、再認識の価値、重さ・型・鍵と認識・境界を結ぶ説明は[レビュー資料のL04](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md#l04)、主体としての記録・逐次記録・再現と再開への接続は[L05](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md#l05)に、根拠とAssistantの導出・発展案を整理している。記録の対象と取得・保持・伝達の範囲は[L11](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md#l11)から辿れる。本文の吟味では、これらの説明がOwnerの意図と既存定義を保っているかを確かめる。
+原本の参照関係、再認識の価値、重さ・型・鍵と認識・境界を結ぶ説明は[レビュー資料のL04](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md#l04)、主体としての記録・逐次記録・再現と再開への接続は[L05](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md#l05)に、根拠とAssistantの導出・発展案を整理している。記録の対象と取得・保持・伝達の範囲は[L11](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md#l11)から辿れる。本文の吟味では、これらの説明がOwnerの意図と既存定義を保っているかを確かめる。
 
 「不正確な地図」の比喩（U6）は、Ownerが考えを説明する補助材料として挙げた発言として原文に保存している。外部作品への帰属と逐語性は未検証であり、本文の意味はOwnerの説明と既存定義に基づいて吟味する。
 
 ## 編集・承認の境界
 
-[2026-11-20の構成判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、本体系では記録・理解・伝達を一体として扱い、主体と契約と境界の哲学を基礎とする。[2026-11-24の名称・責務範囲の採用判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)により、記録を責務範囲とする真名・略名を確定した。名称の確定と本文の個別説明の承認は区別する。
+[2026-11-20の構成判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-20-four-philosophy-systems-adoption/RECORD.md)に基づき、本体系では記録・理解・伝達を一体として扱い、主体と契約と境界の哲学を基礎とする。[2026-11-24の名称・責務範囲の採用判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)により、記録を責務範囲とする真名・略名を確定した。名称の確定と本文の個別説明の承認は区別する。
 
-本文には、Owner原文を既存定義へ接続したAssistantの導出・発展案を含む。体系の採用範囲と、各説明の意味確認・採否を[レビュー資料](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md)で追跡する。新たな判断や訂正は、別のsource eventとして保存する。
+本文には、Owner原文を既存定義へ接続したAssistantの導出・発展案を含む。体系の採用範囲と、各説明の意味確認・採否を[レビュー資料](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_TRUTH_SOURCE_REVIEW.md)で追跡する。新たな判断や訂正は、別のsource eventとして保存する。

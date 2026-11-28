@@ -2,7 +2,7 @@
 
 2026年11月26日 仮決定版 [仮決定の記録](../../records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
-**SERA開発哲学の第4哲学。責務は実現。実現を表、判断を裏とする。** 一語での呼称は「実現の哲学」。真名の三語に Actualization / Judgment / Fulfillment を対応させ、略名を「AJF哲学」とする。[SERA開発哲学の命名・番号の採用記録](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
+**SERA開発哲学の第4哲学。責務は実現。実現を表、判断を裏とする。** 一語での呼称は「実現の哲学」。真名の三語に Actualization / Judgment / Fulfillment を対応させ、略名を「AJF哲学」とする。[SERA開発哲学の命名・番号の採用記録](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-26-sera-philosophy-naming-and-order/RECORD.md)
 
 **主体は、自らの欲求と引き受けた責務に照らして、何を満たそうとし、なぜそのように関わるのかを判断する。実現を問うときは、主体が選んだ関わりが、他の主体の働きやそのときの条件と結びついて、求めた意味を実際にどこまで成り立たせたかを捉える。**
 
@@ -39,7 +39,7 @@ SCBでは、「時刻を知りたい」という欲求と「時刻が分かる�
 >
 > 必要性の判断と、実現方法・費用・実施順序の判断を混同しない。
 
-「すべて」と「だけ」は、同じ目的と責務に照らして判断する。必要な範囲には、表に現れる成果と、それを成り立たせる条件や保証が含まれる。たとえば夜間の読み取りを継続して引き受けるなら、頼りにした街灯が必要な時間帯に点灯することも判断の対象になる。[AONの採用原文（U3）](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-11-aon-principle-adoption-philosophy-baseline/USER_MESSAGES.md)
+「すべて」と「だけ」は、同じ目的と責務に照らして判断する。必要な範囲には、表に現れる成果と、それを成り立たせる条件や保証が含まれる。たとえば夜間の読み取りを継続して引き受けるなら、頼りにした街灯が必要な時間帯に点灯することも判断の対象になる。[AONの採用原文（U3）](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-11-aon-principle-adoption-philosophy-baseline/USER_MESSAGES.md)
 
 手段を加えるときは、それがどの必要を満たすのかを問う。すでに引き受けた保証を支える手段を外すときは、外した後も何がその保証を支えるのかを問う。広場の時計に予備灯を加える理由は、たとえば「一灯が消えても時刻を読める」という条件を引き受けているかで変わる。一方、時計の照明を外して街灯に頼るなら、必要な時間帯に街灯が点くことが根拠になる。消灯時刻が分からない間、街灯だけで足りるかは未判定である。**ある手段の要否を判断できない間も、夜に時刻を読めるようにするという責務は続く。**
 
@@ -83,8 +83,8 @@ SCBでは、適切に分割した責務は、合わせて捉えたときに元�
 
 ## 根拠と関連資料
 
-- [「実現」を表に置く判断と最初の三節の推敲案](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)
-- [SCBから導く三つの問い、乗り継ぎの例と草案への反映指示](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-25-third-philosophy-judgment-and-contribution/RECORD.md)
-- [本文と出典の対応](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PURPOSE_NECESSITY_REVIEW.md#traceability)
+- [「実現」を表に置く判断と最初の三節の推敲案](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-25-third-philosophy-realization-primary/RECORD.md)
+- [SCBから導く三つの問い、乗り継ぎの例と草案への反映指示](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-25-third-philosophy-judgment-and-contribution/RECORD.md)
+- [本文と出典の対応](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PURPOSE_NECESSITY_REVIEW.md#traceability)
 - [四体系の責務境界](INDEX.md#actualization)
-- [Stage 2の入口](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/INDEX.md)
+- [Stage 2の入口](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/INDEX.md)

@@ -2,13 +2,13 @@
 
 2026年11月26日 仮決定版 [仮決定の記録](../../records/2026-11-26-sera-provisional-adoption/RECORD.md)
 
-**SERA開発哲学の第1哲学。責務範囲「主体」、真名「主体と契約と境界の哲学」、略名「SCB哲学」。役割は、あらゆる存在に対する思考の根源。** [2026-11-24の名称・責務範囲の採用判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)に基づき、主体を責務範囲とし、根源を体系全体に対する役割として位置づける。略名SCBは**Subject / Contract / Boundary**の頭文字である。
+**SERA開発哲学の第1哲学。責務範囲「主体」、真名「主体と契約と境界の哲学」、略名「SCB哲学」。役割は、あらゆる存在に対する思考の根源。** [2026-11-24の名称・責務範囲の採用判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-24-scb-rtc-naming-and-responsibility/RECORD.md)に基づき、主体を責務範囲とし、根源を体系全体に対する役割として位置づける。略名SCBは**Subject / Contract / Boundary**の頭文字である。
 
 本体系は、**主体が何を一つの存在として捉え、その存在が何であり、何を担い、他の存在とどう関わるかを定義する体系**である。認識・まとまり・命名・本質・契約・境界の関係を基礎に、主体の欲求と責務、契約の成立と履行、内部自由、分割と統合、乖離と再定義を扱う。
 
 存在や関係を意味あるまとまりとして成立させ、その境界を捉えるための基礎を担う。他の三体系も、自身の対象・主体・責務・境界を捉える際に、この定義を基礎とする。四体系のまとまりと相互関係は[体系構成](INDEX.md)を参照する。
 
-**本体系そのものを原則とし、内部の判断指針はそれぞれの意味と役割で扱う。** 内部の指針に独立した原則名や英語略称は設けない。この位置づけは[Ownerの判断](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)による。用語の入口は[ユビキタス言語](SCB_GLOSSARY.md)、原文と編集判断の対応・採否の経緯は[レビュー資料](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md)に置く。過去の原文はrecords、本文の改訂過程はGit履歴から辿る。
+**本体系そのものを原則とし、内部の判断指針はそれぞれの意味と役割で扱う。** 内部の指針に独立した原則名や英語略称は設けない。この位置づけは[Ownerの判断](../../records/2026-11-28-sera-provisional-sources/files/documents/knowledge/records/2026-11-14-contract-boundary-principle-unification/RECORD.md)による。用語の入口は[ユビキタス言語](SCB_GLOSSARY.md)、原文と編集判断の対応・採否の経緯は[レビュー資料](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md)に置く。過去の原文はrecords、本文の改訂過程はGit履歴から辿る。
 
 D番号は箇所を指定する参照IDである。議論と編集は[Issue #222](https://github.com/Daiki-Yoshida/dev-artifacts/issues/222)、開発哲学全体の構成は[Issue #221](https://github.com/Daiki-Yoshida/dev-artifacts/issues/221)で追跡する。
 
@@ -96,7 +96,7 @@ D番号は箇所を指定する参照IDである。議論と編集は[Issue #222
 
 本体系を独立して理解・判断するために、定義に加え、必要となる背景、他概念との接続、必要な区別、適用例・反例を本文に保持する。具体例が普遍的な命題を説明することと、命題自体が特定領域の操作や手順を規定することは区別する。具体的な実現指針は各領域の方法論が担う。
 
-普遍階層と方法論の責務境界は[S08](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s08)・[S09](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s09)、四体系における本体系の位置づけは[体系構成](INDEX.md)を参照する。
+普遍階層と方法論の責務境界は[S08](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s08)・[S09](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s09)、四体系における本体系の位置づけは[体系構成](INDEX.md)を参照する。
 
 <a id="chapter-1"></a>
 ## 1．まとまりと定義
@@ -150,7 +150,7 @@ D番号は箇所を指定する参照IDである。議論と編集は[Issue #222
 
 **「時計」という命名が向かうのは、「時刻が分かるもの」という本質を持つ仮想的なまとまりである。** この本質を定める問いは、実体である一つの時計や内部構造を対象とする問いとは異なる。「内部を問わない」とは、実現方式の決定を後回しにするための空欄ではなく、その本質を捉えることに内部構造の問いが要らないという意味である。
 
-出典：S01 U2〜U8、S02 U1〜U7、S04 U2〜U3・U6、S05 U2、S10の第5・7・8部Owner発言、S17・S19・S20・S21。認識・情報P・仮想はS20の後続説明に基づく。本質の帰属先と命名の意味はS10を踏まえた文章化を含む。仮想的な意味を撮影対象とする後続判断は[L14](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#l14)を参照。[対応表](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
+出典：S01 U2〜U8、S02 U1〜U7、S04 U2〜U3・U6、S05 U2、S10の第5・7・8部Owner発言、S17・S19・S20・S21。認識・情報P・仮想はS20の後続説明に基づく。本質の帰属先と命名の意味はS10を踏まえた文章化を含む。仮想的な意味を撮影対象とする後続判断は[L14](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#l14)を参照。[対応表](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
 
 <a id="chapter-2"></a>
 ## 2．主体・欲求・責務
@@ -192,7 +192,7 @@ D番号は箇所を指定する参照IDである。議論と編集は[Issue #222
 
 同じ個体が時計の設計者と歯車の製造者を兼ねることもできる。歯車を市販品へ置き換える場合には、その製造を別の主体へ委譲できる。責務を認識すること、その主体として判断すること、別主体へ委譲することを、それぞれの関係として捉える。
 
-出典：S02 U2〜U3、S03 U1〜U3・U6〜U10、S04 U4〜U6。D2.1・D2.2末尾はこれらとS06 U2を接続した導出案（S09 A1）。[対応表](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
+出典：S02 U2〜U3、S03 U1〜U3・U6〜U10、S04 U4〜U6。D2.1・D2.2末尾はこれらとS06 U2を接続した導出案（S09 A1）。[対応表](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
 
 <a id="d2-4"></a>
 ### D2.4 基点主体と担い手
@@ -209,7 +209,7 @@ D番号は箇所を指定する参照IDである。議論と編集は[Issue #222
 
 基点主体の選定は、欲求とまとまりの選定が同じ問いであることの具体化であり、時間とともに選び直せる。既存の下位契約の変更は、その内容と合意に即して別に扱う。同じ物理的個体が複数の主体を担う場合も、どの主体の立場でどの主体との関係を扱うかを明確にする。
 
-出典：S12 U1〜U2、S02 U2〜U3、S04 U4〜U5、S21。「基点主体」はS12 A1へのU2の肯定と、Owner自身によるコンテキスト・直接的欲求の説明に基づく。担い手の包含関係と再定義の接続はAssistantの文章化を含む。集合的担い手の認識についてのOwner判断は[L14](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#l14)、集団の決定と事実上の方向を区別する説明は[S28](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s28)を参照。[対応表](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
+出典：S12 U1〜U2、S02 U2〜U3、S04 U4〜U5、S21。「基点主体」はS12 A1へのU2の肯定と、Owner自身によるコンテキスト・直接的欲求の説明に基づく。担い手の包含関係と再定義の接続はAssistantの文章化を含む。集合的担い手の認識についてのOwner判断は[L14](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#l14)、集団の決定と事実上の方向を区別する説明は[S28](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s28)を参照。[対応表](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
 
 <a id="chapter-3"></a>
 ## 3．契約と内部自由
@@ -272,7 +272,7 @@ D番号は箇所を指定する参照IDである。議論と編集は[Issue #222
 
 各存在が独立した意味を持ち、その内部に自由を持つこと自体に価値がある。変更の局所化や交換の容易さ、効率・生産性は、その構造が適切に成立した結果として得られ得る。
 
-出典：S03 U16〜U17・U20〜U21、S04 U2〜U3、S05 U5〜U6、S06 U2、S11 U2・U5、S18 U1、S20。契約三定義は[S06](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s06)、具象と結びつく合意はS18、方法論の責務境界はS11・S18に基づく。変更時の合意と階層相対的な再定義はS09 A1の導出を含む。委ねた方式の選択と職人の履行条件を結ぶ例は[S27](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s27)の導出案。[訂正の接続](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#lineage)
+出典：S03 U16〜U17・U20〜U21、S04 U2〜U3、S05 U5〜U6、S06 U2、S11 U2・U5、S18 U1、S20。契約三定義は[S06](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s06)、具象と結びつく合意はS18、方法論の責務境界はS11・S18に基づく。変更時の合意と階層相対的な再定義はS09 A1の導出を含む。委ねた方式の選択と職人の履行条件を結ぶ例は[S27](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s27)の導出案。[訂正の接続](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#lineage)
 
 <a id="chapter-4"></a>
 ## 4．相互作用と実態
@@ -312,7 +312,7 @@ D番号は箇所を指定する参照IDである。議論と編集は[Issue #222
 
 変更範囲は、共有実態に対する各契約の内容・関係・履行への影響に照らして捉える。一つの契約内に収まる変更も、他の契約の履行へ影響する場合がある。共通利用の具体的範囲は当該契約が定め、合意形成・相互確証の運用は開発方法論が担う。
 
-出典：S04 U7〜U8、S05 U2〜U7、S06 U2、S11 U2・U5、S20。関係範囲の整理はS09 A1との接続を、方法論の責務分担はS11のOwner判断に基づく文章化を含む。共有を後から認識した場合の説明は[S28](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s28)の導出案。[対応表](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
+出典：S04 U7〜U8、S05 U2〜U7、S06 U2、S11 U2・U5、S20。関係範囲の整理はS09 A1との接続を、方法論の責務分担はS11のOwner判断に基づく文章化を含む。共有を後から認識した場合の説明は[S28](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s28)の導出案。[対応表](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
 
 <a id="chapter-5"></a>
 ## 5．境界面理論
@@ -390,7 +390,7 @@ D番号は箇所を指定する参照IDである。議論と編集は[Issue #222
 
 境界は、時間・欲求・契約の不備・実態との乖離に応じて再評価される。判断指針に従って構造を選ぶことと、全対象・全時点について唯一の最適分割が機械的に定まることは別である。
 
-出典：S02 U2〜U3、S03 U4〜U22、S04 U4〜U6、S06 U2、S12 U1〜U2、S13 U1〜U2・A1、S19・S21。基点主体・各枝の壁はS12、分割を既定とする指針はS03のOwner原文に基づく。指針の接続と方法論の責務境界はS13の検討・Owner承認を踏まえた文章化を含む。[対応表](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
+出典：S02 U2〜U3、S03 U4〜U22、S04 U4〜U6、S06 U2、S12 U1〜U2、S13 U1〜U2・A1、S19・S21。基点主体・各枝の壁はS12、分割を既定とする指針はS03のOwner原文に基づく。指針の接続と方法論の責務境界はS13の検討・Owner承認を踏まえた文章化を含む。[対応表](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)
 
 <a id="chapter-6"></a>
 ## 6．乖離と再定義
@@ -457,12 +457,12 @@ Aが日時計を使いたいのは時刻を知るためであり、Bが目印を
 
 旧契約の継続・変更・終了は、その契約の内容と関係、合意に即して扱う。新たな定義を設けても、旧契約を別のまとまりとして維持する構成はあり得る。再定義だけで旧契約の終了・継承・改訂が自動的に決まるものではない。
 
-出典：S01 U7〜U8、S02 U3〜U5、S03 U4、S04 U7〜U8、S05 U8〜U9、S06 U2、S07 U1〜U2、S11 U2・U5、S20。乖離への対処はS04 U7、再定義の位置づけはS07 U2の訂正、方法論の責務境界はS11に基づく。期限内の履行と期限後の対処の区別は[S28](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s28)の導出案。比較対象・階層と関係・同一性と旧契約はS09 A1の導出を含む。[訂正の接続](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#lineage)
+出典：S01 U7〜U8、S02 U3〜U5、S03 U4、S04 U7〜U8、S05 U8〜U9、S06 U2、S07 U1〜U2、S11 U2・U5、S20。乖離への対処はS04 U7、再定義の位置づけはS07 U2の訂正、方法論の責務境界はS11に基づく。期限内の履行と期限後の対処の区別は[S28](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#s28)の導出案。比較対象・階層と関係・同一性と旧契約はS09 A1の導出を含む。[訂正の接続](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#lineage)
 
 ## 編集と出典
 
 変更箇所は「D3.2の合意」「D5.3の粒度」のように指定できる。D番号は既存の意味の参照先として維持し、章の移動や統合を行う場合はレビュー資料へ対応を残す。
 
-本文は、この体系を現在の意味で理解するために編集する。Owner原文、Assistantによる導出・文章化、採用・訂正の関係は[レビュー資料](https://github.com/Daiki-Yoshida/dev-artifacts/blob/cca44d6c8a1036fce5ea828df1573e69c1b3b2f3/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)から辿る。原文recordsは本文の変更に合わせて書き換えず、採用判断は対象となった意味と範囲に即して扱う。
+本文は、この体系を現在の意味で理解するために編集する。Owner原文、Assistantによる導出・文章化、採用・訂正の関係は[レビュー資料](../../records/2026-11-28-sera-provisional-sources/files/documents/repository/operations/stage2/A3_PHILOSOPHY_REVIEW.md#traceability)から辿る。原文recordsは本文の変更に合わせて書き換えず、採用判断は対象となった意味と範囲に即して扱う。
 
 本体系の既存レビューで独立して維持する未解決論点はない。他体系の名称を含む現在の状態は[体系構成](INDEX.md)を参照する。
