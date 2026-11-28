@@ -1,70 +1,16 @@
 # dev-artifacts
 
-開発哲学と方法論の正本を管理し、そこから導いた開発指示をプロジェクトへ配布するリポジトリ。
+開発に役立つ哲学と方法論を記録・管理し、配布するリポジトリです。ここで扱う開発には、ソフトウェア開発を含む、何かをつくり育てる活動が含まれます。
 
-[SERA開発哲学](documents/knowledge/subjects/dev-philosophy/INDEX.md)の四本文は仮決定版として公開している。これを基礎とする方法論は策定中で、各プロジェクトには引き続き[現行のArtifact v2](artifacts/INDEX.md)を配布する。
+## 構成
 
-このrepositoryは、**情報の完全性を守る第1情報源**と、**AIのtoken効率・routingを優先する第2情報源**を分離する。
-
-## 情報源モデル
-
-```text
-第0情報源
-Chat / Issue / 調査 / 実験 / ユーザー・AIからの提言
-        ↓
-documents/knowledge/records/
-        ↓
-documents/knowledge/subjects/
-第1情報源・正本
-        ↓ projection
-artifacts/
-第2情報源・AI runtime guidance
-        ↓ whole-pack sync
-target project / documents/artifacts/
-```
-
-ファイル化された情報に疑義・矛盾・意味差がある場合は、`documents/knowledge/` を最優先で確認する。
-
-## Repository Layout
-
-```text
-.
-├─ README.md
-├─ install.sh                 # curl | sh remote bootstrap
-├─ artifacts.sh               # managed pack sync/remove implementation
-├─ artifacts/                 # Artifact v2。AI向け第2情報源
-│  ├─ INDEX.md                # 小さいtask router
-│  ├─ design/
-│  ├─ implementation/
-│  ├─ operation/
-│  ├─ documentation/
-│  ├─ project/
-│  ├─ execution/
-│  └─ safety/
-├─ docs-jp/                   # legacy human/source-log領域
-├─ documents/
-│  ├─ INDEX.md
-│  ├─ knowledge/              # 第1情報源
-│  └─ project/                # このrepository自身の運用・migration docs
-└─ tests/
-```
-
-## Knowledge
-
-[知識の索引](documents/knowledge/INDEX.md)から、正本とその根拠を辿れる。
-
-- `records/`: 第0情報源を原文のまま保存する。
-- `subjects/`: semantic ownershipで整理した現在のknowledge。
-- `system/`: knowledge / record / subject / traceability / artifact projection規則。
-
-新しいreusable knowledgeをartifactだけへ直接追加しない。
-
-詳細:
-
-```text
-documents/knowledge/INDEX.md
-documents/project/KNOWLEDGE_UPDATE_WORKFLOW.md
-```
+| パス | 役割 |
+| --- | --- |
+| `documents/records/` | 原文を保存する。 |
+| `documents/subjects/` | 原文の内容を削ったり変換したりせず、主題ごとに整理して収める。 |
+| [`documents/repository/`](documents/repository/INDEX.md) | このリポジトリの管理規則と実施手順を置く。 |
+| [`artifacts/`](artifacts/INDEX.md) | 外部に配布するファイルとフォルダを置く。 |
+| `tests/` | このリポジトリに関するテストを置く。 |
 
 ## Artifact v2
 
@@ -86,8 +32,8 @@ subjectsは**semantic ownership**で正規化し、artifactsは**AI consumption 
 設計とprojection map:
 
 ```text
-documents/project/ARTIFACT_ARCHITECTURE_V2.md
-documents/project/migration/ARTIFACT_PROJECTION_MAP_V2.md
+documents/repository/operations/ARTIFACT_ARCHITECTURE_V2.md
+documents/repository/operations/migration/ARTIFACT_PROJECTION_MAP_V2.md
 ```
 
 ## Distribution
